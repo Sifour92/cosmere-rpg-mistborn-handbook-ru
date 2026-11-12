@@ -1,0 +1,22 @@
+# Локальные зависимости и результаты сборки
+node_modules/
+/dist/
+/releases/
+/coverage/
+*.log
+
+# Внешние исходники, распакованные базы и локальные настройки
+/.local/
+/source/
+*.local.json
+.env
+.env.*
+!.env.example
+
+# Служебные файлы редакторов и macOS
+.DS_Store
+._*
+.idea/
+.vscode/
+*.swp
+*.swo
