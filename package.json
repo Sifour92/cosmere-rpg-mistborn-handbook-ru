@@ -1,6 +1,6 @@
 {
   "name": "cosmere-rpg-mistborn-handbook-ru",
-  "version": "0.0.1",
+  "version": "0.1.9",
   "private": true,
   "description": "Инструменты разработки русского перевода Mistborn Handbook для Foundry VTT.",
   "type": "module",
@@ -8,6 +8,8 @@
     "node": ">=20"
   },
   "scripts": {
-    "check": "node tools/check.mjs && node --check scripts/register.mjs"
+    "check": "node tools/check.mjs && node --check scripts/register.mjs && node --check tools/extract.mjs && node --check tools/verify-overlay.mjs",
+    "check:overlay": "node tools/verify-overlay.mjs",
+    "extract": "node tools/extract.mjs"
   }
 }

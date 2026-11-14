@@ -1,0 +1,69 @@
+/* Только русская версия официального справочника и его импортированных журналов. */
+html[lang="ru"] .sheet.journal-entry.mbjhb {
+  --cosmere-font-normal: Georgia, "Times New Roman", serif;
+  --cosmere-font-header: Georgia, "Times New Roman", serif;
+  --cosmere-font-header-sc: Georgia, "Times New Roman", serif;
+  --mb-font-chapter-header: Georgia, "Times New Roman", serif;
+}
+
+html[lang="ru"] .sheet.journal-entry.mbjhb .journal-entry-page {
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+html[lang="ru"] .sheet.journal-entry.mbjhb .journal-page-header h1 {
+  overflow-wrap: anywhere;
+  line-height: 1.2;
+}
+
+html[lang="ru"] .sheet.journal-entry.mbjhb .mb-chapter-header > div:first-child {
+  height: auto;
+  min-height: 3rem;
+  align-items: center;
+}
+
+html[lang="ru"] .sheet.journal-entry.mbjhb .mb-chapter-header > div:first-child > p:nth-child(2) {
+  min-width: 0;
+  max-width: calc(100% - 2rem);
+  margin: 0;
+  padding: 0.5rem 0.75rem;
+  white-space: normal;
+  text-wrap: wrap;
+  overflow-wrap: anywhere;
+  font-size: 1.5rem;
+  line-height: 1.2;
+  text-align: center;
+}
+
+html[lang="ru"] .sheet.journal-entry.mbjhb .mb-chapter-header > div:first-child > p:first-child,
+html[lang="ru"] .sheet.journal-entry.mbjhb .mb-chapter-header > div:first-child > p:last-child {
+  flex: 1 0 1rem;
+  align-self: stretch;
+}
+
+/* Высота обложки растёт вместе с названием; источник остаётся под ним. */
+html[lang="ru"] .compendium-sidebar .compendium[data-pack="cosmere-rpg-mistborn-handbook.handbook"] {
+  height: auto;
+  min-height: 70px;
+}
+
+html[lang="ru"] .compendium-sidebar .compendium[data-pack="cosmere-rpg-mistborn-handbook.handbook"] > .compendium-banner {
+  position: absolute;
+  inset: 0;
+}
+
+html[lang="ru"] .compendium-sidebar .compendium[data-pack="cosmere-rpg-mistborn-handbook.handbook"] > .compendium-name {
+  position: relative;
+  inset: auto;
+  width: 100%;
+  min-height: 70px;
+  box-sizing: border-box;
+  padding: 8px 24px 24px 8px;
+}
+
+html[lang="ru"] .compendium-sidebar .compendium[data-pack="cosmere-rpg-mistborn-handbook.handbook"] > .compendium-name strong {
+  min-width: 0;
+  overflow-wrap: anywhere;
+  font-family: Georgia, "Times New Roman", serif;
+}

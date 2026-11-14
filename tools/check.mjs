@@ -35,13 +35,18 @@ assert.equal(project.version, manifest.version, 'Версии пакетов д�
 assert.equal(project.private, true);
 assert.equal(manifest.compatibility.minimum, '13.346');
 assert.equal(manifest.compatibility.maximum, '13');
+assert.equal((manifest.packs ?? []).length, 0,
+  'Модуль перевода должен использовать компендиумы официального модуля');
+assert.equal((manifest.packFolders ?? []).length, 0,
+  'Модуль перевода не должен создавать отдельную папку книги');
 assert(manifest.relationships.systems.some(system => system.id === 'cosmere-rpg'));
 for (const id of ['cosmere-rpg-mistborn-handbook', 'babele']) {
-  assert(manifest.relationships.requires.some(dependency => dependency.id === id),
+  assert(manifest.relationships.requires.some(dependency => dependency.id === id && dependency.type === 'module'),
     `Не объявлена зависимость: ${id}`);
 }
 assert(manifest.esmodules.includes('scripts/register.mjs'));
 for (const script of manifest.esmodules) await requireFile(script);
+for (const stylesheet of manifest.styles ?? []) await requireFile(stylesheet);
 await requireFile(manifest.readme);
 
 const language = manifest.languages.find(entry => entry.lang === 'ru');

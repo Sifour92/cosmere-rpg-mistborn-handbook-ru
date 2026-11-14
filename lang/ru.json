@@ -1,1 +1,138 @@
-{}
+{
+  "COSMERE": {
+    "Actor": {
+      "Skill": {
+        "all": "Алломантия (Allomancy)",
+        "fer": "Ферухимия (Feruchemy)"
+      }
+    },
+    "Currency": {
+      "Boxings": "Боксинги (Boxings)"
+    },
+    "Item": {
+      "Action": {
+        "Type": {
+          "MetallicArts": {
+            "Label": "Действие Металлических искусств (Metallic Arts Action)",
+            "LabelPlural": "Действия Металлических искусств (Metallic Arts Actions)"
+          }
+        }
+      },
+      "Ancestry": {
+        "Type": {
+          "Human": "Человек (Human)",
+          "KolossBlooded": "Колосс-кровный (Koloss-Blooded)",
+          "Kandra": "Кандра (Kandra)"
+        }
+      },
+      "Armor": {
+        "Trait": {
+          "Fragile": "Хрупкое (Fragile)"
+        },
+        "Type": {
+          "Breastplate": "Кираса (Breastplate)",
+          "CeramicBreastplate": "Керамическая кираса (Ceramic Breastplate)",
+          "HalfPlate": "Полулаты (Half-Plate)",
+          "Leather": "Кожаная (Leather)",
+          "Mistcloak": "Туманный плащ (Mistcloak)",
+          "Mistcoat": "Туманный плащ-пыльник (Mistcoat)",
+          "Uniform": "Мундир (Uniform)",
+          "WoodenHalfPlate": "Деревянные полулаты (Wooden Half-Plate)"
+        }
+      },
+      "Culture": {
+        "Type": {
+          "InnerDominances": "Внутренние Доминионы (Inner Dominances)",
+          "Luthadel": "Лютадель (Luthadel)",
+          "OuterDominances": "Внешние Доминионы (Outer Dominances)",
+          "Skaa": "Скаа (Skaa)",
+          "TerrisDominance": "Доминион Террис (Terris Dominance)",
+          "Elendel": "Элендель (Elendel)",
+          "KolossBlooded": "Колосс-кровный (Koloss-Blooded)",
+          "Malwish": "Малвиш (Malwish)",
+          "OuterCities": "Внешние города (Outer Cities)",
+          "TerrisEnclaves": "Террисийские анклавы (Terris Enclaves)",
+          "Roughs": "Дикоземье (The Roughs)",
+          "HighSociety": "Высший свет (High Society)",
+          "KandraHomeland": "Родина кандра (Kandra Homeland)",
+          "Underworld": "Преступный мир (Underworld)",
+          "Wayfarer": "Странник (Wayfarer)"
+        }
+      },
+      "Equipment": {
+        "Type": {
+          "Metalmind": "Металлопамять (Metalmind)"
+        }
+      },
+      "Weapon": {
+        "Trait": {
+          "SingleUse": "Одноразовое (Single Use)",
+          "Blast": "Взрывное (Blast)"
+        },
+        "Type": {
+          "Axe": "Топор (Axe)",
+          "Crossbow": "Арбалет (Crossbow)",
+          "DuelingCane": "Дуэльная трость (Dueling Cane)",
+          "GlassDagger": "Стеклянный кинжал (Glass Dagger)",
+          "Hammer": "Молот (Hammer)",
+          "Knife": "Нож (Knife)",
+          "KolossBlade": "Клинок колосса (Koloss Blade)",
+          "Longbow": "Длинный лук (Longbow)",
+          "Longspear": "Длинное копьё (Longspear)",
+          "Longsword": "Длинный меч (Longsword)",
+          "Mace": "Булава (Mace)",
+          "ObsidianAxe": "Обсидиановый топор (Obsidian Axe)",
+          "Poleaxe": "Алебарда (Poleaxe)",
+          "Shield": "Щит (Shield)",
+          "Shortbow": "Короткий лук (Shortbow)",
+          "Shortspear": "Короткое копьё (Shortspear)",
+          "Sidesword": "Поясной меч (Sidesword)",
+          "Sling": "Праща (Sling)",
+          "Soundstick": "Звуковая палка (Soundstick)",
+          "WoodenShield": "Деревянный щит (Wooden Shield)",
+          "WoodenStaff": "Деревянный посох (Wooden Staff)",
+          "BoltRifle": "Болтовая винтовка (Bolt Rifle)",
+          "BootPistol": "Сапожный пистолет (Boot Pistol)",
+          "Carbine": "Карабин (Carbine)",
+          "ConcussionGrenade": "Контузионная граната (Concussion Grenade)",
+          "Dynamite": "Динамит (Dynamite)",
+          "FragmentationGrenade": "Фрагментационная граната (Fragmentation Grenade)",
+          "HandCannon": "Ручная пушка (Hand Cannon)",
+          "HuntingRifle": "Охотничье ружьё (Hunting Rifle)",
+          "Revolver": "Револьвер (Revolver)",
+          "RotaryGun": "Ротационный пулемёт (Rotary Gun)",
+          "Shotgun": "Дробовик (Shotgun)",
+          "SnubNosePistol": "Короткоствольный пистолет (Snub Nose Pistol)"
+        }
+      },
+      "Power": {
+        "Type": {
+          "MetallicArt": {
+            "Label": "Металлическое искусство (Metallic Art)",
+            "LabelPlural": "Металлические искусства (Metallic Arts)"
+          }
+        }
+      },
+      "Path": {
+        "Type": {
+          "Metalborn": "Металлорождённый (Metalborn)"
+        }
+      }
+    },
+    "Skill": {
+      "all": "Алломантия (Allomancy)",
+      "fer": "Ферухимия (Feruchemy)"
+    },
+    "Theme": {
+      "Mistborn": "Рождённый туманом (Mistborn)"
+    },
+    "Notification": {
+      "Kandra": {
+        "CreateBones": {
+          "Failed": "Не удалось создать новые кости (bones) у персонажа {actor} из персонажа {targetedActor}",
+          "Created": "Создан новый предмет «кости» (bones) у персонажа {actor} из персонажа {targetedActor}"
+        }
+      }
+    }
+  }
+}

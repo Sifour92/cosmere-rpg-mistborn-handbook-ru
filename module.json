@@ -1,8 +1,8 @@
 {
   "id": "cosmere-rpg-mistborn-handbook-ru",
-  "title": "Справочник «Рождённый туманом» (Mistborn Handbook) — русский перевод",
-  "description": "Модуль русского перевода Mistborn Handbook. Начальный каркас проекта; переводы ещё не включены.",
-  "version": "0.0.1",
+  "title": "Русский перевод для официального Mistborn Handbook",
+  "description": "Русский перевод для официального cosmere-rpg-mistborn-handbook. Требует активного оригинала и Babele. Включает 38 страниц главы 6, пять таблиц, 25 сил, 39 вложенных действий и 76 строк интерфейса.",
+  "version": "0.1.9",
   "compatibility": {
     "minimum": "13.346",
     "maximum": "13"
@@ -23,14 +23,16 @@
         "id": "babele",
         "type": "module",
         "compatibility": {
-          "minimum": "2.7.0",
-          "maximum": "2.7.999"
+          "minimum": "2.8.0"
         }
       }
     ]
   },
   "esmodules": [
     "scripts/register.mjs"
+  ],
+  "styles": [
+    "styles/translation.css"
   ],
   "languages": [
     {
