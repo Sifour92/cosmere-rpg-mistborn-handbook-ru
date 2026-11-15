@@ -70,7 +70,10 @@ html[lang="ru"] .compendium-sidebar .compendium[data-pack="cosmere-rpg-mistborn-
 
 /* Подсказки (таланты, состояния): системный вес 600 для кириллицы выглядит слишком жирным. */
 html[lang="ru"] #tooltip {
+  --cosmere-font-normal: Georgia, "Times New Roman", serif;
+  font-family: Georgia, "Times New Roman", serif;
   font-weight: 400;
+  line-height: 1.35;
 }
 
 html[lang="ru"] #tooltip b,
