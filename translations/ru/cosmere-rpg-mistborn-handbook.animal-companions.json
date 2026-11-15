@@ -1,0 +1,263 @@
+{
+  "mapping": {
+    "tokenName": {
+      "path": "prototypeToken.name",
+      "converter": "name"
+    },
+    "items": {
+      "path": "items",
+      "converter": "document",
+      "documentType": "Item",
+      "cardinality": "many"
+    }
+  },
+  "folders": {
+    "Tier 1": "Тир 1 (Tier 1)",
+    "Animals": "Животные (Animals)",
+    "Tier 2": "Тир 2 (Tier 2)"
+  },
+  "entries": {
+    "1iMrQHNS7Omm4AVo": {
+      "name": "Сокол (Falcon)",
+      "tokenName": "Сокол (Falcon)",
+      "items": {
+        "4x2GR5fd8OYIOFFO": {
+          "name": "Обострённые чувства (Enhanced Senses)",
+          "description": "<p>[[lookup @actor.name]]{Имя существа} получает преимущество (advantage) на проверки, не являющиеся атаками, которые зависят от зрения.</p>"
+        },
+        "8QtSOOkb5OqpJaht": {
+          "name": "Умелый (Skilled)",
+          "description": "<p>[[lookup @actor.name]]{Имя существа} получает один дополнительный ранг в одном навыке по вашему выбору. Это значение растёт до двух дополнительных рангов на тире 2 и до трёх дополнительных рангов на тире 3.</p>"
+        },
+        "DMTq4swbKFXw8vAt": {
+          "name": "Удар: коготь (Strike: Claw)",
+          "description": "<p><strong>Атака (Attack) </strong>+5; <strong>Досягаемость (Reach)</strong> 5 фт.; <strong>Цели (Targets) </strong>одна;</p><p><strong>Задевание (Graze)</strong> [[damage 1d4 Keen average]];</p><p><strong>Попадание (Hit)</strong> [[damage 1d4 + 5 Keen average]].</p>"
+        },
+        "FrY3KCoJefhHJCyi": {
+          "name": "Быстроногий (Fleet)",
+          "description": "<p>Увеличьте одну или несколько скоростей передвижения существа на 10 футов.</p>"
+        },
+        "Ug0pU3srQvJL47mh": {
+          "name": "Рождённый в небе (Skyborn)",
+          "description": "<p>[[lookup @actor.name]]{Имя существа} не провоцирует @UUID[Compendium.cosmere-rpg-mistborn-handbook.actions.Item.QpFIxaoCBezzt6yw]{Удары реакцией (Reactive Strikes)}, пока летит.</p>"
+        },
+        "rzYQeqWka9rcBEnJ": {
+          "name": "Приспешник (Minion)",
+          "description": "<p>Атаки существа не могут быть критическими попаданиями, и оно немедленно считается побеждённым, когда получает травму (injury).</p>"
+        }
+      }
+    },
+    "7MHG6pbbTpXgfYOF": {
+      "name": "Змея (Snake)",
+      "tokenName": "Змея (Snake)",
+      "items": {
+        "4NwYXQW2D98rEwNv": {
+          "name": "Приспешник (Minion)",
+          "description": "<p>Атаки существа не могут быть критическими попаданиями, и оно немедленно считается побеждённым, когда получает травму (injury).</p>"
+        },
+        "4Tp8oZUzHHWCBhuW": {
+          "name": "Чешуя (Scales)",
+          "description": "<p>Увеличьте значение отражения (deflect) существа на +2. </p>"
+        },
+        "8THTT68P3VJsHf3P": {
+          "name": "Проворный (Nimble)",
+          "description": "<p>[[lookup @actor.name]]{Имя существа} может проходить через пространства врагов и может закончить свой ход в одном пространстве с согласным персонажем. Пока [[lookup @actor.name]]{Имя существа} занимает одно пространство с другим персонажем, его нельзя задеть (graze), а атаки против него получают помеху (disadvantage).</p>"
+        },
+        "YTTK9hB4jOEk2hJY": {
+          "name": "Обтекаемый (Sleek)",
+          "description": "<p>[[lookup @actor.name]]{Имя существа} считается существом на один размер меньше, когда протискивается в более тесные пространства.</p>"
+        },
+        "cwXPnnlwIy9hmGyF": {
+          "name": "Удар: укус (Strike: Bite)",
+          "description": "<p><strong>Атака (Attack) </strong>+4; <strong>Досягаемость (Reach)</strong> 5 фт.; <strong>Цели (Targets) </strong>одна;</p><p><strong>Задевание (Graze)</strong> [[damage 1d4 Keen average]];</p><p><strong>Попадание (Hit)</strong> [[damage 1d4 + 4 Keen average]], если цель Большая (Large) или меньше, [[lookup @actor.name]]{Имя существа} может потратить 1 фокус (focus), чтобы сбить цель с ног (состояние Сбит с ног (Prone)), затем переместиться до 10 футов, таща цель за собой.</p>"
+        },
+        "qirqywiPL0ASwZ1X": {
+          "name": "Обострённые чувства (Enhanced Senses)",
+          "description": "<p>[[lookup @actor.name]]{Имя существа} получает преимущество (advantage) на проверки, не являющиеся атаками, которые зависят от зрения.</p>"
+        }
+      }
+    },
+    "H7hrvJCAy7Cwf1c2": {
+      "name": "Лошадь (Horse)",
+      "tokenName": "Лошадь (Horse)",
+      "items": {
+        "CEnSStcrovyhWXRg": {
+          "name": "Вьючное животное (Beast of Burden)",
+          "description": "<p>Грузоподъёмность существа — 500 фнт.</p>"
+        },
+        "TSYguqvdBI5MUmKx": {
+          "name": "Пинок (Kick)",
+          "description": "<p><strong>Атака (Attack)</strong> +6; <strong>Досягаемость (Reach)</strong> 5 фт.; <strong>Цели (Targets)</strong> одна;</p><p><strong>Задевание (Graze)</strong> [[damage 1d8 Impact average]];</p><p><strong>Попадание (Hit)</strong> [[damage 1d8 + 6 Impact average]], если цель Средняя (Medium) или меньше, её отбрасывает на 10 футов.</p>"
+        },
+        "uM9ycGf3XilwRR1J": {
+          "name": "Натиск (Charge)",
+          "description": "<p>[[lookup @actor.name]]{Имя существа} перемещается на расстояние до своей скорости передвижения по прямой, не провоцируя Удары реакцией (Reactive Strikes). Во время этого движения [[lookup @actor.name]]{Имя существа} может проходить через пространства Средних (Medium) и меньших врагов, растаптывая их. Каждый Средний (Medium) или меньший враг, в чьё пространство входит [[lookup @actor.name]]{Имя существа}, должен преуспеть в [[test dc=15 skill=ath]] или оказаться @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#prone]{Сбит с ног (Prone)} и получить [[damage 2d6 Impact]].</p>"
+        },
+        "xcVjFUbn6UnTl7bc": {
+          "name": "Удар: копыта (Strike: Hooves)",
+          "description": "<p><strong>Атака (Attack)</strong> +6; <strong>Досягаемость (Reach)</strong> 5 фт.; <strong>Цели (Targets)</strong> одна;</p><p><strong>Задевание (Graze)</strong> [[damage 1d6 Keen average]];</p><p><strong>Попадание (Hit)</strong> [[damage 1d6 + 6 Keen average]]</p>"
+        }
+      }
+    },
+    "JPm1dYVSf2H74FLY": {
+      "name": "Кошка (Cat)",
+      "tokenName": "Кошка (Cat)",
+      "items": {
+        "GXthFYD7h0hie2Cy": {
+          "name": "Проворный (Nimble)",
+          "description": "<p>[[lookup @actor.name]]{Имя существа} может проходить через пространства врагов и может закончить свой ход в одном пространстве с согласным персонажем. Пока [[lookup @actor.name]]{Имя существа} занимает одно пространство с другим персонажем, его нельзя задеть (graze), а атаки против него получают помеху (disadvantage).</p>"
+        },
+        "LqmQZzGZxWqg2gCu": {
+          "name": "Обострённые чувства (Enhanced Senses)",
+          "description": "<p>[[lookup @actor.name]]{Имя существа} получает преимущество (advantage) на проверки, не являющиеся атаками, которые зависят от зрения.</p>"
+        },
+        "Tgvxn1SO81fBWq0H": {
+          "name": "Приспешник (Minion)",
+          "description": "<p>Атаки существа не могут быть критическими попаданиями, и оно немедленно считается побеждённым, когда получает травму (injury).</p>"
+        },
+        "WjR7jt4dC3eEY4P1": {
+          "name": "Удар: укус (Strike: Bite)",
+          "description": "<p><strong>Атака (Attack) </strong>+4; <strong>Досягаемость (Reach)</strong> 5 фт.; <strong>Цели (Targets) </strong>одна;</p><p><strong>Задевание (Graze)</strong> [[damage 1d4 Keen average]];</p><p><strong>Попадание (Hit)</strong> [[damage 1d4 + 4 Keen average]].</p>"
+        },
+        "itNSGMMn6aNNQXSq": {
+          "name": "Скрытный скалолаз (Furtive Climber)",
+          "description": "<p>Лазание и скрытное передвижение не делают так, чтобы [[lookup @actor.name]]{Имя существа} получал состояние Замедлен (Slowed).</p>"
+        }
+      }
+    },
+    "PIEslYtCt6H49FEx": {
+      "name": "Лев (Lion)",
+      "tokenName": "Лев (Lion)",
+      "items": {
+        "LDL6RgUqkaNQY9Ab": {
+          "name": "Засадник (Ambusher)",
+          "description": "<p>В начале каждой сцены, если [[lookup @actor.name]]{Имя существа} не @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#surprised]{Застигнут врасплох (Surprised)}, он может совершить [[test skill=stl]] против наивысшей Духовной защиты (Spiritual defense) среди своих врагов. При успехе [[lookup @actor.name]]{Имя существа} делает быстрый ход перед всеми остальными персонажами (это не считается его ходом в этом раунде).</p>"
+        },
+        "QXAvZ7ghkpy5ggFi": {
+          "name": "Удар: коготь (Strike: Claw)",
+          "description": "<p><strong>Атака (Attack) </strong>+7; <strong>Досягаемость (Reach)</strong> 5 фт.; <strong>Цели (Targets) </strong>одна;</p><p><strong>Задевание (Graze)</strong> [[damage 1d8 Keen average]];</p><p><strong>Попадание (Hit)</strong> [[damage 1d8 + 7 Keen average]].</p>"
+        },
+        "V7j3IzQjoR5X9Jvh": {
+          "name": "Прыжок на добычу (Pounce)",
+          "description": "<p>[[lookup @actor.name]]{Имя существа} прыгает в свободное пространство на расстояние до своей скорости передвижения. Если он приземляется в пределах 5 футов от врага, [[lookup @actor.name]]{Имя существа} совершает против него атаку «Когти» (Claw). При попадании, если цель Средняя (Medium) или меньше, [[lookup @actor.name]]{Имя существа} сбивает её с ног: цель становится @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#prone]{Сбит с ног (Prone)}.</p>"
+        },
+        "ufvTgB7q21nK4nCq": {
+          "name": "Обострённые чувства (Enhanced Senses)",
+          "description": "<p>[[lookup @actor.name]]{Имя существа} получает преимущество (advantage) на проверки, не являющиеся атаками, которые зависят от зрения.</p>"
+        },
+        "yIamT0qL78rukILm": {
+          "name": "Безжалостный хищник (Ruthless Predator)",
+          "description": "<p>Когда [[lookup @actor.name]]{Имя существа} атакует и попадает по врагу, который ещё не ходил в этом раунде, атака наносит дополнительные [[/roll 1d8]] урона.</p>"
+        }
+      }
+    },
+    "QF0Iq44KGXjVEJza": {
+      "name": "Ворон (Raven)",
+      "tokenName": "Ворон (Raven)",
+      "items": {
+        "PcOskWFwISjozeZm": {
+          "name": "Рождённый в небе (Skyborn)",
+          "description": "<p>[[lookup @actor.name]]{Имя существа} не провоцирует @UUID[Compendium.cosmere-rpg-mistborn-handbook.actions.Item.QpFIxaoCBezzt6yw]{Удары реакцией (Reactive Strikes)}, пока летит.</p>"
+        },
+        "U7KiqXoKgSPXf9l2": {
+          "name": "Удар: коготь (Strike: Claw)",
+          "description": "<p><strong>Атака (Attack) </strong>+5; <strong>Досягаемость (Reach)</strong> 5 фт.; <strong>Цели (Targets) </strong>одна;</p><p><strong>Задевание (Graze)</strong> [[damage 1d4 Keen average]];</p><p><strong>Попадание (Hit)</strong> [[damage 1d4 + 5 Keen average]].</p>"
+        },
+        "VXRUjLW7TZGYJUqR": {
+          "name": "Быстрый взмах (Swift Swipe)",
+          "description": "<p>Когда [[lookup @actor.name]]{Имя существа} совершает атаку «Когти» (Claw) или проверку «Воровства» (Thievery), если он в этот ход переместился как минимум на 10 футов по прямой в сторону цели, он получает преимущество (advantage) на проверку.</p>"
+        },
+        "iFQNj5jWmPoWGRpR": {
+          "name": "Обострённые чувства (Enhanced Senses)",
+          "description": "<p>[[lookup @actor.name]]{Имя существа} получает преимущество (advantage) на проверки, не являющиеся атаками, которые зависят от зрения.</p>"
+        },
+        "qs8tsSDVAJ5FEiBW": {
+          "name": "Приспешник (Minion)",
+          "description": "<p>Атаки существа не могут быть критическими попаданиями, и оно немедленно считается побеждённым, когда получает травму (injury).</p>"
+        }
+      }
+    },
+    "fLz0SwtX95C7NQpu": {
+      "name": "Волкодав (Wolfhound)",
+      "tokenName": "Волкодав (Wolfhound)",
+      "items": {
+        "FU2RMrAjjvqUW4QI": {
+          "name": "Стайный инстинкт (Pack Instincts)",
+          "description": "<p>Находясь в пределах 5 футов от союзника, [[lookup @actor.name]]{Имя существа} может использовать действие «Получить преимущество» (Gain Advantage) как <span class=\"cosmere-icon\">0</span>.</p>"
+        },
+        "buTso1b2as6vVSEc": {
+          "name": "На охоте (On the Hunt)",
+          "description": "<p>После того как враг в пределах 30 футов от [[lookup @actor.name]]{Имя существа} оказывается @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#prone]{Сбит с ног (Prone)}, [[lookup @actor.name]]{Имя существа} перемещается к нему на расстояние до половины своей скорости передвижения.</p>"
+        },
+        "eJgz7xklSIUzlURf": {
+          "name": "Удар: укус (Strike: Bite)",
+          "description": "<p><strong>Атака (Attack) </strong>+4; <strong>Досягаемость (Reach)</strong> 5 фт.; <strong>Цели (Targets) </strong>одна;</p><p><strong>Задевание (Graze)</strong> [[damage 1d4 Keen average]];</p><p><strong>Попадание (Hit)</strong> [[damage 1d4 + 4 Keen average]], если цель Большая (Large) или меньше, [[lookup @actor.name]]{Имя существа} может потратить 1 фокус (focus), чтобы сбить цель с ног (состояние Сбит с ног (Prone)), затем переместиться до 10 футов, таща цель за собой.</p>"
+        },
+        "lqjGoG23id51wQP0": {
+          "name": "Обострённые чувства (Enhanced Senses)",
+          "description": "<p>[[lookup @actor.name]]{Имя существа} получает преимущество (advantage) на проверки, не являющиеся атаками, которые зависят от зрения.</p>"
+        }
+      }
+    },
+    "gqcJAuAaXaO1bvog": {
+      "name": "Дельфин (Dolphin)",
+      "tokenName": "Дельфин (Dolphin)",
+      "items": {
+        "5LVQYhVEHArFdCe5": {
+          "name": "Стайный инстинкт (Pack Instincts)",
+          "description": "<p>Находясь в пределах 5 футов от союзника, [[lookup @actor.name]]{Имя существа} может использовать действие «Получить преимущество» (Gain Advantage) как <span class=\"cosmere-icon\">0</span>.</p>"
+        },
+        "KzcODRIS4sTWW2rE": {
+          "name": "Обострённые чувства (Enhanced Senses)",
+          "description": "<p>[[lookup @actor.name]]{Имя существа} получает преимущество (advantage) на проверки, не являющиеся атаками, которые зависят от зрения.</p>"
+        },
+        "VNfJXiD5PF53LpcL": {
+          "name": "Прыгун (Jumper)",
+          "description": "<p>[[lookup @actor.name]]{Имя существа} может прыгать вдвое дальше обычного без проверки.</p>"
+        },
+        "eYDH7JMq7mLRDo9n": {
+          "name": "Удар: укус (Strike: Bite)",
+          "description": "<p><strong>Атака (Attack) </strong>+4; <strong>Досягаемость (Reach)</strong> 5 фт.; <strong>Цели (Targets) </strong>одна;</p><p><strong>Задевание (Graze)</strong> [[damage 1d4 Keen average]];</p><p><strong>Попадание (Hit)</strong> [[damage 1d4 + 4 Keen average]]</p>"
+        },
+        "eg9v64Km62qT1ixr": {
+          "name": "Скользкий (Slippery)",
+          "description": "<p>[[lookup @actor.name]]{Имя существа} не провоцирует @UUID[Compendium.cosmere-rpg-mistborn-handbook.actions.Item.QpFIxaoCBezzt6yw]{Удары реакцией (Reactive Strikes)}, пока плывёт.</p>"
+        },
+        "uQyOoNyKIxndaV8p": {
+          "name": "На охоте (On the Hunt)",
+          "description": "<p>После того как враг в пределах 30 футов от [[lookup @actor.name]]{Имя существа} оказывается @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#prone]{Сбит с ног (Prone)}, [[lookup @actor.name]]{Имя существа} перемещается к нему на расстояние до половины своей скорости передвижения.</p>"
+        }
+      }
+    },
+    "iCV6IgDZAj4eIRZl": {
+      "name": "Аллигатор (Alligator)",
+      "tokenName": "Аллигатор (Alligator)",
+      "items": {
+        "AtJCaeHZ0ar9qHMn": {
+          "name": "Обострённые чувства (Enhanced Senses)",
+          "description": "<p>[[lookup @actor.name]]{Имя существа} получает преимущество (advantage) на проверки, не являющиеся атаками, которые зависят от зрения.</p>"
+        },
+        "F7rQHRStMRwuNh4k": {
+          "name": "Чешуя (Scales)",
+          "description": "<p>Увеличьте значение отражения (deflect) существа на +2. </p>"
+        },
+        "M4hyBx4KcfD4T8WF": {
+          "name": "Водный (Aquatic)",
+          "description": "<p>Плавание не делает так, чтобы [[lookup @actor.name]]{Имя существа} получал состояние @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#slowed]{Замедлен (Slowed)}.</p>"
+        },
+        "QXAvZ7ghkpy5ggFi": {
+          "name": "Удар: укус (Strike: Bite)",
+          "description": "<p><strong>Атака (Attack) </strong>+7; <strong>Досягаемость (Reach)</strong> 5 фт.; <strong>Цели (Targets) </strong>одна;</p><p><strong>Задевание (Graze)</strong> [[damage 1d8 Keen average]];</p><p><strong>Попадание (Hit)</strong> [[damage 1d8 + 7 Keen average]].</p>"
+        },
+        "YLiYNumA0Da2jaYU": {
+          "name": "Засадник (Ambusher)",
+          "description": "<p>В начале каждой сцены, если [[lookup @actor.name]]{Имя существа} не @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#surprised]{Застигнут врасплох (Surprised)}, он может совершить [[test skill=stl]] против наивысшей Духовной защиты (Spiritual defense) среди своих врагов. При успехе [[lookup @actor.name]]{Имя существа} делает быстрый ход перед всеми остальными персонажами (это не считается его ходом в этом раунде).</p>"
+        },
+        "w0H9shEj4SaGIT2m": {
+          "name": "Безжалостный хищник (Ruthless Predator)",
+          "description": "<p>Когда [[lookup @actor.name]]{Имя существа} атакует и попадает по врагу, который ещё не ходил в этом раунде, атака наносит дополнительные [[/roll 1d8]] урона.</p>"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,983 @@
+{
+  "mapping": {
+    "description": "system.description.value"
+  },
+  "entries": {
+    "02PRY8D4bFCHJjCZ": {
+      "name": "Электрумовый штырь (А. алюминий) (Electrum Spike (A. Aluminum))",
+      "description": "<p>Даёт одну усиливающую алломантическую силу (Allomantic power). Выберите алломантию алюминия, хрома, дюралюминия или никросила.</p>"
+    },
+    "0E3asaqodh6rhBiW": {
+      "name": "Алломантическая граната (Allomantic Grenade)",
+      "description": "<p>Удивительные технологии Эры 2 включают малвишские праймерные кубы (Malwish primer cubes), известные северным скадрианцам (Northern Scadrians) как алломантические гранаты. Малвишцы с Южного Скадриаля (Southern Scadrial) делают эти кубы из таинственного эттметалла (ettmetal), и они хранят алломантический заряд для последующего высвобождения.</p><p>Когда вы тратите Инвеституру (Investiture) на силу, касаясь алломантической гранаты, вы можете решить, что сила не окажет немедленного эффекта. Вместо этого вы вливаете потраченную Инвеституру в гранату, которая удерживает её два часа или пока граната не будет использована. Максимальная ёмкость гранаты по Инвеституре определяется её тиром награды, как показано в таблице «@UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.Rn9IDL3Nvu7wvARP.JournalEntryPage.JYudflLZZHvbP9Ic]{Алломантические гранаты по тирам (Allomantic Grenades by Tier)}».</p><p>Вы можете использовать <span class=\"cosmere-icon\">1</span>, чтобы бросить заряженную гранату в пространство в пределах 30 футов от вас, заставив её высвободить влитую Инвеституру. Обсудите с ГМ точные эффекты; в целом граната разряжается во всех направлениях с эффектами, подобными сохранённой силе. Чем больше Инвеституры в ней хранится, тем эффектнее последствия.</p><p>Пока граната заряжена одной силой, в неё нельзя вливать Инвеституру другой силы; например, пока она заряжена стальной алломантией (Steel Allomancy), в неё нельзя влить латунную алломантию (Brass Allomancy). Когда Инвеститура гранаты высвобождена, вы можете снова зарядить её любой алломантической силой.</p>"
+    },
+    "0Oi2M4qc5QZfABZj": {
+      "name": "Камертон (Tuning Fork)",
+      "description": "<p><strong>Цена (Price)</strong> 25 бкс; <strong>Вес (Weight)</strong> 0.5 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+    },
+    "0iNgCYHRHPOtZpEz": {
+      "name": "Набор «Наёмник» (Эра 2) (Mercenary Kit (Era 2))",
+      "description": "<p><strong>Оружие (Weapons):</strong> одно неособое оружие</p><p><strong>Броня (Armor):</strong> мундир и кираса</p><p><strong>Снаряжение (Equipment):</strong> рюкзак с простой одеждой, бурдюк, увеличительное стекло, лом, кандалы и 10 дней пайков</p><p><strong>Деньги (Currency):</strong> кошель с [[/r 2d6 * 10]] боксингов (Эра 2)</p>"
+    },
+    "0jWbM8lW2IDAPPU6": {
+      "name": "Арбалет (Crossbow)",
+      "description": "<p><strong>Урон (Damage)</strong> 1d8 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [100/400]; <strong>Свойства (Traits)</strong> Заряжено (Loaded) [1], Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Смертоносное (Deadly);</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 100 бкс; <strong>Вес (Weight)</strong> 7 фнт;</p>"
+    },
+    "0kZJ39mZILvaJ8dB": {
+      "name": "Дирижабль (Эра 2) (Airship (Era 2))",
+      "description": "<p><strong>Цена покупки (Purchase Price)</strong> Только в награду; <strong>Аренда в день (Rental Price per Day)</strong> Только в награду; <strong>Скорость в пути (Travel Speed)</strong> 20 миль/ч; <strong>Тип (Type)</strong> Воздух (Sky)</p>"
+    },
+    "0pRHWwjLGXVEInuU": {
+      "name": "Латунный штырь (Ф. латунь) (Brass Spike (F. Brass))",
+      "description": "<p>Даёт одну когнитивную ферухимическую силу (Feruchemical power). Выберите ферухимию латуни, бронзы, меди или цинка.</p>"
+    },
+    "168hI9lTokUzZtz6": {
+      "name": "Обсидиановый топор (Obsidian Axe)",
+      "description": "<p><strong>Урон (Damage)</strong> 1d6 колющий (keen); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Хрупкое (Fragile); <strong>Экспертные свойства (Expert Traits)</strong> Вторая рука (Offhand);</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 100 бкс; <strong>Вес (Weight)</strong> 1 фнт;</p>"
+    },
+    "1MQEA0Y6b8AtAEcz": {
+      "name": "Керамическая кираса (Ceramic Breastplate)",
+      "description": "<p><strong>Значение отражения (Deflect Value)</strong> 2; <strong>Свойства (Traits)</strong> Громоздкое (Cumbersome) [3], Хрупкое (Fragile); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): Громоздкое (Cumbersome) [2] вместо Громоздкое (Cumbersome) [3];</p><p><strong>Цена (Price)</strong> 250 бкс; <strong>Вес (Weight)</strong> 20 фнт.;</p>"
+    },
+    "21tDPXYEEeeEoMw1": {
+      "name": "Железный штырь (Iron Spike)",
+      "description": "<p>Даёт силу. Ваша Сила (Strength) увеличивается на 1.</p>"
+    },
+    "23LPTRGPCDTdQFdE": {
+      "name": "Алкоголь (1 порция) (Alcohol (1 serving))",
+      "description": "<p><strong>Цена (Price)</strong> 0.5-50 бкс; <strong>Вес (Weight)</strong> 0.2 фнт.;</p><p>У культур Скадриаля (Scadrial) есть разнообразные традиции употребления хмельного: от самых разбавленных элей и пив до лучших виски и вин.</p>"
+    },
+    "2Bx7uOIdRXjX3GYA": {
+      "name": "Воск (1 брусок) (Wax (1 block))",
+      "description": "<p><strong>Цена (Price)</strong> 1 бкс; <strong>Вес (Weight)</strong>0.5 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+    },
+    "2X4c36zGHLF4L3Lt": {
+      "name": "Бронзовая металлопамять (Bronzemind)",
+      "description": "<p><em>Хранит бодрость (wakefulness)</em></p><p></p><p>Каждая металлопамять (metalmind) может вмещать максимум зарядов (charges), равный 2 + ваши ранги в «Ферухимии» (Feruchemy) плюс любые дополнительные модификаторы от талантов.</p><p></p><p><strong>Макс. заряды (Max Charges)</strong>: 2 + [[lookup @actor.skills.fer.rank]]{FER} + прочие модификаторы (Other Modifiers)</p><p></p><p><em>*Максимум зарядов пока нужно настраивать вручную.</em></p>"
+    },
+    "2am9CVpunoSfJHBj": {
+      "name": "Лопата (Shovel)",
+      "description": "<p><strong>Цена (Price)</strong> 8 бкс; <strong>Вес (Weight)</strong> 5 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+    },
+    "2exxAzzABqAocuVd": {
+      "name": "Бурдюк (Waterskin)",
+      "description": "<p><strong>Цена (Price)</strong> 0.5 бкс; <strong>Вес (Weight)</strong> 1 фнт. (пустой);</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+    },
+    "2ki5sRu7VQIyt3hh": {
+      "name": "Верёвка (50 футов) (Rope (50 feet))",
+      "description": "<p><strong>Цена (Price)</strong> 15 бкс; <strong>Вес (Weight)</strong> 5 фнт.;</p><p>Верёвка, обычно сплетённая из конопляных волокон, как правило продаётся отрезками по 50 футов, которые можно резать и связывать, чтобы менять длину при необходимости. Её можно перерезать, нанеся ей непосредственно 2 урона, либо разорвать успехом в [[test dc=20 skill=ath]].</p>"
+    },
+    "2lEDQUA6bGSNKfpM": {
+      "name": "Благословение Харизмы (Blessing of Presence)",
+      "description": "<p>Увеличьте ваш Интеллект (Intellect) на 1 и вашу Харизму (Presence) на 1. Максимальные значения атрибутов Интеллект (Intellect) и Харизма (Presence) тоже увеличиваются на 1.</p>"
+    },
+    "2nB2MzL14rbJ0D11": {
+      "name": "Бусина атиума (Atium Bead)",
+      "description": "<p><strong>Цена в Эре 1 (Era 1 Price)</strong> 150 бкс/bead; <strong>Цена в Эре 2 (Era 2 Price)</strong> Недоступно;</p>"
+    },
+    "2pRra76P8WPvYxfg": {
+      "name": "Атиумная металлопамять (Atiummind)",
+      "description": "<p><em>Хранит молодость (youth)</em></p><p></p><p>Каждая металлопамять (metalmind) может вмещать максимум зарядов (charges), равный 2 + ваши ранги в «Ферухимии» (Feruchemy) плюс любые дополнительные модификаторы от талантов.</p><p></p><p><strong>Макс. заряды (Max Charges)</strong>: 2 + [[lookup @actor.skills.fer.rank]]{FER} + прочие модификаторы (Other Modifiers)</p><p></p><p><em>*Максимум зарядов пока нужно настраивать вручную.</em></p>"
+    },
+    "2tGRFtFbt5igFnf2": {
+      "name": "Благословение Мощности (Blessing of Potency)",
+      "description": "<p>Увеличьте вашу Силу (Strength) на 1 и вашу Скорость (Speed) на 1. Максимальные значения атрибутов Сила (Strength) и Скорость (Speed) тоже увеличиваются на 1.</p>"
+    },
+    "3FYqvgKQPN1UeGD7": {
+      "name": "Музыкальный инструмент (Musical Instrument)",
+      "description": "<p><strong>Цена (Price)</strong> 5–100 бкс; <strong>Вес (Weight)</strong> 0.5–20 фнт.;</p><p>Инструменты часто используются для удовольствия, времяпрепровождения или уличных выступлений за клипы. Играя на инструменте, вы можете определить качество игры, совершив проверку соответствующего навыка (например, [[test skill=agi]] для струнного инструмента, [[test skill=ath]] для барабанов или [[test skill=dis]] для инструмента со множеством клавиш). Если у вас есть экспертиза по этому инструменту, вы получаете преимущество (advantage) на проверку.</p>"
+    },
+    "3bZ14PIVquiKgvBt": {
+      "name": "Подзорная труба (Spyglass)",
+      "description": "<p><strong>Цена (Price)</strong> 250 бкс; <strong>Вес (Weight)</strong> 1 фнт.;</p><p>Далёкие объекты, увиденные в подзорную трубу, воспринимаются как с половины расстояния. По усмотрению ГМ за более высокую цену могут быть доступны подзорные трубы, делающие далёкие объекты ещё ближе.</p>"
+    },
+    "3lfmXRefMWDSGRgu": {
+      "name": "Алюминиевая металлопамять (Aluminummind)",
+      "description": "<p><em>Хранит духовную Идентичность (Identity)</em></p><p></p><p>Каждая металлопамять (metalmind) может вмещать максимум зарядов (charges), равный 2 + ваши ранги в «Ферухимии» (Feruchemy) плюс любые дополнительные модификаторы от талантов.</p><p></p><p><strong>Макс. заряды (Max Charges)</strong>: 2 + [[lookup @actor.skills.fer.rank]]{FER} + прочие модификаторы (Other Modifiers)</p><p></p><p><em>*Максимум зарядов пока нужно настраивать вручную.</em></p>"
+    },
+    "3q5iIkduqtcLwQRw": {
+      "name": "Ручная пушка (Hand Cannon)",
+      "description": "<p><strong>Урон (Damage)</strong> 1d8 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [20/80]; <strong>Свойства (Traits)</strong> Заряжено (Loaded) [6], Пронзающее (Pierce), Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): теряет свойство Двуручное (Two-Handed);</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 300 бкс; <strong>Вес (Weight)</strong> 2 фнт;</p>"
+    },
+    "4Mwhuteko8CsooPB": {
+      "name": "Фонарь (масляный) (Lantern (oil))",
+      "description": "<p><strong>Цена (Price)</strong> 10 бкс; <strong>Вес (Weight)</strong> 2 фнт.;</p><p>Пока фонарь горит, он освещает область в радиусе 30 футов. Он горит до 6 часов на пинту масла.</p>"
+    },
+    "4Nho2cikSD3YwvMf": {
+      "name": "Золотая металлопамять (Goldmind)",
+      "description": "<p><em>Хранит здоровье (health)</em></p><p></p><p>Каждая металлопамять (metalmind) может вмещать максимум зарядов (charges), равный 2 + ваши ранги в «Ферухимии» (Feruchemy) плюс любые дополнительные модификаторы от талантов.</p><p></p><p><strong>Макс. заряды (Max Charges)</strong>: 2 + [[lookup @actor.skills.fer.rank]]{FER} + прочие модификаторы (Other Modifiers)</p><p></p><p><em>*Максимум зарядов пока нужно настраивать вручную.</em></p>"
+    },
+    "4NoAMMUg2X6IMb7e": {
+      "name": "Замок с ключом (Lock and Key)",
+      "description": "<p><strong>Цена (Price)</strong> 25 бкс; <strong>Вес (Weight)</strong> 1 фнт.;</p><p>Этот прочный замок можно открыть прилагаемым ключом или успешной [[test dc=20 skill=thv]]. По усмотрению ГМ за более высокую цену могут быть доступны замки, требующие более высоких СЛ.</p>"
+    },
+    "4Zea03uv1iHLrnpZ": {
+      "name": "Одежда (рваная) (Clothing (ragged))",
+      "description": "<p><strong>Цена (Price)</strong> 0.2 бкс; <strong>Вес (Weight)</strong> 1.5 фнт.;</p><p>Когда-то эта одежда могла быть дорогой или простой, но теперь едва держится. Пока вы её носите, вы получаете преимущество (advantage) на духовные проверки, чтобы убедить других, что вы нищий.</p>"
+    },
+    "4mJDyGeeWq8lCRqn": {
+      "name": "Короткоствольный пистолет (Snub Nose Pistol)",
+      "description": "<p><strong>Урон (Damage)</strong> 1d4 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [20/60]; <strong>Свойства (Traits)</strong> Заряжено (Loaded) [6], Пронзающее (Pierce); <strong>Экспертные свойства (Expert Traits)</strong> Неприметное (Discreet), Вторая рука (Offhand);</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 175 бкс; <strong>Вес (Weight)</strong> 1 фнт;</p>"
+    },
+    "4wGvwYC23Ay9CPf2": {
+      "name": "Цинковый штырь (Zinc Spike)",
+      "description": "<p>Даёт эмоциональную стойкость. Ваша Воля (Willpower) увеличивается на 1.</p>"
+    },
+    "4z3PGL5yahqCz6ii": {
+      "name": "Масло (1 фляга) (Oil (1 flask))",
+      "description": "<p><strong>Цена (Price)</strong> 0.5 бкс; <strong>Вес (Weight)</strong> 1 фнт.;</p><p>Масло обычно поставляется в керамической фляге на 1 пинту. Масло горюче и может использоваться для заправки масляных фонарей, для создания опасной местности в пространстве или как импровизированное оружие (праща). Когда вы попадаете или задеваете цель этим импровизированным оружием, вы покрываете цель маслом в дополнение к обычному урону. После атаки, независимо от результата, керамическая фляга разбивается, а неиспользованное масло теряется.</p>"
+    },
+    "50GZxE2bMOq7Xb6y": {
+      "name": "Бусина сплава лерасиума (Lerasium Alloy Bead)",
+      "description": "<p><strong>Цена в Эре 1 (Era 1 Price)</strong> Только в награду; <strong>Цена в Эре 2 (Era 2 Price)</strong> Недоступно;</p>"
+    },
+    "5SUivvOAmyaDC6Kq": {
+      "name": "Револьвер (Revolver)",
+      "description": "<p><strong>Урон (Damage)</strong> 1d6 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [20/80]; <strong>Свойства (Traits)</strong> Заряжено (Loaded) [6], Пронзающее (Pierce), Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): теряет свойство Двуручное (Two-Handed);</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 250 бкс; <strong>Вес (Weight)</strong> 1 фнт;</p>"
+    },
+    "5TohvTvRrhQzKAlN": {
+      "name": "Сундук (Chest)",
+      "description": "<p><strong>Цена (Price)</strong> 30 бкс; <strong>Вес (Weight)</strong> 25 фнт.;</p><p><em>Этот предмет указан для ролевой игры и не имеет особых характеристик или правил.</em></p>"
+    },
+    "5m7TByQXGy0G2jbu": {
+      "name": "Звуковая палка (Soundstick)",
+      "description": "<p><strong>Урон (Damage)</strong> 1d4 дробящий (impact); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Хрупкое (Fragile), Особое (Unique); <strong>Экспертные свойства (Expert Traits)</strong> Вторая рука (Offhand);</p><p><strong>Тип (Type)</strong> Особое оружие (Special Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 100 бкс; <strong>Вес (Weight)</strong> 0.5 фнт;</p><p></p><p>Звуковые палки (soundsticks) — деревянные палки, рассчитанные на громкий и резкий звук при ударе; особенно эффективно ударять одной о другую. Часто используемые туманными убийцами (hazekillers), эти орудия особенно хороши для перегрузки усиленных оловом чувств Оловоглазых (Tineyes) и Шептателей ветра (Windwhisperers).</p><p></p><p><strong>Особые свойства (Unique Traits).</strong> Звуковые палки имеют следующее особое свойство:</p><p><strong>Раздирающий уши звук (Ear-Splitting).</strong> Пока вы держите это оружие, вы можете использовать <span class=\"cosmere-icon\">1</span>, чтобы совершить [[test skill=lwp]], сравнив результат с Духовной защитой (Spiritual defense) каждого персонажа (кроме вас), в дальность чувств которого входит ваше пространство. Помимо возможной перегрузки персонажей со сверхъестественным слухом, каждый персонаж, против которого вы преуспели, получает [[damage 1d6 Vital]] и становится @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#disoriented]{Дезориентирован (Disoriented)} до конца своего следующего хода. Если вы совершаете эту проверку, держа две звуковые палки, вы получаете преимущество (advantage) против персонажей со сверхъестественным слухом, а при успехе против такого персонажа он также становится @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#stunned]{Оглушён (Stunned)} до конца своего следующего хода.</p>"
+    },
+    "5yddEGOQ8aPjbavW": {
+      "name": "Слуховая труба (Ear Trumpet)",
+      "description": "<p><strong>Цена (Price)</strong> 25 бкс; <strong>Вес (Weight)</strong> 1 фнт.;</p><p>Далёкие звуки, услышанные через слуховую трубу, воспринимаются как с половины расстояния. По усмотрению ГМ за более высокую цену могут быть доступны более мощные слуховые трубы.</p>"
+    },
+    "5zRpoY9jfAnKcZCh": {
+      "name": "Яд (сильный, 1 доза) (Poison (potent, 1 dose))",
+      "description": "<p><strong>Цена (Price)</strong> 60 бкс; <strong>Вес (Weight)</strong> 0.2 фнт.;</p><p>Часто изготавливаемый из гурвраита (gurwraith) или коры лиан вроде бирчбейна (birchbane), яд поставляется в стеклянных флаконах на одну дозу. Как <span class=\"cosmere-icon\">1</span> вы можете налить его в еду, жидкость или ёмкость либо нанести яд на оружие ближнего боя или боеприпас, который вы держите. Когда вы это делаете, ГМ может потребовать от вас успеха в [[test skill=stl]], чтобы избежать обнаружения. Когда персонаж глотает яд или в него попадает атака отравленным оружием или боеприпасом, яд расходуется, и персонаж страдает от следующих эффектов:</p><p><strong>Сильный яд (Potent Poison).</strong> Цель должна преуспеть в проверке [[test dc=16 skill=ath]] или получить [[damage 3d10 Vital]] и стать @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#stunned]{Оглушён (Stunned)} на 1 час. Пока цель @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#stunned]{Оглушён (Stunned)} таким образом, она @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#immobilized]{Обездвижен (Immobilized)}.</p>"
+    },
+    "60hOy0PRgKILSjAg": {
+      "name": "Кремень и огниво (Flint and Steel)",
+      "description": "<p><strong>Цена (Price)</strong> 2 бкс; <strong>Вес (Weight)</strong> 1.5 фнт.;</p><p>Кремень и огниво можно использовать как <span class=\"cosmere-icon\">1</span>, чтобы поджечь обильное топливо в пределах вашей досягаемости. Разжигание огня в более трудных условиях может занять 1 минуту или больше.</p>"
+    },
+    "6Xs4uZ1ijMRoZdEG": {
+      "name": "Электрумовый штырь (А. хром) (Electrum Spike (A. Chromium))",
+      "description": "<p>Даёт одну усиливающую алломантическую силу (Allomantic power). Выберите алломантию алюминия, хрома, дюралюминия или никросила.</p>"
+    },
+    "7B84q71wfUqU3Sac": {
+      "name": "Латунный штырь (Ф. медь) (Brass Spike (F. Copper))",
+      "description": "<p>Даёт одну когнитивную ферухимическую силу (Feruchemical power). Выберите ферухимию латуни, бронзы, меди или цинка.</p>"
+    },
+    "7XUhnzOmmMH7fZPZ": {
+      "name": "Ферухимический медальон (Feruchemical Medallion)",
+      "description": "<p>Невероятные ферухимические медальоны (Feruchemical medallions), изготавливаемые на Южном Скадриале, могут временно даровать ферухимические способности кому угодно. Эти медальоны — ключ ко многим впечатляющим технологическим достижениям Южного Скадриаля.</p><p>Процесс создания медальонов — строго охраняемая тайна, в значительной степени неизвестная на Северном Скадриале. Их изготовление очень тонкое: требуется несколько металлов и таинственный инструмент, называемый Иссекателем (Excisor).</p><p>Большинство медальонов даёт владельцам одну ферухимическую силу, но исключительно сложный и искусно сделанный медальон может быть создан с тремя ферухимическими силами. Возможна любая комбинация сил, хотя некоторые встречаются гораздо чаще из-за их полезности вместе.</p><p></p><h4>Использование ферухимических медальонов (Using Feruchemical Medallions)</h4><p>Пока вы носите ферухимический медальон, вы можете использовать любые ферухимические силы, вложенные в него при создании. Вы можете использовать действие «Взаимодействие» (Interact), чтобы снять или надеть медальон, и можете носить только один медальон одновременно. У вложенных в медальон сил есть следующие ограничения:</p><p><strong>Максимум зарядов (Maximum Charges).</strong> Каждый медальон может вмещать максимум 8 зарядов на каждую ферухимическую силу. Если медальон даёт несколько сил, заряды отслеживаются для каждой отдельно. Когда медальон впервые получен в награду, ГМ выбирает, сколько зарядов у него в начале. Большинство медальонов начинает с 8 зарядами, хотя медальоны, используемые в основном ради эффекта «Накопить» (Store), например железные, могут начинать с 0 зарядов.</p><p><strong>Трата и накопление зарядов (Spending and Storing Charges).</strong> При черпании (tapping) из медальона заряды работают во многом как обычные заряды металлопамяти: они тратятся, когда вы используете действие «Черпать» (Tap), и нельзя черпать из медальона с 0 зарядов. Однако накопление в медальон работает иначе, чем в металлопамяти: при накоплении вы по-прежнему получаете эффекты действия «Накопить» (Store), но в медальон поглощается так мало свойства, что заряды не создаются. Это позволяет бесконечно накапливать свойства, но ограничивает черпание.</p><p><strong>Число сил (Number of Powers).</strong> Каждый медальон создаётся с одной, двумя или тремя ферухимическими силами, каждая из которых позволяет использовать действия «Накопить» (Store) и «Черпать» (Tap) этой силы (см. @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.Wdux6AlRp01Ox3EQ]{главу 6}).</p>"
+    },
+    "7kojDwykN6pPj3mg": {
+      "name": "Кружка (Tankard)",
+      "description": "<p><strong>Цена (Price)</strong> 0.5 бкс; <strong>Вес (Weight)</strong> 1 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+    },
+    "8AfUw6aYUGhmBrUY": {
+      "name": "Оловянный штырь (Tin Spike)",
+      "description": "<p>Даёт обострённые чувства. Ваше Восприятие (Awareness) увеличивается на 1.</p>"
+    },
+    "8XZOwuBlXNl31Qxs": {
+      "name": "Монета в 50 клипов (50-Clip Coin)",
+      "description": "<p>Клипы (clips) — мелкие монеты из простых металлов, таких как железо, олово и бронза. Один клип стоит 0,01 бкс (bx). Они также бывают номиналом в 5, 10, 20 и 50 клипов.</p>"
+    },
+    "8ri5sErGIJf8AItd": {
+      "name": "Молот (Hammer)",
+      "description": "<p><strong>Урон (Damage)</strong> 1d10 дробящий (impact); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Инерционное (Momentum);</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 30 бкс; <strong>Вес (Weight)</strong> 8 фнт;</p>"
+    },
+    "97HJbD5NQ4w9cQU9": {
+      "name": "Контузионная граната (Concussion Grenade)",
+      "description": "<p><strong>Урон (Damage)</strong> 2d6 дробящий (impact); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [20/60]; <strong>Свойства (Traits)</strong> Взрывное (Blast) [10], Опасное (Dangerous), Одноразовое (Single-Use), Метательное (Thrown) [20/60]; <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): теряет свойство Опасное (Dangerous);</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 50 бкс; <strong>Вес (Weight)</strong> 0.5 фнт;</p>"
+    },
+    "9IHe1Sp64LKY7kLw": {
+      "name": "Отмычка (Lockpick)",
+      "description": "<p><strong>Цена (Price)</strong> 2 бкс; <strong>Вес (Weight)</strong> 0.5 фнт.;</p><p>Вы можете использовать отмычку, чтобы получить преимущество (advantage) на проверки «Воровства» (Thievery) для вскрытия замка. После разрешения этой проверки ГМ может потратить <span class=\"cosmere-icon\" style=\"color:rgb(173,19,19)\">C</span>, чтобы отмычка сломалась.</p>"
+    },
+    "9IMd5RPFcLbLfIne": {
+      "name": "Шляпа с алюминиевой подкладкой (Aluminum-Lined Hat)",
+      "description": "<p>Популярная среди богатых и модных людей Эры 2 шляпа с алюминиевой подкладкой (aluminum-lined hat) содержит вшитый алюминий, блокирующий алломантическое влияние. Пока вы носите эту шляпу, на вас не действуют инвестированные искусства (Invested Arts), влияющие на ваши мысли или эмоции. (Эта шляпа — награда тира 1.)</p>"
+    },
+    "9Nyemglhryiu3LkK": {
+      "name": "Бутылка (стеклянная) (Bottle (glass))",
+      "description": "<p><strong>Цена (Price)</strong> 8 бкс; <strong>Вес (Weight)</strong> 2 фнт.;</p><p><em>Этот предмет указан для ролевой игры и не имеет особых характеристик или правил.</em></p>"
+    },
+    "9ZJEStLcWOXeLSYL": {
+      "name": "Алебарда (Poleaxe)",
+      "description": "<p><strong>Урон (Damage)</strong> 1d10 колющий (keen); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): Ближний бой (Melee) [+5];</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 20 бкс; <strong>Вес (Weight)</strong> 5 фнт;</p>"
+    },
+    "9pzu2Rd034Sad7oW": {
+      "name": "Флакон (стеклянный) (Vial (glass))",
+      "description": "<p><strong>Цена (Price)</strong> 2 бкс; <strong>Вес (Weight)</strong> 0.2 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+    },
+    "AVaDkCL9AQayhSyD": {
+      "name": "Термосплавный штырь (Ф. алюминий) (Bendalloy Spike (F. Aluminum))",
+      "description": "<p>Даёт одну духовную ферухимическую силу (Feruchemical power). Выберите ферухимию алюминия, хрома, дюралюминия или никросила.</p>"
+    },
+    "AbRygZmz2qg0kvHx": {
+      "name": "Карабин (Carbine)",
+      "description": "<p><strong>Урон (Damage)</strong> 1d8 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [80/320]; <strong>Свойства (Traits)</strong> Заряжено (Loaded) [4], Пронзающее (Pierce), Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): Заряжено (Loaded) [4] становится Заряжено (Loaded) [8];</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 750 бкс; <strong>Вес (Weight)</strong> 7 фнт;</p>"
+    },
+    "AdYtnZd6gNm7lWeQ": {
+      "name": "Сапожный пистолет (Boot Pistol)",
+      "description": "<p><strong>Урон (Damage)</strong> 1d4 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [20/40]; <strong>Свойства (Traits)</strong> Неприметное (Discreet), Заряжено (Loaded) [1], Пронзающее (Pierce); <strong>Экспертные свойства (Expert Traits)</strong> Быстрое выхватывание (Quickdraw);</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 125 бкс; <strong>Вес (Weight)</strong> 0.5 фнт;</p>"
+    },
+    "BUN8GpAROPrmYn5O": {
+      "name": "Скромное жильё (Modest Lodging)",
+      "description": "<p>Цена 1 бкс (bx) с человека за ночь.</p>"
+    },
+    "BfLXD6617jCHa0Yd": {
+      "name": "Монета в 10 клипов (10-Clip Coin)",
+      "description": "<p>Клипы (clips) — мелкие монеты из простых металлов, таких как железо, олово и бронза. Один клип стоит 0,01 бкс (bx). Они также бывают номиналом в 5, 10, 20 и 50 клипов.</p>"
+    },
+    "BtNQp2KfJychPJzt": {
+      "name": "Пьютеровый штырь (Ф. сталь) (Pewter Spike (F. Steel))",
+      "description": "<p>Даёт одну физическую ферухимическую силу (Feruchemical power). Выберите ферухимию железа, пьютера, стали или олова.</p>"
+    },
+    "CCYWmqZxFBoowYvY": {
+      "name": "Анестетик (5 доз) (Anesthetic (5 doses))",
+      "description": "<p><strong>Цена (Price)</strong> 30 бкс; <strong>Вес (Weight)</strong> 1.5 фнт.;</p><p>Обычно изготовленную на основе эфира анестезирующую мазь можно нанести на травму после короткого или долгого отдыха, чтобы сократить оставшееся время восстановления на [[/roll 1d4]] дн. Каждую травму можно лечить анестетиком только раз в день.</p>"
+    },
+    "CHUOd0TxxpXKX4vx": {
+      "name": "Щит (Shield)",
+      "description": "<p><strong>Урон (Damage)</strong> 1d4 дробящий (impact); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Защитное (Defensive); <strong>Экспертные свойства (Expert Traits)</strong> Вторая рука (Offhand);</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 5 бкс; <strong>Вес (Weight)</strong> 2 фнт;</p>"
+    },
+    "CQ9amv8mG0USCy8w": {
+      "name": "Длинное копьё (Longspear)",
+      "description": "<p><strong>Урон (Damage)</strong> 1d8 колющий (keen); <strong>Дальность (Range)</strong> Ближний бой (Melee) [+5]; <strong>Свойства (Traits)</strong> Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Защитное (Defensive);</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 20 бкс; <strong>Вес (Weight)</strong> 9 фнт;</p>"
+    },
+    "CVYk0Xdp4UkRfBDq": {
+      "name": "Монета в 5 клипов (5-Clip Coin)",
+      "description": "<p>Клипы (clips) — мелкие монеты из простых металлов, таких как железо, олово и бронза. Один клип стоит 0,01 бкс (bx). Они также бывают номиналом в 5, 10, 20 и 50 клипов.</p>"
+    },
+    "CwIMeeSgYQ4sgy0o": {
+      "name": "Дюралюминиевая металлопамять (Duraluminmind)",
+      "description": "<p><em>Хранит духовную Связь (Connection)</em></p><p></p><p>Каждая металлопамять (metalmind) может вмещать максимум зарядов (charges), равный 2 + ваши ранги в «Ферухимии» (Feruchemy) плюс любые дополнительные модификаторы от талантов.</p><p></p><p><strong>Макс. заряды (Max Charges)</strong>: 2 + [[lookup @actor.skills.fer.rank]]{FER} + прочие модификаторы (Other Modifiers)</p><p></p><p><em>*Максимум зарядов пока нужно настраивать вручную.</em></p>"
+    },
+    "D3eIW5wMlyLDCX5G": {
+      "name": "Книга (справочная) (Book (reference))",
+      "description": "<p><strong>Цена (Price)</strong> 5–250 бкс; <strong>Вес (Weight)</strong> 1–5 фнт.;</p><p>Каждая справочная книга содержит сведения по определённой теме, например по исторической эпохе, инженерному делу, биологии или архитектуре. Если у вас есть время заглянуть в книгу, пока вы совершаете связанную проверку с атрибутом Интеллект (Intellect), считается, что у вас есть экспертиза по этой теме (см. «@UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.kwz9u1ntb7EcYxTk.JournalEntryPage.JkkAc8A0etwb6Ocx#expertise-benefits]{Преимущества экспертизы (Expertise Benefits)}» в главе 3).</p>"
+    },
+    "DOCw4Cwc8i7s3SQR": {
+      "name": "Комфортное жильё (Comfortable Lodging)",
+      "description": "<p>Цена 5 бкс (bx) с человека за ночь.</p>"
+    },
+    "DdRFyiNFBQaNX4sE": {
+      "name": "Зеркало (ручное) (Mirror (handheld))",
+      "description": "<p><strong>Цена (Price)</strong> 15 бкс; <strong>Вес (Weight)</strong> 2 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+    },
+    "DfN2JpiqRgNp8AQm": {
+      "name": "Термосплавная металлопамять (Bendalloymind)",
+      "description": "<p><em>Хранит питание (nutrition)</em></p><p></p><p>Каждая металлопамять (metalmind) может вмещать максимум зарядов (charges), равный 2 + ваши ранги в «Ферухимии» (Feruchemy) плюс любые дополнительные модификаторы от талантов.</p><p></p><p><strong>Макс. заряды (Max Charges)</strong>: 2 + [[lookup @actor.skills.fer.rank]]{FER} + прочие модификаторы (Other Modifiers)</p><p></p><p><em>*Максимум зарядов пока нужно настраивать вручную.</em></p>"
+    },
+    "DjdLK34w66V755pD": {
+      "name": "Набор «Ремесленник» (Эра 2) (Artisan Kit (Era 2))",
+      "description": "<p><strong>Оружие (Weapons):</strong> один молот или лёгкое оружие (на ваш выбор)</p><p><strong>Броня (Armor):</strong> кожаная броня</p><p><strong>Снаряжение (Equipment):</strong> сундук с простой одеждой, хирургические принадлежности, 5 доз слабого антисептика, перо для чернил, флакон чернил, 5 листов пергамента, 5 свечей, кремень и огниво, 3 пустые стеклянные бутылки, камертон, музыкальный инструмент на ваш выбор и весы</p><p><strong>Деньги (Currency):</strong> кошель с [[/r 4d8 * 10]] боксингов (Эра 2)</p>"
+    },
+    "DscC7Xr0LvZ5tedM": {
+      "name": "Кристаллическое Истинное тело (Crystal True Body)",
+      "description": "<p><strong>Тир ПК (PC Tier) </strong>2; <strong>СИЛ (STR)</strong> 2; <strong>СКР (SPD)</strong> 1; <strong>ВОС (AWA)</strong> 3; <strong>Особая способность (Special Ability)</strong> Кристаллическое очарование (Crystalline Allure);</p><p></p><p>Когда кандра находятся на Родине, многие из них выбирают Истинное тело (True Body) — облик, сформированный вокруг набора искусственных костей, созданных мастерами-кандра. Кандра может сделать этот облик полупрозрачным, позволяя другим видеть его кости, часто изготовленные из экзотических материалов. Этот материал даёт кандра средство творческого самовыражения, но может также давать определённые преимущества.</p><p>Как персонаж-кандра, вы можете получить в награду кости для Истинного тела, если у вас есть доступ к мастеру или ранги в «Ремесле» (Crafting), равные тиру награды костей или превышающие его. Вы можете поглотить эти кости с помощью таланта @UUID[Compendium.cosmere-rpg-mistborn-handbook.ancestries.Item.kXeNtxEOpjXYBCt3]{Маскировка кандры (Kandra Disguise)}, как если бы это было человеческое тело; как обычно, это временно заменяет ваши атрибуты теми, что указаны для вашего Истинного тела.</p><p></p><p><strong>Кристаллическое очарование (Crystalline Allure).</strong> Вы получаете преимущество (advantage) на проверки, чтобы влиять на других кандра.</p>"
+    },
+    "DxwSmVxCjr8H5NJ8": {
+      "name": "Флакон электрума (Эра 1) (Electrum Vial (Era 1))",
+      "description": "<p><strong>Цена в Эре 1 (Era 1 Price)</strong> 10 бкс/флакон;</p>"
+    },
+    "E6t2V6pTG525cUEN": {
+      "name": "Одежда (простая) (Clothing (common))",
+      "description": "<p><strong>Цена (Price)</strong> 1 бкс; <strong>Вес (Weight)</strong> 3 фнт.;</p><p>Простая одежда делается из материалов, которыми пользуется рабочий класс, и обычно не красится, что помогает вам смешаться с простолюдинами. Пока на вас комплект простой одежды, вы получаете преимущество (advantage) на духовные проверки, чтобы убедить других, что вы из рабочего класса.</p>"
+    },
+    "EYhGTnIbyxfbXeNO": {
+      "name": "Бронзовый штырь (А. бронза) (Bronze Spike (A. Bronze))",
+      "description": "<p>Даёт одну ментальную алломантическую силу (Allomantic power). Выберите алломантию латуни, бронзы, меди или цинка.</p>"
+    },
+    "EakHEm8aJ0PCMPqo": {
+      "name": "Стальной штырь (А. сталь) (Steel Spike (A. Steel))",
+      "description": "<p>Даёт одну физическую алломантическую силу (Allomantic power). Выберите алломантию железа, пьютера, стали или олова.</p>"
+    },
+    "Eqt38YUsMik9xzsb": {
+      "name": "Пьютеровая металлопамять (Pewtermind)",
+      "description": "<p><em>Хранит силу (strength)</em></p><p></p><p>Каждая металлопамять (metalmind) может вмещать максимум зарядов (charges), равный 2 + ваши ранги в «Ферухимии» (Feruchemy) плюс любые дополнительные модификаторы от талантов.</p><p></p><p><strong>Макс. заряды (Max Charges)</strong>: 2 + [[lookup @actor.skills.fer.rank]]{FER} + прочие модификаторы (Other Modifiers)</p><p></p><p><em>*Максимум зарядов пока нужно настраивать вручную.</em></p>"
+    },
+    "F7Ca3fJ3d5nNGDEF": {
+      "name": "Чернила (флакон в 1 унцию) (Ink (1-ounce bottle))",
+      "description": "<p><strong>Цена (Price)</strong> 20 бкс; <strong>Вес (Weight)</strong> 0.2 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+    },
+    "FCmEU15r0L3nvNjn": {
+      "name": "Кадмиевый штырь (А. электрум) (Cadmium Spike (A. Electrum))",
+      "description": "<p>Даёт одну временну́ю алломантическую силу (Allomantic power). Выберите алломантию термосплава, кадмия, электрума или золота.</p>"
+    },
+    "FVlCNQ7NnJqzji7W": {
+      "name": "Весы (Scale)",
+      "description": "<p><strong>Цена (Price)</strong> 10 бкс; <strong>Вес (Weight)</strong> 3 фнт.;</p><p>Весы чаще всего используют учёные, оценщики и огранщики драгоценностей; ими можно определить точный вес предмета (максимум 2 фунта).</p>"
+    },
+    "FtRJw2uxev3ImluH": {
+      "name": "Дуэльная трость (Dueling Cane)",
+      "description": "<p><strong>Урон (Damage)</strong> 1d8 дробящий (impact); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Неприметное (Discreet), Особое (Unique); <strong>Экспертные свойства (Expert Traits)</strong> Вторая рука (Offhand);</p><p><strong>Тип (Type)</strong> Особое оружие (Special Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry) или Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 40 бкс; <strong>Вес (Weight)</strong> 3 фнт;</p><p></p><p>Любимое оружие туманных убийц (hazekillers), дуэльные трости (dueling canes) — деревянные трости, сделанные так, чтобы выдерживать бой, хотя внешне это обычная трость для ходьбы. Их вес и размер точно рассчитаны под самые разные стили боя.</p><p><strong>Особое свойство (Unique Trait).</strong> Дуэльные трости имеют следующее особое свойство:</p><p><strong>Гибкий бой (Flexible Fighting).</strong> С дуэльной тростью вы можете использовать навык «Тяжёлое оружие» (Heavy Weaponry) или «Лёгкое оружие» (Light Weaponry).</p>"
+    },
+    "FyUw856cRR4yIFVR": {
+      "name": "Набор «Исследователь» (Эра 2) (Researcher Kit (Era 2))",
+      "description": "<p><strong>Оружие (Weapons):</strong> один сапожный пистолет (Эра 2)</p><p><strong>Броня (Armor):</strong> мундир</p><p><strong>Снаряжение (Equipment):</strong> рюкзак с простой одеждой, перо для чернил, флакон чернил, 20 листов бумаги, масляный фонарь, фляга масла, справочная книга по теме на ваш выбор (с одобрения ГМ), а также замок с ключом</p><p><strong>Деньги (Currency):</strong> кошель с [[/r 3d12 * 10]] боксингов (Эра 2)</p><p><strong>Дополнительная экспертиза (Additional Expertise):</strong> вы получаете экспертизу «Литература» (Literature) из прикладных. Если она у вас уже есть, вы вместо этого получаете одну культурную или прикладную экспертизу на ваш выбор. Эта экспертиза не учитывается среди экспертиз, выбранных при создании персонажа.</p>"
+    },
+    "Ghv5FYmohk45RoBj": {
+      "name": "Кандалы (Manacles)",
+      "description": "<p><strong>Цена (Price)</strong> 5 бкс; <strong>Вес (Weight)</strong> 6 фнт.;</p><p>Эти металлические оковы с ключом могут сковать запястья или лодыжки Большого (Large) или меньшего персонажа. Из них можно вырваться успешной [[test dc=25 skill=agi]], сломать успехом в [[test dc=25 skill=ath]] или нанеся им 15 урона либо вскрыть успехом в [[test dc=20 skill=thv]]. По усмотрению ГМ за более высокую цену могут быть доступны кандалы, требующие более высоких СЛ.</p>"
+    },
+    "GhxJE5s9ssdkNaAu": {
+      "name": "Одеяло (Blanket)",
+      "description": "<p><strong>Цена (Price)</strong> 0.5 бкс; <strong>Вес (Weight)</strong> 2 фнт.;</p><p><em>Этот предмет указан для ролевой игры и не имеет особых характеристик или правил.</em></p>"
+    },
+    "GjBt5CQLGpdiYT6p": {
+      "name": "Термосплавный штырь (Ф. никросил) (Bendalloy Spike (F. Nicrosil))",
+      "description": "<p>Даёт одну духовную ферухимическую силу (Feruchemical power). Выберите ферухимию алюминия, хрома, дюралюминия или никросила.</p>"
+    },
+    "GlmQ8TajOkhAZdZ2": {
+      "name": "Монета в 5 боксингов (5-Boxing Coin)",
+      "description": "<p>Имперские монеты, в просторечии называемые боксингами (boxings), крупнее — примерно вдвое больше клипов — и обычно делаются из более драгоценных металлов, например золота. Один боксинг, разумеется, стоит 1 бкс (bx). До Катакендра (Catacendre) существовали монеты в 2 и 5 боксингов, а в Эре 2 появились и другие номиналы.</p>"
+    },
+    "Gsxz5kiWL5eTINV9": {
+      "name": "Кираса (Breastplate)",
+      "description": "<p><strong>Значение отражения (Deflect Value)</strong> 2; <strong>Свойства (Traits)</strong> Громоздкое (Cumbersome) [3]; <strong>Экспертные свойства (Expert Traits)</strong> Представительное (Presentable);</p><p><strong>Цена (Price)</strong> 50 бкс; <strong>Вес (Weight)</strong> 30 фнт.;</p>"
+    },
+    "Gzr8xP3LeSZRF7s6": {
+      "name": "Мешок (Sack)",
+      "description": "<p><strong>Цена (Price)</strong> 0.1 бкс; <strong>Вес (Weight)</strong> 0.5 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+    },
+    "IDA4C6QUNYJkI2J3": {
+      "name": "Флакон золота (Эра 2) (Gold Vial (Era 2))",
+      "description": "<p><strong>Цена в Эре 2 (Era 2 Price)</strong> 25 бкс/флакон;</p>"
+    },
+    "IVyc7xGziZUy9CZn": {
+      "name": "Деревянное Истинное тело (Wood True Body)",
+      "description": "<p><strong>Тир ПК (PC Tier) </strong>1; <strong>СИЛ (STR)</strong> 0; <strong>СКР (SPD)</strong> 2; <strong>ВОС (AWA)</strong> 3; <strong>Особая способность (Special Ability)</strong> —;</p><p></p><p>Когда кандра находятся на Родине, многие из них выбирают Истинное тело (True Body) — облик, сформированный вокруг набора искусственных костей, созданных мастерами-кандра. Кандра может сделать этот облик полупрозрачным, позволяя другим видеть его кости, часто изготовленные из экзотических материалов. Этот материал даёт кандра средство творческого самовыражения, но может также давать определённые преимущества.</p><p>Как персонаж-кандра, вы можете получить в награду кости для Истинного тела, если у вас есть доступ к мастеру или ранги в «Ремесле» (Crafting), равные тиру награды костей или превышающие его. Вы можете поглотить эти кости с помощью таланта @UUID[Compendium.cosmere-rpg-mistborn-handbook.ancestries.Item.kXeNtxEOpjXYBCt3]{Маскировка кандры (Kandra Disguise)}, как если бы это было человеческое тело; как обычно, это временно заменяет ваши атрибуты теми, что указаны для вашего Истинного тела.</p>"
+    },
+    "IY83h1jfblwztjkL": {
+      "name": "Латунный штырь (Ф. цинк) (Brass Spike (F. Zinc))",
+      "description": "<p>Даёт одну когнитивную ферухимическую силу (Feruchemical power). Выберите ферухимию латуни, бронзы, меди или цинка.</p>"
+    },
+    "IYSZUYoodyo2zfRm": {
+      "name": "Праща (Sling)",
+      "description": "<p><strong>Урон (Damage)</strong> 1d4 дробящий (impact); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [30/120]; <strong>Свойства (Traits)</strong> Неприметное (Discreet); <strong>Экспертные свойства (Expert Traits)</strong> Непрямой (Indirect);</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 1 бкс; <strong>Вес (Weight)</strong> 1 фнт;</p>"
+    },
+    "IjkdEi1ocmBu3cdw": {
+      "name": "Флакон алюминия (Эра 2) (Aluminum Vial (Era 2))",
+      "description": "<p><strong>Цена в Эре 2 (Era 2 Price)</strong> 50 бкс/флакон;</p>"
+    },
+    "IqQJc7NjR52yQKEf": {
+      "name": "Набор «Аристократ» (Эра 1) (Noble Kit (Era 1))",
+      "description": "<p><strong>Оружие (Weapons):</strong> дуэльная трость и одно лёгкое оружие</p><p><strong>Броня (Armor):</strong> нет</p><p><strong>Снаряжение (Equipment):</strong> алкоголь (бутылка хорошего вина или виски), дорогая одежда</p><p><strong>Деньги (Currency):</strong> кошель с [[/r 4d20]] боксингов (Эра 1)</p><p><strong>Связь (Connection):</strong> вас поддерживает покровитель из вашего дворянского дома (см. «@UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.UqXwZ77VrwqnNCR7.JournalEntryPage.J99NbXyTKoPz5Ncg#patrons]{Покровители (Patrons)}» в главе 8). Он обеспечивает вам жильё и определённый уровень жизни.</p>"
+    },
+    "J3OZpxOYyCTVuo4N": {
+      "name": "Конная повозка (Horse Cart)",
+      "description": "<p><strong>Цена покупки (Purchase Price)</strong> 500 бкс; <strong>Аренда в день (Rental Price per Day)</strong> 5 бкс; <strong>Скорость в пути (Travel Speed)</strong> 4 миль/ч; <strong>Тип (Type)</strong> Суша (Land)</p>"
+    },
+    "JEXeMD8ecANFIUWt": {
+      "name": "Бутылка (керамическая) (Bottle (ceramic))",
+      "description": "<p><strong>Цена (Price)</strong> 4 бкс; <strong>Вес (Weight)</strong> 3 фнт.;</p><p><em>Этот предмет указан для ролевой игры и не имеет особых характеристик или правил.</em></p>"
+    },
+    "JPWV6EqMOsQMVOxG": {
+      "name": "Кувшин с носиком (Pitcher)",
+      "description": "<p><strong>Цена (Price)</strong> 1 бкс; <strong>Вес (Weight)</strong> 4 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+    },
+    "JUVtIzIHItUhaQEn": {
+      "name": "Антисептик (слабый, 5 доз) (Antiseptic (weak, 5 doses))",
+      "description": "<p><strong>Цена (Price)</strong> 10 бкс; <strong>Вес (Weight)</strong> 1 фнт.;</p><p>Дозу слабого антисептика, например изготовленного на основе ртути, можно применить к персонажу после короткого отдыха, чтобы восстановить [[healing 1d6]].</p>"
+    },
+    "JaBLrFaIsUvtPLlk": {
+      "name": "Золотой штырь (Ф. кадмий) (Gold Spike (F. Cadmium))",
+      "description": "<p>Даёт одну гибридную ферухимическую силу (Feruchemical power). Выберите ферухимию термосплава, кадмия, электрума или золота.</p>"
+    },
+    "JdTNA3l4N8cbZkgY": {
+      "name": "Благословение Восприятия (Blessing of Awareness)",
+      "description": "<p>Увеличьте вашу Волю (Willpower) на 2. Максимальное значение атрибута Воля (Willpower) тоже увеличивается на 2.</p>"
+    },
+    "Jo2moXimhsgiyxZB": {
+      "name": "Короткое копьё (Shortspear)",
+      "description": "<p><strong>Урон (Damage)</strong> 1d8 колющий (keen); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): теряет свойство Двуручное (Two-Handed);</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 5 бкс; <strong>Вес (Weight)</strong> 3 фнт;</p>"
+    },
+    "JvkPQCFBaGPtAQaN": {
+      "name": "Оловянная металлопамять (Tinmind)",
+      "description": "<p><em>Хранит чувства (senses)</em></p><p></p><p>Каждая металлопамять (metalmind) может вмещать максимум зарядов (charges), равный 2 + ваши ранги в «Ферухимии» (Feruchemy) плюс любые дополнительные модификаторы от талантов.</p><p></p><p><strong>Макс. заряды (Max Charges)</strong>: 2 + [[lookup @actor.skills.fer.rank]]{FER} + прочие модификаторы (Other Modifiers)</p><p></p><p><em>*Максимум зарядов пока нужно настраивать вручную.</em></p>"
+    },
+    "K3QsaSiMtisuFVxp": {
+      "name": "Яд (слабый, 1 доза) (Poison (weak, 1 dose))",
+      "description": "<p><strong>Цена (Price)</strong> 10 бкс; <strong>Вес (Weight)</strong> 0.2 фнт.;</p><p>Часто изготавливаемый из гурвраита (gurwraith) или коры лиан вроде бирчбейна (birchbane), яд поставляется в стеклянных флаконах на одну дозу. Как <span class=\"cosmere-icon\">1</span> вы можете налить его в еду, жидкость или ёмкость либо нанести яд на оружие ближнего боя или боеприпас, который вы держите. Когда вы это делаете, ГМ может потребовать от вас успеха в [[test skill=stl]], чтобы избежать обнаружения. Когда персонаж глотает яд или в него попадает атака отравленным оружием или боеприпасом, яд расходуется, и персонаж страдает от следующих эффектов:</p><p><strong>Слабый яд (Weak Poison).</strong> Цель должна преуспеть в проверке [[test dc=12 skill=ath]] или получить [[damage 1d6 Vital]].</p>"
+    },
+    "K6XqEXem6amtlpuF": {
+      "name": "Банкнота в 10 нот (10-Note Bill)",
+      "description": "<p>Бумажные ноты (notes) существуют в обе эры, хотя в Эре 1 эти банкноты обычно бывают только у дворян. Банкнота в 1 ноту стоит 10 бкс (bx). Также в обращении банкноты в 5, 10, 20 и 50 нот.</p>"
+    },
+    "KZIQlUD9U7vAyzQw": {
+      "name": "Стальной штырь (А. железо) (Steel Spike (A. Iron))",
+      "description": "<p>Даёт одну физическую алломантическую силу (Allomantic power). Выберите алломантию железа, пьютера, стали или олова.</p>"
+    },
+    "L1rxGiUK8fANvh4l": {
+      "name": "Набор «Аристократ» (Эра 2) (Noble Kit (Era 2))",
+      "description": "<p><strong>Оружие (Weapons):</strong> дуэльная трость и одно лёгкое оружие</p><p><strong>Броня (Armor):</strong> нет</p><p><strong>Снаряжение (Equipment):</strong> алкоголь (бутылка хорошего вина или виски), дорогая одежда</p><p><strong>Деньги (Currency):</strong> кошель с [[/r 4d20 * 10]] боксингов (Эра 2)</p><p><strong>Связь (Connection):</strong> вас поддерживает покровитель из вашего дворянского дома (см. «@UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.UqXwZ77VrwqnNCR7.JournalEntryPage.J99NbXyTKoPz5Ncg#patrons]{Покровители (Patrons)}» в главе 8). Он обеспечивает вам жильё и определённый уровень жизни.</p>"
+    },
+    "L6sXtbSEPq7GMXp9": {
+      "name": "Никросиловая металлопамять (Nicrosilmind)",
+      "description": "<p><em>Хранит инвестированные способности (Invested abilities)</em></p><p></p><p>Каждая металлопамять (metalmind) может вмещать максимум зарядов (charges), равный 2 + ваши ранги в «Ферухимии» (Feruchemy) плюс любые дополнительные модификаторы от талантов.</p><p></p><p><strong>Макс. заряды (Max Charges)</strong>: 2 + [[lookup @actor.skills.fer.rank]]{FER} + прочие модификаторы (Other Modifiers)</p><p></p><p><em>*Максимум зарядов пока нужно настраивать вручную.</em></p>"
+    },
+    "Ljz31y57F9RvN5MH": {
+      "name": "Каменное Истинное тело (Stone True Body)",
+      "description": "<p><strong>Тир ПК (PC Tier) </strong>1; <strong>СИЛ (STR)</strong> 4; <strong>СКР (SPD)</strong> 0; <strong>ВОС (AWA)</strong> 1; <strong>Особая способность (Special Ability)</strong> —;</p><p></p><p>Когда кандра находятся на Родине, многие из них выбирают Истинное тело (True Body) — облик, сформированный вокруг набора искусственных костей, созданных мастерами-кандра. Кандра может сделать этот облик полупрозрачным, позволяя другим видеть его кости, часто изготовленные из экзотических материалов. Этот материал даёт кандра средство творческого самовыражения, но может также давать определённые преимущества.</p><p>Как персонаж-кандра, вы можете получить в награду кости для Истинного тела, если у вас есть доступ к мастеру или ранги в «Ремесле» (Crafting), равные тиру награды костей или превышающие его. Вы можете поглотить эти кости с помощью таланта @UUID[Compendium.cosmere-rpg-mistborn-handbook.ancestries.Item.kXeNtxEOpjXYBCt3]{Маскировка кандры (Kandra Disguise)}, как если бы это было человеческое тело; как обычно, это временно заменяет ваши атрибуты теми, что указаны для вашего Истинного тела.</p>"
+    },
+    "MKUtZYv2IVSFCQJW": {
+      "name": "Банкнота в 5 нот (5-Note Bill)",
+      "description": "<p>Бумажные ноты (notes) существуют в обе эры, хотя в Эре 1 эти банкноты обычно бывают только у дворян. Банкнота в 1 ноту стоит 10 бкс (bx). Также в обращении банкноты в 5, 10, 20 и 50 нот.</p>"
+    },
+    "MdqZDFtQ1SAZiKwj": {
+      "name": "Флакон кадмия (Cadmium Vial)",
+      "description": "<p><strong>Цена в Эре 1 (Era 1 Price)</strong> Недоступно; <strong>Цена в Эре 2 (Era 2 Price)</strong> 50 бкс/флакон;</p>"
+    },
+    "N3DDR2JH7KCLGvmw": {
+      "name": "Кости простолюдина (Commoner Bones)",
+      "description": "<p><strong>СИЛ (STR)</strong> 0; <strong>СКР (SPD)</strong> 1; <strong>ВОС (AWA)</strong> 1;</p><p></p><p>В естественном состоянии кандра — студенистые комки податливой полупрозрачной плоти. Кандра может сформироваться вокруг костей, служащих скелетом, и таким образом принять облик человека, чьи кости он поглотил. Скорость этого процесса зависит от умения: молодым кандра могут понадобиться часы или дни, чтобы сформировать облик, а опытным старшим кандра — всего несколько секунд.</p><p>Тела кандра обычно неотличимы от тела того, кому они подражают, но есть некоторые ограничения. Слишком маленькое тело сковывает способность кандра ясно мыслить. Создание более крупного тела требует от кандра поглощения дополнительной массы. Кроме того, кандра не могут создавать волосы и должны использовать готовые пряди, укладывая каждую по отдельности на новое тело.</p>"
+    },
+    "N3U2qm2wOSciyMWk": {
+      "name": "Банкнота в 50 нот (50-Note Bill)",
+      "description": "<p>Бумажные ноты (notes) существуют в обе эры, хотя в Эре 1 эти банкноты обычно бывают только у дворян. Банкнота в 1 ноту стоит 10 бкс (bx). Также в обращении банкноты в 5, 10, 20 и 50 нот.</p>"
+    },
+    "NForcGEKB1nQK6Ko": {
+      "name": "Кирка (горная) (Pick (mining))",
+      "description": "<p><strong>Цена (Price)</strong> 10 бкс; <strong>Вес (Weight)</strong> 10 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+    },
+    "NIW6SkeOw4VD1WZt": {
+      "name": "Перо для чернил (Ink Pen)",
+      "description": "<p><strong>Цена (Price)</strong> 0.05 бкс; <strong>Вес (Weight)</strong> 0.1 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+    },
+    "NLqAFOZeJojL6eok": {
+      "name": "Фрагментационная граната (Fragmentation Grenade)",
+      "description": "<p><strong>Урон (Damage)</strong> 2d4 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [20/60]; <strong>Свойства (Traits)</strong> Взрывное (Blast) [5], Опасное (Dangerous), Пронзающее (Pierce), Одноразовое (Single-Use), Метательное (Thrown) [20/60; <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): теряет свойство Опасное (Dangerous);</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 75 бкс; <strong>Вес (Weight)</strong> 0.5 фнт;</p>"
+    },
+    "NMo4gKcUB92MM69d": {
+      "name": "Аристократическое жильё (Aristocratic Lodging)",
+      "description": "<p>Цена 40 бкс (bx) с человека за ночь.</p>"
+    },
+    "OB6uk4Jy49qCgGy5": {
+      "name": "Одежда (быстросъёмная) (Clothing (breakaway))",
+      "description": "<p><strong>Цена (Price)</strong> 120 бкс; <strong>Вес (Weight)</strong> 5 фнт.;</p><p>Быстросъёмная одежда внешне имитирует дорогую, но предназначена для ношения поверх брони и оружия, чтобы их скрывать. Её можно снять как <span class=\"cosmere-icon\">1</span>, если начнётся драка, разорвав заранее заготовленные швы без ущерба для одежды. Пока на вас комплект быстросъёмной одежды, любая надетая броня получает свойство «Представительное» (Presentable), а каждое носимое оружие — свойство «Неприметное» (Discreet); однако вы получаете помеху (disadvantage) на любую вашу атаку, а каждая атака по вам получает преимущество (advantage).</p>"
+    },
+    "OFeQsU9qi2JF3LwE": {
+      "name": "Электрумовая металлопамять (Electrummind)",
+      "description": "<p><em>Хранит решимость (determination)</em></p><p></p><p>Каждая металлопамять (metalmind) может вмещать максимум зарядов (charges), равный 2 + ваши ранги в «Ферухимии» (Feruchemy) плюс любые дополнительные модификаторы от талантов.</p><p></p><p><strong>Макс. заряды (Max Charges)</strong>: 2 + [[lookup @actor.skills.fer.rank]]{FER} + прочие модификаторы (Other Modifiers)</p><p></p><p><em>*Максимум зарядов пока нужно настраивать вручную.</em></p>"
+    },
+    "OTEOrxF8vsMuNkdh": {
+      "name": "Бронзовый штырь (А. латунь) (Bronze Spike (A. Brass))",
+      "description": "<p>Даёт одну ментальную алломантическую силу (Allomantic power). Выберите алломантию латуни, бронзы, меди или цинка.</p>"
+    },
+    "OUi6FQmQfwe3HiRG": {
+      "name": "Антисептик (сильный, 5 доз) (Antiseptic (potent, 5 doses))",
+      "description": "<p><strong>Цена (Price)</strong> 25 бкс; <strong>Вес (Weight)</strong> 1 фнт.;</p><p>Сильные антисептики, такие как йод, можно извлекать из золы водорослей кислотой. Одну дозу можно применить к персонажу после короткого отдыха, чтобы восстановить [[healing 2d6]].</p>"
+    },
+    "ObB0HCtycWRruHJY": {
+      "name": "Короткий лук (Shortbow)",
+      "description": "<p><strong>Урон (Damage)</strong> 1d6 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [80/320]; <strong>Свойства (Traits)</strong> Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Быстрое выхватывание (Quickdraw);</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 40 бкс; <strong>Вес (Weight)</strong> 2 фнт;</p>"
+    },
+    "Own4s6Y2qp2K92CN": {
+      "name": "Кадмиевый штырь (А. термосплав) (Cadmium Spike (A. Bendalloy))",
+      "description": "<p>Даёт одну временну́ю алломантическую силу (Allomantic power). Выберите алломантию термосплава, кадмия, электрума или золота.</p>"
+    },
+    "Oz8XWB08NfQAVPda": {
+      "name": "Медная металлопамять (Coppermind)",
+      "description": "<p><em>Хранит воспоминания (memories)</em></p><p></p><p>Каждая металлопамять (metalmind) может вмещать максимум зарядов (charges), равный 2 + ваши ранги в «Ферухимии» (Feruchemy) плюс любые дополнительные модификаторы от талантов.</p><p></p><p><strong>Макс. заряды (Max Charges)</strong>: 2 + [[lookup @actor.skills.fer.rank]]{FER} + прочие модификаторы (Other Modifiers)</p><p></p><p><em>*Максимум зарядов пока нужно настраивать вручную.</em></p>"
+    },
+    "Ozl4I5eVfkW6ZN9O": {
+      "name": "Еда (изысканная, 1 день) (Food (fine, 1 day))",
+      "description": "<p><strong>Цена (Price)</strong> 10 бкс; <strong>Вес (Weight)</strong> 0.5 фнт.;</p><p>Изысканную еду можно найти в дорогих ресторанах и на столах дворянских пиров.</p>"
+    },
+    "P4nu3tN5YXyQrv3e": {
+      "name": "Стальной штырь (А. олово) (Steel Spike (A. Tin))",
+      "description": "<p>Даёт одну физическую алломантическую силу (Allomantic power). Выберите алломантию железа, пьютера, стали или олова.</p>"
+    },
+    "PdM6KpM494esFQZk": {
+      "name": "Пьютеровый штырь (Ф. олово) (Pewter Spike (F. Tin))",
+      "description": "<p>Даёт одну физическую ферухимическую силу (Feruchemical power). Выберите ферухимию железа, пьютера, стали или олова.</p>"
+    },
+    "PjCI6Ixq22iQKA1f": {
+      "name": "Флакон алюминия (Эра 1) (Aluminum Vial (Era 1))",
+      "description": "<p><strong>Цена в Эре 1 (Era 1 Price)</strong> 25 бкс/флакон;</p>"
+    },
+    "Qkq7sijLaZcU6fXS": {
+      "name": "Длинный меч (Longsword)",
+      "description": "<p><strong>Урон (Damage)</strong> 1d8 колющий (keen); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Быстрое выхватывание (Quickdraw), Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): теряет свойство Двуручное (Two-Handed);</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 30 бкс; <strong>Вес (Weight)</strong> 3 фнт;</p>"
+    },
+    "RKVSFjJtidMVC3Tv": {
+      "name": "Флакон олова (Tin Vial)"
+    },
+    "RWI6YcswJGPtMbar": {
+      "name": "Точильный камень (Whetstone)",
+      "description": "<p><strong>Цена (Price)</strong> 0.1 бкс; <strong>Вес (Weight)</strong> 1 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+    },
+    "RWz4T1gNbreSxJaT": {
+      "name": "Молоток (ручной) (Hammer (handheld))",
+      "description": "<p><strong>Цена (Price)</strong> 2 бкс; <strong>Вес (Weight)</strong> 3 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+    },
+    "ScUREJKOjVT1mtkC": {
+      "name": "Алюминиевое Истинное тело (Aluminum True Body)",
+      "description": "<p><strong>Тир ПК (PC Tier) </strong>4; <strong>СИЛ (STR)</strong> 3; <strong>СКР (SPD)</strong> 3; <strong>ВОС (AWA)</strong> 3; <strong>Особая способность (Special Ability)</strong> Алломантически инертный (Allomantically Inert);</p><p></p><p>Когда кандра находятся на Родине, многие из них выбирают Истинное тело (True Body) — облик, сформированный вокруг набора искусственных костей, созданных мастерами-кандра. Кандра может сделать этот облик полупрозрачным, позволяя другим видеть его кости, часто изготовленные из экзотических материалов. Этот материал даёт кандра средство творческого самовыражения, но может также давать определённые преимущества.</p><p>Как персонаж-кандра, вы можете получить в награду кости для Истинного тела, если у вас есть доступ к мастеру или ранги в «Ремесле» (Crafting), равные тиру награды костей или превышающие его. Вы можете поглотить эти кости с помощью таланта @UUID[Compendium.cosmere-rpg-mistborn-handbook.ancestries.Item.kXeNtxEOpjXYBCt3]{Маскировка кандры (Kandra Disguise)}, как если бы это было человеческое тело; как обычно, это временно заменяет ваши атрибуты теми, что указаны для вашего Истинного тела.</p><p></p><p><strong>Алломантически инертный (Allomantically Inert).</strong> Проверки, нацеленные на вас с помощью инвестированного искусства (Invested Art), получают помеху (disadvantage). Если вы можете использовать алюминиевую ферухимию (например, через гемалургический штырь), вы можете использовать эти кости как металлопамять (metalmind) для этой силы.</p>"
+    },
+    "SnQpASdqtxNECCNi": {
+      "name": "Еда (паёк, 1 день) (Food (ration, 1 day))",
+      "description": "<p><strong>Цена (Price)</strong> 0.1 бкс; <strong>Вес (Weight)</strong> 0.5 фнт.;</p><p>Пайки — это еда для долгих путешествий, например вяленое мясо и твёрдый хлеб. Обычно она безвкусна, но, если хранить её сухой, остаётся съедобной неограниченно долго.</p>"
+    },
+    "SsnjHFrF0OheW5oX": {
+      "name": "Болтовая винтовка (Bolt Rifle)",
+      "description": "<p><strong>Урон (Damage)</strong> 1d10 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [150/600]; <strong>Свойства (Traits)</strong> Заряжено (Loaded) [1], Пронзающее (Pierce), Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): дальность становится [250/1,000];</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 600 бкс; <strong>Вес (Weight)</strong> 9 фнт;</p>"
+    },
+    "T4KW4cFnkOmoMsuC": {
+      "name": "Флакон железа (Iron Vial)"
+    },
+    "TEinFgvsZE2j6kKQ": {
+      "name": "Набор «Исследователь» (Эра 1) (Researcher Kit (Era 1))",
+      "description": "<p><strong>Оружие (Weapons):</strong> один нож (Эра 1)</p><p><strong>Броня (Armor):</strong> мундир</p><p><strong>Снаряжение (Equipment):</strong> рюкзак с простой одеждой, перо для чернил, флакон чернил, 20 листов бумаги, масляный фонарь, фляга масла, справочная книга по теме на ваш выбор (с одобрения ГМ), а также замок с ключом</p><p><strong>Деньги (Currency):</strong> кошель с [[/r 3d12]] боксингов (Эра 1)</p><p><strong>Дополнительная экспертиза (Additional Expertise):</strong> вы получаете экспертизу «Литература» (Literature) из прикладных. Если она у вас уже есть, вы вместо этого получаете одну культурную или прикладную экспертизу на ваш выбор. Эта экспертиза не учитывается среди экспертиз, выбранных при создании персонажа.</p>"
+    },
+    "TmrXGEiVq4Mn8WCh": {
+      "name": "Автомобиль (Эра 2) (Car (Era 2))",
+      "description": "<p><strong>Цена покупки (Purchase Price)</strong> 4,000 бкс; <strong>Аренда в день (Rental Price per Day)</strong> 200 бкс; <strong>Скорость в пути (Travel Speed)</strong> 30 миль/ч; <strong>Тип (Type)</strong> Суша (Land)</p>"
+    },
+    "Uk5sqUdiTM573Ohg": {
+      "name": "Туманный плащ-пыльник (Эра 2) (Mistcoat (Era 2))",
+      "description": "<p><strong>Значение отражения (Deflect Value)</strong> 1; <strong>Свойства (Traits)</strong> Представительное (Presentable); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique);</p><p><strong>Цена (Price)</strong> Только в награду; <strong>Вес (Weight)</strong> 10 фнт.;</p><p></p><p>Дань уважения туманным плащам Последней империи (Final Empire): туманные плащи-пыльники (mistcoats) Эры 2 — пальто до щиколоток, которые чуть выше талии разделяются на полосы, похожие на кисти. Как и туманные плащи, каждый плащ-пыльник шьётся на заказ для владельца. Они задуманы одновременно защитными и модными, а хорошо поношенный плащ-пыльник может даже имитировать некоторые эффекты легендарных туманных плащей.</p><p><strong>Особые свойства (Unique Traits).</strong> Если у вас есть экспертиза специалиста «Туманный плащ-пыльник» (Mistcoat), добавьте следующее особое экспертное свойство:</p><p><strong>Развевающиеся кисти (Flowing Tassels).</strong> Пока вы носите эту броню в месте, ограничивающем обзор, например в темноте или тумане, вы получаете преимущество (advantage) на проверки «Скрытности» (Stealth) против персонажей, чьё основное чувство ограничено этим местом. Кроме того, такие персонажи получают помеху (disadvantage) на проверки «Внимания» (Perception) против вас.</p>"
+    },
+    "V2AbDAq6NRuqKtxX": {
+      "name": "Деревянный посох (Wooden Staff)",
+      "description": "<p><strong>Урон (Damage)</strong> 1d6 дробящий (impact); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Неприметное (Discreet), Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Защитное (Defensive);</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 5 бкс; <strong>Вес (Weight)</strong> 4 фнт;</p>"
+    },
+    "WDiC6hIIyCOLaytZ": {
+      "name": "Бедное жильё (Poor Lodging)",
+      "description": "<p>Цена 0,2 бкс (bx) с человека за ночь.</p>"
+    },
+    "WIglLGRboNtm8uqJ": {
+      "name": "Непривязанная металлопамять (Unkeyed Metalmind)",
+      "description": "<p>Металлопамятями обычно может пользоваться только их создатель. Однако у некоторых металлопамятей это ограничение снято необычными средствами.</p><p>Непривязанная металлопамять (unkeyed metalmind), которая может быть сделана из любого ферухимического металла, имеет следующие эффекты:</p><ul><li><p>Из неё может черпать любой, кто владеет ферухимической силой, соответствующей этому металлу.</p></li><li><p>У неё заранее определён максимум зарядов, но в остальном из неё можно черпать как из обычной металлопамяти.</p></li><li><p>Заряд, накопленный в непривязанной металлопамяти, может потратить любой, у кого есть эта ферухимическая сила, как если бы он накопил этот заряд сам. Например, непривязанная медная металлопамять позволяет извлекать воспоминания, накопленные кем-то другим.</p></li><li><p>Когда заряды непривязанной металлопамяти исчерпаны, некоторые покровители могут обменять её на заряженную, либо вы можете сделать это, выполнив цель «Обменять на новую металлопамять» (Exchange for a New Metalmind).</p></li><li><p>Если вы накапливаете заряд в непривязанной металлопамяти, она перестаёт быть непривязанной и становится вашей запасной металлопамятью.</p></li></ul><p>Таблица «@UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.Rn9IDL3Nvu7wvARP.JournalEntryPage.co1rutvZzKz30nui]{Непривязанные металлопамяти по тирам (Unkeyed Metalminds by Tier)}» предлагает подходящий максимум зарядов для этой награды.</p>"
+    },
+    "WaBh0eWxoQj3s7sd": {
+      "name": "Латунный штырь (Ф. бронза) (Brass Spike (F. Bronze))",
+      "description": "<p>Даёт одну когнитивную ферухимическую силу (Feruchemical power). Выберите ферухимию латуни, бронзы, меди или цинка.</p>"
+    },
+    "WutO1IM8DbLGtpXp": {
+      "name": "Сеть (охотничья) (Net (hunting))",
+      "description": "<p><strong>Цена (Price)</strong> 2 бкс; <strong>Вес (Weight)</strong> 5 фнт.;</p><p>Эта сеть из толстой верёвки может опутать животных или врагов. Держа эту сеть, вы можете использовать <span class=\"cosmere-icon\">1</span>, чтобы совершить [[test skill=ath]] против Физической защиты (Physical defense) Большого (Large) или меньшего персонажа в пределах 15 футов от вас. При успехе персонаж становится @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#restrained]{Скован (Restrained)} и сбит с ног (Prone). Этот персонаж или другой, который может до него дотянуться, может использовать действие «Взаимодействие» (Interact), чтобы совершить [[test dc=15 skill=ath]], освободив пойманного персонажа при успехе. Если персонаж @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#restrained]{Скован (Restrained)} несколькими сетями, его нужно освободить от каждой отдельно.</p>"
+    },
+    "X1XSHvHUw9JKZ18d": {
+      "name": "Импровизированное оружие (лёгкое) (Improvised Weapon (Light))",
+      "description": "<p><strong>Урон (Damage)</strong> 1d — ; <strong>Дальность (Range)</strong> —; <strong>Свойства (Traits)</strong> Хрупкое (Fragile); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique);</p><p><strong>Тип (Type)</strong> Особое оружие (Special Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> —; <strong>Вес (Weight)</strong> —;</p><p><em>Отредактируйте эту карточку импровизированного оружия так, чтобы она соответствовала наиболее подходящему оружию из таблицы «Лёгкого оружия»</em></p><p></p><p>В пылу боя вы можете решить атаковать предметом, который обычно не считается оружием (например, ударить кого-нибудь горшком), или использовать оружие нестандартным образом (например, орудовать ружьём как посохом). Если вы можете взять предмет в одну или обе руки, вы можете использовать его в качестве импровизированного оружия!</p><p><strong>Экспертиза (Expertise).</strong> В отличие от других записей таблицы «@UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.Rn9IDL3Nvu7wvARP.JournalEntryPage.gVumLb8jC29zHuNR]{Особое оружие (Special Weapons)}», вы можете выбрать импровизированное оружие как оружейную экспертизу. В этом случае ваши импровизированные атаки получают экспертные свойства наиболее похожего на него оружия, даже если у вас нет экспертизы в обращении с этим похожим оружием.</p><p><strong>Использование импровизированного оружия (Using an Improvised Weapon).</strong> Когда вы атакуете импровизированным оружием, ГМ решает, на какое неособое лёгкое или тяжёлое оружие оно похоже больше всего. Совершайте атаку так, как если бы использовали это оружие, но добавьте свойство «Хрупкое» (Fragile) (см. «@UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.PnE3nfR1nWtAAKG3.JournalEntryPage.xKCqO2mvGvAoT3KG#weapon-traits]{Свойства оружия (Weapon Traits)}»).</p>"
+    },
+    "X2CrY41KMzaHc7rC": {
+      "name": "Цепь (тонкая, 1 фут) (Chain (thin, 1 foot))",
+      "description": "<p><strong>Цена (Price)</strong> 10 бкс; <strong>Вес (Weight)</strong> 0.5 фнт.;</p><p>Эта тонкая цепь часто используется в украшениях и обычно изготавливается из драгоценных металлов с мелкими звеньями. Цепь можно разорвать успехом в [[test dc=20 skill=ath]] или нанеся ей 5 урона.</p>"
+    },
+    "XIVcK2jmFeQvtQh6": {
+      "name": "Лошадь (Horse)",
+      "description": "<p><strong>Цена покупки (Purchase Price)</strong> 500 бкс; <strong>Аренда в день (Rental Price per Day)</strong> 4 бкс; <strong>Грузоподъёмность (Carrying Capacity)</strong> 500 фнт.; <strong>Скорость в пути (Travel Speed)</strong> 4 миль/ч; </p>"
+    },
+    "XJ5BRBkkHBdmcKKh": {
+      "name": "Флакон термосплава (Bendalloy Vial)",
+      "description": "<p><strong>Цена в Эре 1 (Era 1 Price)</strong> Недоступно; <strong>Цена в Эре 2 (Era 2 Price)</strong> 500 бкс/флакон;</p>"
+    },
+    "XOuL6g3fc22JJ4Nu": {
+      "name": "Мыло (Soap)",
+      "description": "<p><strong>Цена (Price)</strong> 0.5 бкс; <strong>Вес (Weight)</strong> 0.1 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+    },
+    "XRlZP4JqG5ZM1MAs": {
+      "name": "Блочная система (Pulley System)",
+      "description": "<p><strong>Цена (Price)</strong> 50 бкс; <strong>Вес (Weight)</strong> 12 фнт.;</p><p>Чаще всего используемая инженерами и строителями, эта система содержит четыре блочных колеса, 30 футов верёвки и крюк. Если у вас есть время установить блочный механизм, пытаясь поднять предмет, считайте, что вес предмета составляет четверть обычного.</p>"
+    },
+    "XYcZ3Q9P31L6U6mI": {
+      "name": "Набор «Преступный мир» (Эра 1) (Underworld Kit (Era 1))",
+      "description": "<p><strong>Оружие (Weapons):</strong> два лёгких оружия</p><p><strong>Броня (Armor):</strong> кожаная броня</p><p><strong>Снаряжение (Equipment):</strong> рюкзак с простой одеждой, алкоголь (бутылка виски), кастеты, лом, отмычка, 50 футов верёвки, кремень и огниво, масляный фонарь, фляга масла и 5 дней уличной еды</p><p><strong>Деньги (Currency):</strong> кошель с [[/r 1d20]] боксингов (Эра 1)</p>"
+    },
+    "Y0Ly0OkNOFLwmxUA": {
+      "name": "Горшок (железный) (Pot (iron))",
+      "description": "<p><strong>Цена (Price)</strong> 4 бкс; <strong>Вес (Weight)</strong> 10 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+    },
+    "Y50EWM25RAYW4wcz": {
+      "name": "Набор «Беглец» (Runaway Kit)",
+      "description": "<p><strong>Оружие, броня и деньги (Weapons, Armor, and Currency):</strong> нет</p><p><strong>Снаряжение (Equipment):</strong> рваная одежда</p><p><strong>Щелчок (Snap):</strong> Вы совершили Щелчок (Snapped) задолго до обычного человека, обнаружив свои скрытые алломантические способности, и уже экспериментировали со своими силами. Когда вы получаете ключевой талант пути металлорождённых, дающего алломантию (например, Рождённого туманом (Mistborn), Туманщика (Misting) или двурождённого (Twinborn)), при создании персонажа или на более позднем уровне, вы немедленно выполняете начальную цель этого таланта «Натренировать силы» (Train Your Power(s)).</p>"
+    },
+    "YhzG8NyLKffRNRXZ": {
+      "name": "Кадмиевый штырь (А. кадмий) (Cadmium Spike (A. Cadmium))",
+      "description": "<p>Даёт одну временну́ю алломантическую силу (Allomantic power). Выберите алломантию термосплава, кадмия, электрума или золота.</p>"
+    },
+    "YrsvEoGWWZ4qGsSo": {
+      "name": "Кожаная (Leather)",
+      "description": "<p><strong>Значение отражения (Deflect Value)</strong> 1; <strong>Свойства (Traits)</strong> —; <strong>Экспертные свойства (Expert Traits)</strong> Представительное (Presentable);</p><p><strong>Цена (Price)</strong> 30 бкс; <strong>Вес (Weight)</strong> 10 фнт.;</p>"
+    },
+    "ZgUsHC5KbbK5NyNo": {
+      "name": "Деревянный щит (Wooden Shield)",
+      "description": "<p><strong>Урон (Damage)</strong> 1d6 дробящий (impact); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Защитное (Defensive), Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): теряет свойство Двуручное (Two-Handed);</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 50 бкс; <strong>Вес (Weight)</strong> 4 фнт;</p>"
+    },
+    "Zopb04ptnAE9yCZK": {
+      "name": "Длинный лук (Longbow)",
+      "description": "<p><strong>Урон (Damage)</strong> 1d6 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [150/600]; <strong>Свойства (Traits)</strong> Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Непрямой (Indirect);</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 75 бкс; <strong>Вес (Weight)</strong> 3 фнт;</p>"
+    },
+    "aRRqq0i1Ez7ZxgJc": {
+      "name": "Поясной меч (Sidesword)",
+      "description": "<p><strong>Урон (Damage)</strong> 1d6 колющий (keen); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Быстрое выхватывание (Quickdraw); <strong>Экспертные свойства (Expert Traits)</strong> Вторая рука (Offhand);</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 15 бкс; <strong>Вес (Weight)</strong> 2 фнт;</p>"
+    },
+    "bFlVYbZTm1KQswE7": {
+      "name": "Флакон цинка (Zinc Vial)"
+    },
+    "bJoWkt6T45R4kgfd": {
+      "name": "Тоник (1 доза) (Tonic (1 dose))",
+      "description": "<p><strong>Цена (Price)</strong> 2 бкс; <strong>Вес (Weight)</strong> 0.2 фнт.;</p><p>Резкая настойка из секретных ингредиентов. В Эре 1 многие дворяне ежедневно принимают ложку Пьютерхартского тоника (Pewterheart Tonic), а в Эре 2 бесчисленные довольные покупатели клянутся в действенности Сверкающего тоника (Sparkle Tonic). (А другие клянутся, что это просто эффект плацебо.) В любом случае персонаж может принять дозу после короткого отдыха, чтобы восстановить [[healing 1d4]] и 1 фокус (focus).</p>"
+    },
+    "bP1OyNiin20n0GOE": {
+      "name": "Кадмиевый штырь (А. золото) (Cadmium Spike (A. Gold))",
+      "description": "<p>Даёт одну временну́ю алломантическую силу (Allomantic power). Выберите алломантию термосплава, кадмия, электрума или золота.</p>"
+    },
+    "bR0XVSOJKa25D2ez": {
+      "name": "Крюк-кошка (Grappling Hook)",
+      "description": "<p><strong>Цена (Price)</strong> 5 бкс; <strong>Вес (Weight)</strong> 4 фнт.;</p><p>Крюк-кошка обычно крепится к концу верёвки, чтобы помогать подниматься или спускаться по стенам и утёсам. Надёжно закреплённый крюк даёт преимущество (advantage) на проверки «Ловкости» (Agility) и «Атлетики» (Athletics) при лазании по прикреплённой к нему верёвке.</p><p>Вы можете использовать действие «Взаимодействие» (Interact), чтобы прикрепить крюк к опоре в пределах вашей досягаемости без проверки. Либо вы можете забросить и прикрепить его к подходящей опоре в пределах 20 футов от вас, преуспев в [[test skill=agi]] или [[test skill=ath]] (СЛ назначает ГМ).</p>"
+    },
+    "bSXzf7EwrXKCHyAy": {
+      "name": "Латунная металлопамять (Brassmind)",
+      "description": "<p><em>Хранит тепло (warmth)</em></p><p></p><p>Каждая металлопамять (metalmind) может вмещать максимум зарядов (charges), равный 2 + ваши ранги в «Ферухимии» (Feruchemy) плюс любые дополнительные модификаторы от талантов.</p><p></p><p><strong>Макс. заряды (Max Charges)</strong>: 2 + [[lookup @actor.skills.fer.rank]]{FER} + прочие модификаторы (Other Modifiers)</p><p></p><p><em>*Максимум зарядов пока нужно настраивать вручную.</em></p>"
+    },
+    "cOZiS15Z4VpsVVuW": {
+      "name": "Монета в 2 боксинга (2-Boxing Coin)",
+      "description": "<p>Имперские монеты, в просторечии называемые боксингами (boxings), крупнее — примерно вдвое больше клипов — и обычно делаются из более драгоценных металлов, например золота. Один боксинг, разумеется, стоит 1 бкс (bx). До Катакендра (Catacendre) существовали монеты в 2 и 5 боксингов, а в Эре 2 появились и другие номиналы.</p>"
+    },
+    "cTdSHRh3rrQ0tm1f": {
+      "name": "Духи (1 флакон) (Perfume (1 vial))",
+      "description": "<p><strong>Цена (Price)</strong> 10 бкс; <strong>Вес (Weight)</strong> 0.5 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+    },
+    "cWhzXa3BNFDg6THr": {
+      "name": "Свеча (Candle)",
+      "description": "<p><strong>Цена (Price)</strong> 0.1 бкс; <strong>Вес (Weight)</strong> 0.2 фнт.;</p><p>Пока свеча горит, она освещает область в радиусе 15 футов. Она горит до 6 часов, после чего становится непригодной.</p>"
+    },
+    "dCDUAZzKVddmP9av": {
+      "name": "Хирургические принадлежности (Surgical Supplies)",
+      "description": "<p><strong>Цена (Price)</strong> 20 бкс; <strong>Вес (Weight)</strong> 3 фнт.;</p><p>В этой сумке достаточно бинтов, мазей, шин и других медицинских принадлежностей на 10 применений. Когда вы совершаете [[test skill=med]], чтобы лечить раненого персонажа (или подобным образом использовать эти принадлежности), вы можете потратить одно из этих применений, чтобы получить преимущество (advantage) на проверку.</p>"
+    },
+    "dQLbNEqmO2Vr0qhM": {
+      "name": "Клинок колосса (Koloss Blade)",
+      "description": "<p><strong>Урон (Damage)</strong> 1d12 дробящий (impact); <strong>Дальность (Range)</strong> Ближний бой (Melee) [+5]; <strong>Свойства (Traits)</strong> Громоздкое (Cumbersome) [6], Опасное (Dangerous), Смертоносное (Deadly), Двуручное (Two-Handed), Особое (Unique); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): теряет свойство Опасное (Dangerous), урон становится 1d20 дробящий (impact);</p><p><strong>Тип (Type)</strong> Особое оружие (Special Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> Только в награду; <strong>Вес (Weight)</strong> 200 фнт;</p><p></p><p>Клинки колоссов (koloss blades) — огромные и до нелепости тяжёлые куски металла, обычно железа, грубо выплавленные в форме меча. Они почти так же длинны, как рост владеющих ими колоссов — обычно 7–8 футов — и примерно так же широки, как ширина плеч большинства людей. После поколений, когда ими орудовали грубой силой, буквально дробя противников, эти клинки обычно затуплены, выщерблены и помяты, часто с зазубренными краями.</p><p><strong>Особое свойство (Unique Trait).</strong> Клинки колоссов имеют следующее особое свойство:</p><p><strong>Неуклюжий (Unwieldy).</strong> Из-за неудобной конструкции атаки клинком колосса не могут задевать (graze).</p>"
+    },
+    "dRinviJNDrrsHrSo": {
+      "name": "Медный штырь (Copper Spike)",
+      "description": "<p>Даёт ментальную стойкость. Ваш Интеллект (Intellect) увеличивается на 1.</p>"
+    },
+    "dao2YbedjUmznApf": {
+      "name": "Флакон дюралюминия (Эра 2) (Duralumin Vial (Era 2))",
+      "description": "<p><strong>Цена в Эре 2 (Era 2 Price)</strong> 50 бкс/флакон;</p>"
+    },
+    "eNpsl2LSCmkoexbg": {
+      "name": "Нож (Knife)",
+      "description": "<p><strong>Урон (Damage)</strong> 1d4 колющий (keen); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Неприметное (Discreet); <strong>Экспертные свойства (Expert Traits)</strong> Вторая рука (Offhand), Метательное (Thrown) [20/60];</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 2 бкс; <strong>Вес (Weight)</strong> 1 фнт;</p>"
+    },
+    "eVwROxcI7IyJSbmK": {
+      "name": "Кувшин (Jug)",
+      "description": "<p><strong>Цена (Price)</strong> 1 бкс; <strong>Вес (Weight)</strong> 4 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+    },
+    "eiY4NQ2sWiTHhpBN": {
+      "name": "Боксинг (Boxing)",
+      "description": "<p>Имперские монеты, в просторечии называемые боксингами (boxings), крупнее — примерно вдвое больше клипов — и обычно делаются из более драгоценных металлов, например золота. Один боксинг, разумеется, стоит 1 бкс (bx). До Катакендра (Catacendre) существовали монеты в 2 и 5 боксингов, а в Эре 2 появились и другие номиналы.</p>"
+    },
+    "enBhoi9CSFT51bTW": {
+      "name": "Палатка (двухместная) (Tent (two-person))",
+      "description": "<p><strong>Цена (Price)</strong> 5 бкс; <strong>Вес (Weight)</strong> 20 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+    },
+    "erS8NL6l0ONH1RaE": {
+      "name": "Импровизированное оружие (тяжёлое) (Improvised Weapon (Heavy))",
+      "description": "<p><strong>Урон (Damage)</strong> 1d — ; <strong>Дальность (Range)</strong> —; <strong>Свойства (Traits)</strong> Хрупкое (Fragile); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique);</p><p><strong>Тип (Type)</strong> Особое оружие (Special Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> —; <strong>Вес (Weight)</strong> —;</p><p><em>Отредактируйте эту карточку импровизированного оружия так, чтобы она соответствовала наиболее подходящему оружию из таблицы «Тяжёлого оружия»</em></p><p></p><p>В пылу боя вы можете решить атаковать предметом, который обычно не считается оружием (например, ударить кого-нибудь горшком), или использовать оружие нестандартным образом (например, орудовать ружьём как посохом). Если вы можете взять предмет в одну или обе руки, вы можете использовать его в качестве импровизированного оружия!</p><p><strong>Экспертиза (Expertise).</strong> В отличие от других записей таблицы «@UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.Rn9IDL3Nvu7wvARP.JournalEntryPage.gVumLb8jC29zHuNR]{Особое оружие (Special Weapons)}», вы можете выбрать импровизированное оружие как оружейную экспертизу. В этом случае ваши импровизированные атаки получают экспертные свойства наиболее похожего на него оружия, даже если у вас нет экспертизы в обращении с этим похожим оружием.</p><p><strong>Использование импровизированного оружия (Using an Improvised Weapon).</strong> Когда вы атакуете импровизированным оружием, ГМ решает, на какое неособое лёгкое или тяжёлое оружие оно похоже больше всего. Совершайте атаку так, как если бы использовали это оружие, но добавьте свойство «Хрупкое» (Fragile) (см. «@UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.PnE3nfR1nWtAAKG3.JournalEntryPage.xKCqO2mvGvAoT3KG#weapon-traits]{Свойства оружия (Weapon Traits)}»).</p>"
+    },
+    "f1J4IOP0gxGzE61D": {
+      "name": "Флакон дюралюминия (Эра 1) (Duralumin Vial (Era 1))",
+      "description": "<p><strong>Цена в Эре 1 (Era 1 Price)</strong> 25 бкс/флакон;</p>"
+    },
+    "flUEIEhZk3uk59NP": {
+      "name": "Богатое жильё (Wealthy Lodging)",
+      "description": "<p>Цена 25 бкс (bx) с человека за ночь.</p>"
+    },
+    "g7UNBAVkvskIEI23": {
+      "name": "Флакон стали (Steel Vial)"
+    },
+    "gN3eBW643do1hPoc": {
+      "name": "Алкоголь (бутылка) (Alcohol (bottle))",
+      "description": "<p><strong>Цена (Price)</strong> 0.5-300 бкс; <strong>Вес (Weight)</strong> 2-4 фнт.;</p><p>У культур Скадриаля (Scadrial) есть разнообразные традиции употребления хмельного: от самых разбавленных элей и пив до лучших виски и вин.</p>"
+    },
+    "gT8aiRh5P78qLMiK": {
+      "name": "Золотой штырь (Ф. электрум) (Gold Spike (F. Electrum))",
+      "description": "<p>Даёт одну гибридную ферухимическую силу (Feruchemical power). Выберите ферухимию термосплава, кадмия, электрума или золота.</p>"
+    },
+    "gdePR6FRHFXf20rf": {
+      "name": "Ротационный пулемёт (Rotary Gun)",
+      "description": "<p><strong>Урон (Damage)</strong> 3d4 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [20/60]; <strong>Свойства (Traits)</strong> Громоздкое (Cumbersome) [6], Опасное (Dangerous), Заряжено (Loaded) [20], Пронзающее (Pierce), Двуручное (Two-Handed), Особое (Unique); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): теряет свойство Опасное (Dangerous);</p><p><strong>Тип (Type)</strong> Особое оружие (Special Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 2,500 бкс; <strong>Вес (Weight)</strong> 170 фнт;</p><p></p><p>Ротационный пулемёт (rotary gun) имеет набор стволов на вращающемся круглом основании, обычно соединённых с магазином или лентой боеприпасов. Вручную вращая рычаг, патроны подаются в стволы и выстреливают с невероятной скоростью.</p><p>Особенно в городских населённых центрах правоохранители (например, констебли) пристально следят за подобными опасными предметами. Если у вас нет покровителя (см. «@UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.UqXwZ77VrwqnNCR7.JournalEntryPage.J99NbXyTKoPz5Ncg]{Категории наград (Reward Categories)}» в главе 8), разрешающего вам приобретать, перевозить или применять ротационный пулемёт, купить его невероятно трудно, а если вас с ним поймают, вас могут арестовать и привлечь к ответственности.</p><p><strong>Особые свойства (Unique Traits).</strong> Ротационные пулемёты имеют следующие особые свойства:</p><p><strong>Скорость огня (Fire Velocity).</strong> Количество действий «Удар» (Strike), которые вы можете совершить ротационным пулемётом в свой ход, не ограничено. Однако каждый раз, когда вы атакуете ротационным пулемётом, проверка получает столько помех, сколько предыдущих атак им вы совершили в этот ход. Например, когда вы совершаете третью атаку ротационным пулемётом за один ход, ваша проверка атаки получает две помехи (disadvantages).</p><p><strong>Неподъёмный вес (Unwieldy Weight).</strong> Из-за огромного веса и отдачи ротационным пулемётом невероятно трудно пользоваться, не закрепив его на устойчивой поверхности. Пока ротационный пулемёт не закреплён, у него есть свойство «Громоздкое [6]» (Cumbersome [6]). Вы или другой персонаж, который может до него дотянуться, может использовать действие «Взаимодействие» (Interact), чтобы закрепить ротационный пулемёт на горизонтальной устойчивой поверхности; каждый раз, когда вы это делаете, значение свойства «Громоздкое» уменьшается на 2. Например, если вы так взаимодействуете дважды, ротационный пулемёт становится «Громоздким [2]». Если закреплённый ротационный пулемёт по какой-то причине снимают с его поверхности, он перестаёт быть закреплённым и снова становится «Громоздким [6]».</p>"
+    },
+    "glAmg6alkOaaa4Qd": {
+      "name": "Ведро (Bucket)",
+      "description": "<p><strong>Цена (Price)</strong> 0.5 бкс; <strong>Вес (Weight)</strong> 2 фнт.;</p><p><em>Этот предмет указан для ролевой игры и не имеет особых характеристик или правил.</em></p>"
+    },
+    "gpLIklT7jJ37ZU9E": {
+      "name": "Металлическое Истинное тело (Metal True Body)",
+      "description": "<p><strong>Тир ПК (PC Tier) </strong>3; <strong>СИЛ (STR)</strong> 4; <strong>СКР (SPD)</strong> 2; <strong>ВОС (AWA)</strong> 3; <strong>Особая способность (Special Ability)</strong> Скелетная металлопамять (Skeletal Metalmind);</p><p></p><p>Когда кандра находятся на Родине, многие из них выбирают Истинное тело (True Body) — облик, сформированный вокруг набора искусственных костей, созданных мастерами-кандра. Кандра может сделать этот облик полупрозрачным, позволяя другим видеть его кости, часто изготовленные из экзотических материалов. Этот материал даёт кандра средство творческого самовыражения, но может также давать определённые преимущества.</p><p>Как персонаж-кандра, вы можете получить в награду кости для Истинного тела, если у вас есть доступ к мастеру или ранги в «Ремесле» (Crafting), равные тиру награды костей или превышающие его. Вы можете поглотить эти кости с помощью таланта @UUID[Compendium.cosmere-rpg-mistborn-handbook.ancestries.Item.kXeNtxEOpjXYBCt3]{Маскировка кандры (Kandra Disguise)}, как если бы это было человеческое тело; как обычно, это временно заменяет ваши атрибуты теми, что указаны для вашего Истинного тела.</p><p></p><p><strong>Скелетная металлопамять (Skeletal Metalmind).</strong> Выберите неалюминиевый ферухимический металл, из которого сделаны эти кости. Если вы можете использовать соответствующую ферухимическую силу (например, через гемалургический штырь), вы можете использовать эти кости как металлопамять (metalmind) для этой силы.</p>"
+    },
+    "h5ajig4KTh84RAUj": {
+      "name": "Свободное кресло (Эра 2) (Freechair (Era 2))",
+      "description": "<p><strong>Цена (Price)</strong> Бесплатно или 500 бкс; <strong>Вес (Weight)</strong> 12 фнт.;</p><p>Свободное кресло (freechair), созданное на основе технологии дирижаблей, — устройство для передвижения, которое парит и движется с помощью железного медальона и праймерного куба стального толкания (Steelpushing primer cube). Управляющий свободным креслом имеет ту же скорость передвижения, что и другие персонажи (см. «@UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.kwz9u1ntb7EcYxTk.JournalEntryPage.GO9eVv3l8JqDfEpe#speed]{Скорость (Speed)}» в главе 3), и креслу не требуется действие для активации.</p><p>Хотя свободные кресла можно купить, персонажи с ограниченными возможностями могут получить его бесплатно. В Эре 1 технология свободных кресел неизвестна, но персонажи могут использовать инвалидное кресло с той же скоростью передвижения.</p>"
+    },
+    "h5qadhOBjvTCbaQB": {
+      "name": "Охотничье ружьё (Hunting Rifle)",
+      "description": "<p><strong>Урон (Damage)</strong> 1d8 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [150/600]; <strong>Свойства (Traits)</strong> Заряжено (Loaded) [1], Пронзающее (Pierce), Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): Заряжено (Loaded) [3] вместо Заряжено (Loaded) [1];</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 400 бкс; <strong>Вес (Weight)</strong> 5 фнт;</p>"
+    },
+    "hH5881XHDBkySRs3": {
+      "name": "Флакон золота (Эра 1) (Gold Vial (Era 1))",
+      "description": "<p><strong>Цена в Эре 1 (Era 1 Price)</strong> 5 бкс/флакон;</p>"
+    },
+    "hSlO9QMMeoogpsrv": {
+      "name": "Бочка (Barrel)",
+      "description": "<p><strong>Цена (Price)</strong> 10 бкс; <strong>Вес (Weight)</strong> 70 фнт.;</p><p><em>Этот предмет указан для ролевой игры и не имеет особых характеристик или правил.</em></p>"
+    },
+    "i9p41QlZJxs92Ia4": {
+      "name": "Бусина чистого лерасиума (Pure Lerasium Bead)",
+      "description": "<p><strong>Цена в Эре 1 (Era 1 Price)</strong> Только в награду; <strong>Цена в Эре 2 (Era 2 Price)</strong> Недоступно;</p>"
+    },
+    "j2CAN6KGnShwNrF9": {
+      "name": "Мундир (Uniform)",
+      "description": "<p><strong>Значение отражения (Deflect Value)</strong> 0; <strong>Свойства (Traits)</strong> Представительное (Presentable); <strong>Экспертные свойства (Expert Traits)</strong> —;</p><p><strong>Цена (Price)</strong> 20 бкс; <strong>Вес (Weight)</strong> 5 фнт.;</p>"
+    },
+    "jJ8YU0YMLrC2qZpK": {
+      "name": "Золотой штырь (Ф. золото) (Gold Spike (F. Gold))",
+      "description": "<p>Даёт одну гибридную ферухимическую силу (Feruchemical power). Выберите ферухимию термосплава, кадмия, электрума или золота.</p>"
+    },
+    "jJw5hLd1sSGvTCU7": {
+      "name": "Нота (Note)",
+      "description": "<p>Бумажные ноты (notes) существуют в обе эры, хотя в Эре 1 эти банкноты обычно бывают только у дворян. Банкнота в 1 ноту стоит 10 бкс (bx). Также в обращении банкноты в 5, 10, 20 и 50 нот.</p>"
+    },
+    "jiqASOmj9Z3rfai5": {
+      "name": "Туманный плащ (Mistcloak)",
+      "description": "<p><strong>Значение отражения (Deflect Value)</strong> 0; <strong>Свойства (Traits)</strong> Особое (Unique); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique);</p><p><strong>Цена (Price)</strong> Только в награду; <strong>Вес (Weight)</strong> 5 фнт.;</p><p></p><p>Туманные плащи (mistcloaks) носят редкие и могущественные Рождённые туманом (Mistborn) — алломанты, способные сжигать все алломантические металлы. Эти тёмные плащи, более распространённые в Эре 1, чем в Эре 2, обычно с капюшоном и сшиты из тонких полос лёгкой ткани, соединённых с капюшоном на плечах владельца. Движение длинных кистей повторяет кружение туманов, из-за чего владельца гораздо труднее заметить в условиях плохой видимости. Каждый туманный плащ шьётся на заказ для своего владельца, поэтому плащи могут сильно различаться по виду.</p><p><strong>Особое свойство (Unique Trait).</strong> Туманные плащи добавляют следующее особое свойство:</p><p><strong>Развевающиеся кисти (Flowing Tassels).</strong> Пока вы носите эту броню в месте, ограничивающем обзор, например в темноте или тумане, вы получаете преимущество (advantage) на проверки «Скрытности» (Stealth) против персонажей, чьё основное чувство ограничено этим местом. Кроме того, такие персонажи получают помеху (disadvantage) на проверки «Внимания» (Perception) против вас.</p><p>Если у вас есть экспертиза специалиста «Туманный плащ» (Mistcloak), также добавьте следующее особое экспертное свойство:</p><p><strong>Величие Рождённого туманом (Mistborn Gravitas).</strong> Пока вы носите эту броню, вы получаете преимущество (advantage) на проверки «Запугивания» (Intimidation) против персонажей, не являющихся Рождёнными туманом, которые могут вас воспринимать и у которых нет причин считать, что вы не Рождённый туманом.</p>"
+    },
+    "jl5xn1mYBQgQsx7E": {
+      "name": "Поезд (Эра 2) (Train (Era 2))",
+      "description": "<p><strong>Цена покупки (Purchase Price)</strong> 50,000 бкс; <strong>Аренда в день (Rental Price per Day)</strong> 25 бкс с пассажира; <strong>Скорость в пути (Travel Speed)</strong> 60 миль/ч; <strong>Тип (Type)</strong> Суша (Land)</p>"
+    },
+    "k03AOpzaJ3EHBarF": {
+      "name": "Электрумовый штырь (А. никросил) (Electrum Spike (A. Nicrosil))",
+      "description": "<p>Даёт одну усиливающую алломантическую силу (Allomantic power). Выберите алломантию алюминия, хрома, дюралюминия или никросила.</p>"
+    },
+    "l05KtQqwAeCByChf": {
+      "name": "Цинковая металлопамять (Zincmind)",
+      "description": "<p><em>Хранит умственную скорость (mental speed)</em></p><p></p><p>Каждая металлопамять (metalmind) может вмещать максимум зарядов (charges), равный 2 + ваши ранги в «Ферухимии» (Feruchemy) плюс любые дополнительные модификаторы от талантов.</p><p></p><p><strong>Макс. заряды (Max Charges)</strong>: 2 + [[lookup @actor.skills.fer.rank]]{FER} + прочие модификаторы (Other Modifiers)</p><p></p><p><em>*Максимум зарядов пока нужно настраивать вручную.</em></p>"
+    },
+    "l0ttECDXEUNyLv2G": {
+      "name": "Флакон никросила (Nicrosil Vial)",
+      "description": "<p><strong>Цена в Эре 1 (Era 1 Price)</strong> Недоступно; <strong>Цена в Эре 2 (Era 2 Price)</strong> 50 бкс/флакон;</p>"
+    },
+    "lEXvaGCAksxxZ5Ri": {
+      "name": "Флакон латуни (Brass Vial)"
+    },
+    "lRIVvMpwhUyOpHNx": {
+      "name": "Стальная металлопамять (Steelmind)",
+      "description": "<p><em>Хранит физическую скорость (physical speed)</em></p><p></p><p>Каждая металлопамять (metalmind) может вмещать максимум зарядов (charges), равный 2 + ваши ранги в «Ферухимии» (Feruchemy) плюс любые дополнительные модификаторы от талантов.</p><p></p><p><strong>Макс. заряды (Max Charges)</strong>: 2 + [[lookup @actor.skills.fer.rank]]{FER} + прочие модификаторы (Other Modifiers)</p><p></p><p><em>*Максимум зарядов пока нужно настраивать вручную.</em></p>"
+    },
+    "le4Pzlyr5KUBZpGx": {
+      "name": "Торговая баржа (Merchant barge)",
+      "description": "<p><strong>Цена покупки (Purchase Price)</strong> 10,000 бкс; <strong>Аренда в день (Rental Price per Day)</strong> 25 бкс; <strong>Скорость в пути (Travel Speed)</strong> 5 миль/ч; <strong>Тип (Type)</strong> Вода (Water)</p>"
+    },
+    "le4gXiZ44GyHlx9k": {
+      "name": "Набор «Хранитель» (Keeper Kit)",
+      "description": "<p><strong>Оружие, броня и деньги (Weapons, Armor, and Currency):</strong> нет</p><p><strong>Снаряжение (Equipment):</strong> дорогая одежда (мантии)</p><p><strong>Металлопамять (Metalmind):</strong> Будь вы Хранителем (Keeper) сами или тем, кто продолжает их традиции спустя сотни лет, вы рано узнали о своих ферухимических способностях и уже получили свою первую металлопамять. Когда вы получаете ключевой талант пути металлорождённых, дающего ферухимию (например, ферринга (Ferring), ферухимика (Feruchemist) или двурождённого (Twinborn)), при создании персонажа или на более позднем уровне, немедленно выполните начальную цель этого таланта «Создать металлопамять» (Construct Your Metalmind(s)).</p>"
+    },
+    "likzmV3iQ1jZpQ0N": {
+      "name": "Пьютеровый штырь (Ф. пьютер) (Pewter Spike (F. Pewter))",
+      "description": "<p>Даёт одну физическую ферухимическую силу (Feruchemical power). Выберите ферухимию железа, пьютера, стали или олова.</p>"
+    },
+    "m7nAjUB8yCtFdoJH": {
+      "name": "Цепь (толстая, 10 футов) (Chain (thick, 10 feet))",
+      "description": "<p><strong>Цена (Price)</strong> 10 бкс; <strong>Вес (Weight)</strong> 10 фнт.;</p><p>Эта прочная цепь пригодна для крепления груза, сковывания пленников и других ситуаций, где важна прочность. Цепь можно разорвать успехом в [[test dc=30 skill=ath]] или нанеся ей 15 урона.</p>"
+    },
+    "mBudliSTTbvSqKCd": {
+      "name": "Дробовик (Shotgun)",
+      "description": "<p><strong>Урон (Damage)</strong> 1d10 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [20/60]; <strong>Свойства (Traits)</strong> Опасное (Dangerous), Заряжено (Loaded) [2], Пронзающее (Pierce), Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Взрывное (Blast) [5];</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 600 бкс; <strong>Вес (Weight)</strong> 7 фнт;</p>"
+    },
+    "mD895AhhXMsvOJIB": {
+      "name": "Деревянные полулаты (Wooden Half-Plate)",
+      "description": "<p><strong>Значение отражения (Deflect Value)</strong> 3; <strong>Свойства (Traits)</strong> Громоздкое (Cumbersome) [5], Хрупкое (Fragile); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): теряет свойство Хрупкое (Fragile);</p><p><strong>Цена (Price)</strong> 1,000 бкс; <strong>Вес (Weight)</strong> 30 фнт.;</p>"
+    },
+    "mSJ6vqkFTkvyTY8I": {
+      "name": "Бронзовый штырь (А. медь) (Bronze Spike (A. Copper))",
+      "description": "<p>Даёт одну ментальную алломантическую силу (Allomantic power). Выберите алломантию латуни, бронзы, меди или цинка.</p>"
+    },
+    "mSnoBQu6Bd7cbIL2": {
+      "name": "Флакон меди (Copper Vial)"
+    },
+    "mX9v7UnBXKFuP8mI": {
+      "name": "Монета в 20 клипов (20-Clip coin)",
+      "description": "<p>Клипы (clips) — мелкие монеты из простых металлов, таких как железо, олово и бронза. Один клип стоит 0,01 бкс (bx). Они также бывают номиналом в 5, 10, 20 и 50 клипов.</p>"
+    },
+    "mkBGxGsWWc6O8wK3": {
+      "name": "Термосплавный штырь (Ф. дюралюмин) (Bendalloy Spike (F. Duralumin))",
+      "description": "<p>Даёт одну духовную ферухимическую силу (Feruchemical power). Выберите ферухимию алюминия, хрома, дюралюминия или никросила.</p>"
+    },
+    "nGXUBepQmcllI6V7": {
+      "name": "Паровой корабль (Эра 2) (Steam Ship (Era 2))",
+      "description": "<p><strong>Цена покупки (Purchase Price)</strong> 75,000 бкс; <strong>Аренда в день (Rental Price per Day)</strong> 100 бкс; <strong>Скорость в пути (Travel Speed)</strong> 20 миль/ч; <strong>Тип (Type)</strong> Вода (Water)</p>"
+    },
+    "nx1r37alGv1psvmb": {
+      "name": "Набор «Преступный мир» (Эра 2) (Underworld Kit (Era 2))",
+      "description": "<p><strong>Оружие (Weapons):</strong> два лёгких оружия</p><p><strong>Броня (Armor):</strong> кожаная броня</p><p><strong>Снаряжение (Equipment):</strong> рюкзак с простой одеждой, алкоголь (бутылка виски), кастеты, лом, отмычка, 50 футов верёвки, кремень и огниво, масляный фонарь, фляга масла и 5 дней уличной еды</p><p><strong>Деньги (Currency):</strong> кошель с [[/r 1d20 * 10]] боксингов (Эра 2)</p>"
+    },
+    "o1WA2M5M0GyrG9wY": {
+      "name": "Благословение Стойкости (Blessing of Fortitude)",
+      "description": "<p>Увеличьте ваше значение отражения (deflect) на 1. Пока вы в облике Маскировки кандры (Kandra Disguise), ваше значение отражения уменьшает дробящий (impact) урон.<br></p><p>Примечание Foundry (Foundry Note): отражение кандры (Kandra Deflect) в настоящее время не автоматизируется в системе. Учтите это, когда получаете урон.</p>"
+    },
+    "oAIKqrMEnaWhPD5T": {
+      "name": "Благословение Устойчивости (Blessing of Stability)",
+      "description": "<p>Увеличьте вашу Волю (Willpower) на 2. Максимальное значение атрибута Воля (Willpower) тоже увеличивается на 2.</p>"
+    },
+    "oslQuL43G0lQwk4K": {
+      "name": "Топор (Axe)",
+      "description": "<p><strong>Урон (Damage)</strong> 1d6 колющий (keen); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Метательное (Thrown) [20/60]; <strong>Экспертные свойства (Expert Traits)</strong> Вторая рука (Offhand);</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 10 бкс; <strong>Вес (Weight)</strong> 2 фнт;</p>"
+    },
+    "p9CwXLHSpJm3RUln": {
+      "name": "Футляр (кожаный) (Case (leather))",
+      "description": "<p><strong>Цена (Price)</strong> 2 бкс; <strong>Вес (Weight)</strong> 1 фнт.;</p><p>Запечатываемый цилиндрический футляр, в котором можно хранить до десяти листов бумаги или пергамента и защищать их от непогоды.</p>"
+    },
+    "pDVT3H24X58f1d3O": {
+      "name": "Одежда (дорогая) (Clothing (fine))",
+      "description": "<p><strong>Цена (Price)</strong> 25–100 бкс; <strong>Вес (Weight)</strong> 6 фнт.;</p><p>Дорогая одежда шьётся из шёлка или других высококачественных материалов, красится дорогими красителями и часто украшается тонкой вышивкой. Дорогая одежда помогает вам слиться с высшим светом, например на дворянских банкетах, не вызывая подозрений. Пока на вас комплект дорогой одежды, вы получаете преимущество (advantage) на духовные проверки, чтобы убедить других, что вы из высшего класса.</p>"
+    },
+    "pI00VZNAMUwPf7Oe": {
+      "name": "Термосплавный штырь (Ф. хром) (Bendalloy Spike (F. Chromium))",
+      "description": "<p>Даёт одну духовную ферухимическую силу (Feruchemical power). Выберите ферухимию алюминия, хрома, дюралюминия или никросила.</p>"
+    },
+    "pRRgMeF3rSW2Mlj5": {
+      "name": "Фляга (Flask)",
+      "description": "<p><strong>Цена (Price)</strong> 0.5 бкс; <strong>Вес (Weight)</strong> 1 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+    },
+    "pb9XjL76wtIKVbJn": {
+      "name": "Клип (Clip)",
+      "description": "<p>Клипы (clips) — мелкие монеты из простых металлов, таких как железо, олово и бронза. Один клип стоит 0,01 бкс (bx). Они также бывают номиналом в 5, 10, 20 и 50 клипов.</p>"
+    },
+    "pgxJoTqF674AuxdO": {
+      "name": "Покровитель-дворянин (Noble Patron)",
+      "description": "<p>Вас поддерживает покровитель из вашего дворянского дома (см. «@UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.UqXwZ77VrwqnNCR7.JournalEntryPage.J99NbXyTKoPz5Ncg#patrons]{Покровители (Patrons)}» в главе 8). Он обеспечивает вам жильё и определённый уровень жизни.</p>"
+    },
+    "qgB48H2AryQUKPJE": {
+      "name": "Электрумовый штырь (А. дюралюмин) (Electrum Spike (A. Duralumin))",
+      "description": "<p>Даёт одну усиливающую алломантическую силу (Allomantic power). Выберите алломантию алюминия, хрома, дюралюминия или никросила.</p>"
+    },
+    "qnlGWr3jB2aoXQ1l": {
+      "name": "Флакон бронзы (Bronze Vial)"
+    },
+    "r4zq0JG1tuiuBj7K": {
+      "name": "Динамит (1 шашка) (Dynamite (1 stick))",
+      "description": "<p><strong>Урон (Damage)</strong> 4d6 дробящий (impact); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Взрывное (Blast) [30], Опасное (Dangerous), Одноразовое (Single-Use), Метательное (Thrown) [20/60], Особое (Unique); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique);</p><p><strong>Тип (Type)</strong> Особое оружие (Special Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 100 бкс; <strong>Вес (Weight)</strong> 0.5 фнт;</p><p></p><p>Динамит — мощная и летучая взрывчатка, обычно используемая для сноса и открытой добычи. Её можно использовать как оружие, но будьте предельно осторожны: даже носить её с собой невероятно опасно. Динамит обычно подрывают фитилём, хотя при необходимости его можно бросить. Несколько шашек динамита можно прикрепить к одному фитилю, чтобы усилить взрыв по таймеру.</p><p>Особенно в городских населённых центрах правоохранители (например, констебли) пристально следят за подобными опасными предметами. Если у вас нет покровителя (см. «@UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.UqXwZ77VrwqnNCR7.JournalEntryPage.J99NbXyTKoPz5Ncg]{Категории наград (Reward Categories)}» в главе 8), разрешающего вам приобретать, перевозить или применять динамит, купить его невероятно трудно, а если вас с ним поймают, вас могут арестовать и привлечь к ответственности.</p><p><strong>Особые свойства (Unique Traits).</strong> Динамит имеет следующие особые свойства:</p><p><strong>Отложенная детонация (Delayed Detonation).</strong> Касаясь одной или нескольких шашек динамита, вы можете использовать <span class=\"cosmere-icon\">2</span>, чтобы прикрепить и поджечь фитиль, выбрав время детонации от 10 до 60 секунд (от 1 до 6 раундов боя). По истечении этого времени шашки динамита взрываются. Когда это происходит, совершите атаку «Ремеслом» (Crafting) против Физической защиты (Physical defense) каждого персонажа в пределах 5 футов от взрывающегося динамита; чтобы определить, как вы воздействуете на цели дальше 5 футов, см. правила свойства «Взрывное» (Blast). По усмотрению ГМ вы можете также повредить или разрушить предметы в радиусе взрыва.</p><p><strong>Нестабильный (Volatile).</strong> Хотя динамит безопаснее в перевозке, чем чистый чёрный порох, он всё же может самовоспламениться при значительном ударе или трении. Когда динамит бросают в персонажа, предмет или поверхность, он автоматически взрывается при ударе, как если бы был подорван фитилём (см. «Отложенная детонация» (Delayed Detonation)). Кроме того, пока вы несёте динамит, ГМ может потратить <span class=\"cosmere-icon\" style=\"color:rgb(173,19,19)\">C</span> из любой вашей проверки, чтобы одна из ваших шашек динамита взорвалась, израсходовавшись и задев каждого персонажа (включая вас) в пределах её дальности взрыва (Blast); однако если у вас есть оружейная экспертиза «Динамит» (Dynamite), вы можете безопасно носить динамит без риска такого взрыва.</p>"
+    },
+    "rCclesiMGBa8Tfw9": {
+      "name": "Увеличительное стекло (Magnifying Lens)",
+      "description": "<p><strong>Цена (Price)</strong> 200 бкс; <strong>Вес (Weight)</strong> 0.2 фнт.;</p><p>Вы можете использовать увеличительное стекло, чтобы получить преимущество (advantage) на любую проверку навыка, которую вы совершаете, чтобы оценить или осмотреть маленький или очень детальный предмет.</p>"
+    },
+    "rDsHfrZkMBFFCDLk": {
+      "name": "Булава (Mace)",
+      "description": "<p><strong>Урон (Damage)</strong> 1d6 дробящий (impact); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> —; <strong>Экспертные свойства (Expert Traits)</strong> Инерционное (Momentum);</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 10 бкс; <strong>Вес (Weight)</strong> 3 фнт;</p>"
+    },
+    "rHagZzjgcmfcQPVk": {
+      "name": "Рюкзак (Backpack)",
+      "description": "<p><strong>Цена (Price)</strong> 4 бкс; <strong>Вес (Weight)</strong> 5 фнт.;</p><p><em>Этот предмет указан для ролевой игры и не имеет особых характеристик или правил.</em></p>"
+    },
+    "rzsl34fEEbYXFjts": {
+      "name": "Набор «Ремесленник» (Эра 1) (Artisan Kit (Era 1))",
+      "description": "<p><strong>Оружие (Weapons):</strong> один молот или лёгкое оружие (на ваш выбор)</p><p><strong>Броня (Armor):</strong> кожаная броня</p><p><strong>Снаряжение (Equipment):</strong> сундук с простой одеждой, хирургические принадлежности, 5 доз слабого антисептика, перо для чернил, флакон чернил, 5 листов пергамента, 5 свечей, кремень и огниво, 3 пустые стеклянные бутылки, камертон, музыкальный инструмент на ваш выбор и весы</p><p><strong>Деньги (Currency):</strong> кошель с [[/r 4d8]] боксингов (Эра 1)</p>"
+    },
+    "sKBSrx7m8gkp5jmj": {
+      "name": "Мешочек (Pouch)",
+      "description": "<p><strong>Цена (Price)</strong> 0.5 бкс; <strong>Вес (Weight)</strong> 1 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+    },
+    "spCQWQSyJl9zfPa3": {
+      "name": "Лестница (10 футов) (Ladder (10-foot))",
+      "description": "<p><strong>Цена (Price)</strong> 10 бкс; <strong>Вес (Weight)</strong> 20 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+    },
+    "t8A5xwXpuU6Ubpi9": {
+      "name": "Бронзовый штырь (А. цинк) (Bronze Spike (A. Zinc))",
+      "description": "<p>Даёт одну ментальную алломантическую силу (Allomantic power). Выберите алломантию латуни, бронзы, меди или цинка.</p>"
+    },
+    "t8X24miZKeC3lP59": {
+      "name": "Гребная лодка (Rowboat)",
+      "description": "<p><strong>Цена покупки (Purchase Price)</strong> 250 бкс; <strong>Аренда в день (Rental Price per Day)</strong> 10 бкс; <strong>Скорость в пути (Travel Speed)</strong> 3 миль/ч по течению, 1 миль/ч против течения; <strong>Тип (Type)</strong> Вода (Water)</p>"
+    },
+    "tIafbgE28yYhQR4J": {
+      "name": "Бумага или пергамент (1 лист) (Paper or Parchment (1 sheet))",
+      "description": "<p><strong>Цена (Price)</strong> 0.2 бкс; <strong>Вес (Weight)</strong> 0.1 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+    },
+    "tdwomstAU8jIfgBc": {
+      "name": "Полулаты (Half-Plate)",
+      "description": "<p><strong>Значение отражения (Deflect Value)</strong> 3; <strong>Свойства (Traits)</strong> Громоздкое (Cumbersome) [4]; <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): Громоздкое (Cumbersome) [3] вместо Громоздкое (Cumbersome) [4];</p><p><strong>Цена (Price)</strong> 200 бкс; <strong>Вес (Weight)</strong> 40 фнт.;</p>"
+    },
+    "u2WJxy5sqKfuZZgM": {
+      "name": "Стеклянный кинжал (Glass Dagger)",
+      "description": "<p><strong>Урон (Damage)</strong> 1d4 колющий (keen); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Неприметное (Discreet), Хрупкое (Fragile); <strong>Экспертные свойства (Expert Traits)</strong> Вторая рука (Offhand), Метательное (Thrown) [20/60];</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 50 бкс; <strong>Вес (Weight)</strong> 0.5 фнт;</p>"
+    },
+    "uHt8uBlvc10jL44e": {
+      "name": "Золотой штырь (Ф. термосплав) (Gold Spike (F. Bendalloy))",
+      "description": "<p>Даёт одну гибридную ферухимическую силу (Feruchemical power). Выберите ферухимию термосплава, кадмия, электрума или золота.</p>"
+    },
+    "uU5tO5ZkgDMEwdgy": {
+      "name": "Набор «Наёмник» (Эра 1) (Mercenary Kit (Era 1))",
+      "description": "<p><strong>Оружие (Weapons):</strong> одно неособое оружие</p><p><strong>Броня (Armor):</strong> мундир и кираса</p><p><strong>Снаряжение (Equipment):</strong> рюкзак с простой одеждой, бурдюк, увеличительное стекло, лом, кандалы и 10 дней пайков</p><p><strong>Деньги (Currency):</strong> кошель с [[/r 2d6]] боксингов (Эра 1)</p>"
+    },
+    "vOi6fd1DHZhkiImQ": {
+      "name": "Флакон пьютера (Pewter Vial)"
+    },
+    "vYVVTL24gMYszkIV": {
+      "name": "Железная металлопамять (Ironmind)",
+      "description": "<p><em>Хранит вес (weight)</em></p><p></p><p>Каждая металлопамять (metalmind) может вмещать максимум зарядов (charges), равный 2 + ваши ранги в «Ферухимии» (Feruchemy) плюс любые дополнительные модификаторы от талантов.</p><p></p><p><strong>Макс. заряды (Max Charges)</strong>: 2 + [[lookup @actor.skills.fer.rank]]{FER} + прочие модификаторы (Other Modifiers)</p><p></p><p><em>*Максимум зарядов пока нужно настраивать вручную.</em></p>"
+    },
+    "vu1nLEGVJHCZaDju": {
+      "name": "Еда (уличная, 1 день) (Food (street, 1 day))",
+      "description": "<p><strong>Цена (Price)</strong> 0.5 бкс; <strong>Вес (Weight)</strong> 1.5 фнт.;</p><p>В каждом доминионе в Эре 1 и в разных городах Эры 2 можно отведать местные уличные лакомства: от обычных хлебов до хаша из корнеплодов и супа из фарлета (farlet).</p>"
+    },
+    "vyMsrzCAEJJyX1ic": {
+      "name": "Флакон хрома (Chromium Vial)",
+      "description": "<p><strong>Цена в Эре 1 (Era 1 Price)</strong> Недоступно; <strong>Цена в Эре 2 (Era 2 Price)</strong> 10 бкс/флакон;</p>"
+    },
+    "w1NJtBDh1NhMenTL": {
+      "name": "Лекарство (медицинское, 1 доза) (Treatment (medical, 1 dose))",
+      "description": "<p><strong>Цена (Price)</strong> 5 бкс; <strong>Вес (Weight)</strong> 0.2 фнт.;</p><p>Скадрианские врачи лечат недуги разнообразными средствами, обычно из растительного сырья вроде чеснока, петрушки, ивы и кипариса. Во время короткого отдыха вы можете использовать дозу такого лекарства, чтобы излечить персонажа от одного из следующих состояний при условии, что его источник — не постоянная травма: @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#disoriented]{Дезориентирован (Disoriented)}, @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#exhausted]{Истощён (Exhausted)} (уменьшает штраф на 1) или @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#stunned]{Оглушён (Stunned)}.</p>"
+    },
+    "w5FZaGw37nQq4Ytj": {
+      "name": "Кастеты (Knucklebones)",
+      "description": "<p><strong>Цена (Price)</strong> 5–10 бкс; <strong>Вес (Weight)</strong> 0.5 фнт.;</p><p>Уличные громилы и головорезы больших городов Скадриаля любят кастеты (knucklebones). Латунные кастеты распространены, но против алломантов более дорогие деревянные стоят каждой монеты.</p><p>Вы можете надеть кастеты на руку вместо оружия в этой руке. Когда вы совершаете безоружную атаку этой рукой, увеличьте размер каждой кости безоружного урона на один размер (см. таблицу «@UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.Rn9IDL3Nvu7wvARP.JournalEntryPage.HOD84joH34YPDpWb]{Урон безоружной атаки (Unarmed Damage)}» ранее в этой главе). Например, урон 1 (без броска) становится 1d4, 1d8 становится 1d10 и так далее.</p>"
+    },
+    "wgf5JpVtKHIxPjlG": {
+      "name": "Кадмиевая металлопамять (Cadmiummind)",
+      "description": "<p><em>Хранит дыхание (breath)</em></p><p></p><p>Каждая металлопамять (metalmind) может вмещать максимум зарядов (charges), равный 2 + ваши ранги в «Ферухимии» (Feruchemy) плюс любые дополнительные модификаторы от талантов.</p><p></p><p><strong>Макс. заряды (Max Charges)</strong>: 2 + [[lookup @actor.skills.fer.rank]]{FER} + прочие модификаторы (Other Modifiers)</p><p></p><p><em>*Максимум зарядов пока нужно настраивать вручную.</em></p>"
+    },
+    "wjgF8ENPmV1Qo6Oz": {
+      "name": "Флакон электрума (Эра 2) (Electrum Vial (Era 2))",
+      "description": "<p><strong>Цена в Эре 2 (Era 2 Price)</strong> 50 бкс/флакон;</p>"
+    },
+    "x0pTUa7eEmKSj6jL": {
+      "name": "Хромовая металлопамять (Chromiummind)",
+      "description": "<p><em>Хранит духовную Удачу (Fortune)</em></p><p></p><p>Каждая металлопамять (metalmind) может вмещать максимум зарядов (charges), равный 2 + ваши ранги в «Ферухимии» (Feruchemy) плюс любые дополнительные модификаторы от талантов.</p><p></p><p><strong>Макс. заряды (Max Charges)</strong>: 2 + [[lookup @actor.skills.fer.rank]]{FER} + прочие модификаторы (Other Modifiers)</p><p></p><p><em>*Максимум зарядов пока нужно настраивать вручную.</em></p>"
+    },
+    "x15Fc6Ptax0WEIDM": {
+      "name": "Яд (действенный, 1 доза) (Poison (effectual, 1 dose))",
+      "description": "<p><strong>Цена (Price)</strong> 25 бкс; <strong>Вес (Weight)</strong> 0.2 фнт.;</p><p>Часто изготавливаемый из гурвраита (gurwraith) или коры лиан вроде бирчбейна (birchbane), яд поставляется в стеклянных флаконах на одну дозу. Как <span class=\"cosmere-icon\">1</span> вы можете налить его в еду, жидкость или ёмкость либо нанести яд на оружие ближнего боя или боеприпас, который вы держите. Когда вы это делаете, ГМ может потребовать от вас успеха в [[test skill=stl]], чтобы избежать обнаружения. Когда персонаж глотает яд или в него попадает атака отравленным оружием или боеприпасом, яд расходуется, и персонаж страдает от следующих эффектов:</p><p><strong>Действенный яд (Effectual Poison).</strong> Цель должна преуспеть в проверке [[test dc=14 skill=ath]] или получить [[damage 2d8 Vital]] и стать @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#stunned]{Оглушён (Stunned)} на 1 час.</p>"
+    },
+    "xEuK3Y3U8FiFdTQK": {
+      "name": "Сеть (рыболовная) (Net (fishing))",
+      "description": "<p><strong>Цена (Price)</strong> 5 бкс; <strong>Вес (Weight)</strong> 15 фнт.;</p><p>Эта сеть с мелкой ячеёй используется для ловли рыбы. Вы можете использовать эту сеть, чтобы получить преимущество (advantage) на физические проверки, связанные с рыбалкой.</p>"
+    },
+    "xbI3fe4Ns0dOVmyp": {
+      "name": "Банкнота в 20 нот (20-Note Bill)",
+      "description": "<p>Бумажные ноты (notes) существуют в обе эры, хотя в Эре 1 эти банкноты обычно бывают только у дворян. Банкнота в 1 ноту стоит 10 бкс (bx). Также в обращении банкноты в 5, 10, 20 и 50 нот.</p>"
+    },
+    "y6pAUq6W79GbuxiA": {
+      "name": "Стальной штырь (А. пьютер) (Steel Spike (A. Pewter))",
+      "description": "<p>Даёт одну физическую алломантическую силу (Allomantic power). Выберите алломантию железа, пьютера, стали или олова.</p>"
+    },
+    "yczjaeenCGKwNRdL": {
+      "name": "Пьютеровый штырь (Ф. железо) (Pewter Spike (F. Iron))",
+      "description": "<p>Даёт одну физическую ферухимическую силу (Feruchemical power). Выберите ферухимию железа, пьютера, стали или олова.</p>"
+    },
+    "zWUzWzc7oid3Hd2X": {
+      "name": "Лом (Crowbar)",
+      "description": "<p><strong>Цена (Price)</strong> 5 бкс; <strong>Вес (Weight)</strong> 3 фнт.;</p><p>Вы можете использовать лом, чтобы получить преимущество (advantage) на проверки «Атлетики» (Athletics), где можно применить рычаг лома.</p>"
+    },
+    "zlAHYFCOzCy0U0XG": {
+      "name": "Металлический песок (мешочек) (Metal Sand (pouch))",
+      "description": "<p><strong>Цена (Price)</strong> 5 бкс; <strong>Вес (Weight)</strong> 0.3 фнт.;</p><p>Вы можете рассыпать эти мелкие хлопья металлолома, чтобы запутать персонажа (например, железного или стального алломанта), способного ощущать металлы. Вы можете использовать <span class=\"cosmere-icon\">1</span>, чтобы бросить мешочек в пространство в пределах 30 футов от вас, порвав мешочек и рассеяв его содержимое. Металлический песок создаёт облако на площади 10 футов на 10 футов, которое остаётся до конца вашего следующего хода. Это облако скрывает как зрение, так и способность алломанта ощущать металл, сжигая железо или сталь. Кроме того, проверки алломантии, совершаемые для железной или стальной алломантии, получают помеху (disadvantage), если это облако находится на линии их воздействия.</p>"
+    }
+  }
+}

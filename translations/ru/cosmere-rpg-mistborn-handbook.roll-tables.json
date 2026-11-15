@@ -1,0 +1,213 @@
+{
+  "mapping": {
+    "results": {
+      "path": "results",
+      "converter": "document",
+      "documentType": "TableResult",
+      "cardinality": "many",
+      "mapping": {
+        "name": "name",
+        "description": "description"
+      }
+    }
+  },
+  "entries": {
+    "4wKx90g7DErGBVwN": {
+      "name": "Открытие Металлического искусства (Эра 1) (Metallic Art Discovery (Era 1))",
+      "results": {
+        "6SUHUm6spV4gGJeO": {
+          "name": "Нет (None)"
+        },
+        "9dzs3cosA1oegroA": {
+          "name": "Путь Рождённого туманом (Mistborn Path)"
+        },
+        "ODNQ4gUbh5LUHSW6": {
+          "name": "Путь Туманщика (Misting Path)"
+        },
+        "ybnRZonIKNPdZHfu": {
+          "name": "Путь ферухимика (Feruchemist Path)"
+        }
+      }
+    },
+    "FjcuZ7vTJ60L9IcO": {
+      "name": "Открытие алломантии (Allomancy Discovery)",
+      "results": {
+        "3u6Pn0jlcLYnJs9E": {
+          "name": "Медь: Курильщик / Медное облако (Smoker / Coppercloud)"
+        },
+        "4Q1OpLauFnMhWpSf": {
+          "name": "Цинк: Разжигатель (Rioter)"
+        },
+        "4QmXvHwhG0NXp6cb": {
+          "name": "Золото: Авгур (Augur)",
+          "description": "<p><em>Доступно только ближе к концу Эры 1 или в Эре 2.</em></p>"
+        },
+        "AbVrBjjFLyHs0HJv": {
+          "name": "Латунь: Гаситель (Soother)"
+        },
+        "E3TE03Gc8U4nUGwA": {
+          "name": "Термосплав: Ускоритель (Slider)",
+          "description": "<p><em>Доступно только в Эре 2.</em></p>"
+        },
+        "FLu2aM15YCOuoejY": {
+          "name": "Олово: Оловоглаз (Tineye)"
+        },
+        "GGWewYkXa5SuOBkj": {
+          "name": "Дюралюмин: Дюралюминиевая мошка (Duralumin Gnat)",
+          "description": "<p><em>Доступно только ближе к концу Эры 1 или в Эре 2.</em></p>"
+        },
+        "Irszo9ZJkQK4Rl7w": {
+          "name": "Электрум: Оракул (Oracle)",
+          "description": "<p><em>Доступно только ближе к концу Эры 1 или в Эре 2.</em></p>"
+        },
+        "TpQBZNzIt6PXf8Qq": {
+          "name": "Кадмий: Замедлитель (Pulser)",
+          "description": "<p><em>Доступно только в Эре 2.</em></p>"
+        },
+        "YizxKQkhKUZVNaLG": {
+          "name": "Никросил: Никровзрыв (Nicroburst)",
+          "description": "<p><em>Доступно только в Эре 2.</em></p>"
+        },
+        "bRd2wfoVKkDuyEvt": {
+          "name": "Железо: Тянущий (Lurcher)"
+        },
+        "c9OXXQwzhdN4DQ4I": {
+          "name": "Сталь: Стрелок (Coinshot)"
+        },
+        "d7waS61xfN618Xlk": {
+          "name": "Алюминий: Алюминиевая мошка / Пустота (Aluminum Gnat / Void)",
+          "description": "<p><em>Доступно только ближе к концу Эры 1 или в Эре 2.</em></p>"
+        },
+        "nsGafy1jOFyr4402": {
+          "name": "Пьютер: Пьютерорукий / Громила (Pewterarm / Thug)"
+        },
+        "tDUiKLAkS58gewMz": {
+          "name": "Бронза: Охотник (Seeker)"
+        },
+        "uSeGinBwukgmzoqa": {
+          "name": "Хром: Пиявка (Leecher)",
+          "description": "<p><em>Доступно только в Эре 2.</em></p>"
+        }
+      }
+    },
+    "N7CrA1q2NqCDi9W2": {
+      "name": "Открытие Металлического искусства (Эра 2) (Metallic Art Discovery (Era 2))",
+      "results": {
+        "6SUHUm6spV4gGJeO": {
+          "name": "Нет (None)"
+        },
+        "ODNQ4gUbh5LUHSW6": {
+          "name": "Путь ферринга (Ferring Path)"
+        },
+        "hQG5NgYFUlqnws3A": {
+          "name": "Путь ферринга или Туманщика (Ferring or Misting path)"
+        },
+        "s9Dj1I37xbt3Rm2z": {
+          "name": "Путь Туманщика (Misting Path)"
+        },
+        "xz0XAnn0E5bMys3n": {
+          "name": "Путь двурождённого (Twinborn Path)"
+        }
+      }
+    },
+    "WPnPTVmzN5UAKy7I": {
+      "name": "Открытие ферухимии (Feruchemy Discovery)",
+      "results": {
+        "0QhJrlw1DViySaHO": {
+          "name": "Электрум: Вершина (Pinnacle)"
+        },
+        "1W9H58A0MsdEVtHv": {
+          "name": "Сталь: Стальной бегун (Steelrunner)"
+        },
+        "5ClcBVmSYDp2EQ4W": {
+          "name": "Олово: Ветрошепчущий (Windwhisperer)"
+        },
+        "77tody5IrFjw0Fpp": {
+          "name": "Цинк: Искра (Sparker)"
+        },
+        "A46UITosyX2kgWhg": {
+          "name": "Алюминий: Истинный (Trueself)"
+        },
+        "GAX7B5s7EefyN82u": {
+          "name": "Дюралюмин: Связной (Connector)"
+        },
+        "Lr9G99ADA6VO2QiU": {
+          "name": "Железо: Лёгкий (Skimmer)"
+        },
+        "RAf2mbCxWC69PiNh": {
+          "name": "Латунь: Огнедуш (Firesoul)"
+        },
+        "SDfh7aBvomTX4s4j": {
+          "name": "Термосплав: Поглотитель (Subsumer)"
+        },
+        "ZtY3z8y11CZavr7D": {
+          "name": "Золото: Кровотворец (Bloodmaker)"
+        },
+        "gUsN80HO8oEkLFu6": {
+          "name": "Кадмий: Задыхальщик (Gasper)"
+        },
+        "j2CIqdlMIBphaHL2": {
+          "name": "Пьютер: Пьютерорукий / Бугай (Pewterarm / Brute)"
+        },
+        "u3FaPkpjwWfljyj0": {
+          "name": "Никросил: Душеносец (Soulbearer)"
+        },
+        "xr0ijxNW1tVsDUoF": {
+          "name": "Медь: Архивист (Archivist)"
+        },
+        "zf68ZqWO5Ci8mHz2": {
+          "name": "Бронза: Часовой (Sentry)"
+        },
+        "zsvlL6nfuZ4NnnIz": {
+          "name": "Хром: Прядильщик (Spinner)"
+        }
+      }
+    },
+    "aITWcLq92bj4EUTo": {
+      "name": "Недостатки предмета (Item Drawbacks)",
+      "results": {
+        "DvP59gcfar3v6NNQ": {
+          "description": "<p>Процесс требует гораздо больше материалов, чем ожидалось. Создание предмета обходится вдвое дороже.</p>"
+        },
+        "KvZa1tY1lr6kE2c0": {
+          "description": "<p>Предмет — сущее уродство.</p>"
+        },
+        "W1ttRdRwijVmoWUQ": {
+          "description": "<p>Предмет хрупок. Осложнение (Complication) на любой проверке с его использованием ломает его.</p>"
+        },
+        "c761yeELjQ0igghU": {
+          "description": "<p>Ваш предмет вызвал профессиональную зависть у некоторых дворян или мастеров; это скажется на вас в будущем.</p>"
+        },
+        "hakA2BYLi9EqeYrz": {
+          "description": "<p>Вы случайно повреждаете свои инструменты или мастерскую. В зависимости от того, чьей мастерской вы пользуетесь, это может стоить вам боксингов (boxings) или повредить вашей репутации.</p>"
+        },
+        "hbNu4JWBeJ0FaOTk": {
+          "description": "<p>Ваш предмет намного громоздче обычного. Удвойте его вес.</p>"
+        }
+      }
+    },
+    "w932Du7dFXZMxqNu": {
+      "name": "Улучшения предмета (Item Upgrades)",
+      "results": {
+        "3QBKtHVC7Op7esZT": {
+          "description": "<p>Вы извлекаете из обрезков достаточно материалов, чтобы сделать что-то ещё. Только что созданный предмет не требует затрат на материалы.</p>"
+        },
+        "NB02YD0iyj9S68sY": {
+          "description": "<p>Ваш предмет намного легче обычного. Уменьшите его вес вдвое.</p>"
+        },
+        "OYdhsBiyebloF2PX": {
+          "description": "<p>Ваш предмет принёс вам признание среди дворян или мастеров; вы привлекаете внимание возможного покровителя (см. «Награды (Rewards)» в главе 8).</p>"
+        },
+        "Z8hC7J8RQ8jd4Auh": {
+          "description": "<p>Если предмет создан или продан публично, его превосходная работа приносит вам признание среди знающих мастеров и покупателей.</p>"
+        },
+        "ecQmVtgkUEMxqg7T": {
+          "description": "<p>Предмет прочен. Он игнорирует эффекты Осложнений (Complication), которые могли бы его повредить или сломать.</p>"
+        },
+        "eq8EsypWZOO0v6YF": {
+          "description": "<p>Предмет невероятно красив и впечатляет каждого, кто его видит.</p>"
+        }
+      }
+    }
+  }
+}
