@@ -144,6 +144,8 @@ for (const { language, enabled } of [
   for (const [id, entry] of Object.entries(artsTranslation.entries)) {
     const originalPower = snapshot.packs['metallic-arts'].documents.find(document => document._id === id);
     assert(originalPower, `Нет исходной силы: ${id}`);
+    // Таланты и деревья талантов (chat, short, вложенные копии) проверяются отдельно; здесь только силы.
+    if (originalPower.type !== 'power') continue;
     const source = clientPower(originalPower);
     // Карточка может содержать и действия, которые открываются только из самой силы.
     // «Зачаточные» силы выдаются талантами и в книгу не вставлены.
