@@ -195,6 +195,61 @@ for (const { language, enabled } of [
     assert.deepEqual(mechanics, source, `Изменились поля силы вне перевода: ${source.name}`);
   }
   assert.deepEqual(snapshot.packs['metallic-arts'].documents, originalArts, 'Исходные силы изменены');
+
+  // Таланты, деревья талантов, наследия и предметы: меняются только тексты и подписи.
+  for (const packName of ['heroic-paths', 'metalborn-paths', 'ancestries', 'metallic-arts', 'items']) {
+    const collectionName = `${snapshot.manifest.id}.${packName}`;
+    const packTranslation = await readJson(path.join(root, `translations/ru/${collectionName}.json`));
+    let labelsTranslated = 0;
+    let actionsTranslated = 0;
+    for (const originalDocument of snapshot.packs[packName].documents) {
+      const source = originalDocument.system?.__embedded ? clientPower(originalDocument) : structuredClone(originalDocument);
+      const [result] = await translateResult([{ toObject: () => structuredClone(source) }], {
+        pack: collectionName,
+        documentClass: { fromSource: data => data }
+      }, {
+        init: async () => true,
+        translatedCompendiumFor: pack => session.translatedCompendiumFor(pack)
+      });
+      const after = typeof result.toObject === 'function' ? result.toObject() : result;
+      if (!translated) {
+        assert.deepEqual(after, source, `Без перевода нужен оригинал: ${packName}/${source.name}`);
+        continue;
+      }
+      const allowed = [
+        /^name$/, /^system\.description\.(value|chat|short)$/,
+        /^system\.(nodes|events)\..*\.(label|description|pickPromptTitle)$/,
+        /^items\.\d+\.name$/, /^items\.\d+\.system\.description\.(value|chat|short)$/
+      ];
+      const walk = (before, now, where) => {
+        if (typeof before === 'string' && typeof now === 'string') {
+          if (before === now) return;
+          assert(allowed.some(rule => rule.test(where)), `Изменено вне перевода: ${packName}/${source.name}: ${where}`);
+          if (/\.(label|description|pickPromptTitle)$/.test(where)) labelsTranslated += 1;
+          if (/^items\./.test(where)) actionsTranslated += 1;
+          return;
+        }
+        assert.equal(typeof now, typeof before, `Изменён тип: ${where}`);
+        if (before && typeof before === 'object') {
+          assert.deepEqual(Object.keys(now), Object.keys(before), `Изменён состав полей: ${packName}/${source.name}: ${where}`);
+          for (const key of Object.keys(before)) walk(before[key], now[key], where ? `${where}.${key}` : key);
+        } else assert.equal(now, before, `Изменено значение: ${where}`);
+      };
+      const stripBabele = value => {
+        const clean = structuredClone(value);
+        delete clean.translated; delete clean.hasTranslation; delete clean.originalName;
+        if (clean.flags) delete clean.flags.babele;
+        if (Array.isArray(clean.items)) clean.items = clean.items.map(stripBabele);
+        return clean;
+      };
+      walk(source, stripBabele(after), '');
+    }
+    if (translated) {
+      assert(actionsTranslated > 0 || packName === 'items', `Вложенные действия не переведены: ${packName}`);
+      if (packName !== 'items' && packName !== 'ancestries') assert(labelsTranslated > 0, `Подписи узлов не переведены: ${packName}`);
+      console.log(`  ${packName}: подписей ${labelsTranslated}, строк вложенных действий ${actionsTranslated}`);
+    }
+  }
   console.log(`Перевод ${enabled ? 'подключён' : 'отключён'}, язык ${language}: OK.`);
 }
 

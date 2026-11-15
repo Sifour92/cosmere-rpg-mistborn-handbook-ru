@@ -1,6 +1,10 @@
 {
   "mapping": {
-    "description": "system.description.value"
+    "description": "system.description.value",
+    "events": {
+      "path": "system.events",
+      "converter": "cosmereEventLabels"
+    }
   },
   "entries": {
     "02PRY8D4bFCHJjCZ": {

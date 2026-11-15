@@ -5,6 +5,14 @@
       "converter": "document",
       "documentType": "Item",
       "cardinality": "many"
+    },
+    "nodes": {
+      "path": "system.nodes",
+      "converter": "cosmereTreeLabels"
+    },
+    "events": {
+      "path": "system.events",
+      "converter": "cosmereEventLabels"
     }
   },
   "entries": {
