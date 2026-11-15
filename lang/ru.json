@@ -21,7 +21,7 @@
       "Ancestry": {
         "Type": {
           "Human": "Человек (Human)",
-          "KolossBlooded": "Колосс-кровный (Koloss-Blooded)",
+          "KolossBlooded": "Полукровка-колосс (Koloss-Blooded)",
           "Kandra": "Кандра (Kandra)"
         }
       },
@@ -48,7 +48,7 @@
           "Skaa": "Скаа (Skaa)",
           "TerrisDominance": "Доминион Террис (Terris Dominance)",
           "Elendel": "Элендель (Elendel)",
-          "KolossBlooded": "Колосс-кровный (Koloss-Blooded)",
+          "KolossBlooded": "Полукровка-колосс (Koloss-Blooded)",
           "Malwish": "Малвиш (Malwish)",
           "OuterCities": "Внешние города (Outer Cities)",
           "TerrisEnclaves": "Террисийские анклавы (Terris Enclaves)",

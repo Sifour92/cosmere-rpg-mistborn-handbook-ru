@@ -1,0 +1,15 @@
+{
+  "mapping": {
+    "description": "system.description.value",
+    "chat": "system.description.chat",
+    "short": "system.description.short"
+  },
+  "entries": {
+    "ehYX5usckYd0wiFK": {
+      "name": "Выпить флакон (Drink Vial)",
+      "description": "<p>Вы пьёте флакон с металлическими опилками, взвешенными в жидкости, чтобы пополнить запасы; если во флаконе металл, который вы можете сжигать, вы восстанавливаете Инвеституру (Investiture) до максимума.</p><p>Вы снимаете состояние @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#depleted]{Опустошён (Depleted)} для всех сил, использующих металлы из флакона, и становитесь @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#depleted]{Опустошён (Depleted)} для всех сил, использующих металлы, которых во флаконе нет.</p>",
+      "chat": "<p>Вы снимаете состояние @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#depleted]{Опустошён (Depleted)} для всех сил, использующих металлы из флакона, и становитесь @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#depleted]{Опустошён (Depleted)} для всех сил, использующих металлы, которых во флаконе нет.</p>",
+      "short": "<p>Вы пьёте флакон с металлическими опилками, взвешенными в жидкости, чтобы пополнить запасы; если во флаконе металл, который вы можете сжигать, вы восстанавливаете Инвеституру (Investiture) до максимума.</p><p>Вы снимаете состояние @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#depleted]{Опустошён (Depleted)} для всех сил, использующих металлы из флакона, и становитесь @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#depleted]{Опустошён (Depleted)} для всех сил, использующих металлы, которых во флаконе нет.</p>"
+    }
+  }
+}
