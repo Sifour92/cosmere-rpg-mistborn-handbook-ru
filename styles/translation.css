@@ -1,11 +1,47 @@
-/* Только русская версия официального справочника и его импортированных журналов. */
-html[lang="ru"] .sheet.journal-entry.mbjhb {
-  --cosmere-font-normal: Georgia, "Times New Roman", serif;
-  --cosmere-font-header: Georgia, "Times New Roman", serif;
-  --cosmere-font-header-sc: Georgia, "Times New Roman", serif;
-  --mb-font-chapter-header: Georgia, "Times New Roman", serif;
+/* Единый шрифт для всего русского интерфейса.
+   Шрифты системы (Laski Sans, Penumbra) не содержат кириллицы, и текст подменялся
+   случайными системными шрифтами. Roboto Condensed поставляется вместе с системой
+   и содержит кириллицу. Веса 100–600 отображаются начертанием Regular (системный
+   вес 600 для кириллицы слишком жирный), 700+ — Bold. Чтобы сменить шрифт везде,
+   достаточно изменить --ru-font ниже. */
+@font-face {
+  font-family: "RU Sans";
+  font-style: normal;
+  font-weight: 100 600;
+  src: url("../../../systems/cosmere-rpg/assets/fonts/roboto-condensed/RobotoCondensed-Regular.woff2") format("woff2");
 }
 
+@font-face {
+  font-family: "RU Sans";
+  font-style: normal;
+  font-weight: 700 900;
+  src: url("../../../systems/cosmere-rpg/assets/fonts/roboto-condensed/RobotoCondensed-Bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "RU Sans";
+  font-style: italic;
+  font-weight: 100 600;
+  src: url("../../../systems/cosmere-rpg/assets/fonts/roboto-condensed/RobotoCondensed-Italic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "RU Sans";
+  font-style: italic;
+  font-weight: 700 900;
+  src: url("../../../systems/cosmere-rpg/assets/fonts/roboto-condensed/RobotoCondensed-BoldItalic.woff2") format("woff2");
+}
+
+html[lang="ru"] {
+  --ru-font: "RU Sans", "Roboto Condensed", "Arial Narrow", sans-serif;
+  --cosmere-font-normal: var(--ru-font);
+  --cosmere-font-header: var(--ru-font);
+  --cosmere-font-header-sc: var(--ru-font);
+  --cosmere-font-condensed: var(--ru-font);
+  --mb-font-chapter-header: var(--ru-font);
+}
+
+/* Только русская версия официального справочника и его импортированных журналов. */
 html[lang="ru"] .sheet.journal-entry.mbjhb .journal-entry-page {
   font-weight: 400;
   font-size: 1rem;
@@ -65,13 +101,12 @@ html[lang="ru"] .compendium-sidebar .compendium[data-pack="cosmere-rpg-mistborn-
 html[lang="ru"] .compendium-sidebar .compendium[data-pack="cosmere-rpg-mistborn-handbook.handbook"] > .compendium-name strong {
   min-width: 0;
   overflow-wrap: anywhere;
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: var(--ru-font);
 }
 
 /* Подсказки (таланты, состояния): системный вес 600 для кириллицы выглядит слишком жирным. */
 html[lang="ru"] #tooltip {
-  --cosmere-font-normal: Georgia, "Times New Roman", serif;
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: var(--ru-font);
   font-weight: 400;
   line-height: 1.35;
 }
