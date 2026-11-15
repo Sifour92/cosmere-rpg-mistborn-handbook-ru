@@ -146,7 +146,8 @@ for (const { language, enabled } of [
     assert(originalPower, `Нет исходной силы: ${id}`);
     const source = clientPower(originalPower);
     // Карточка может содержать и действия, которые открываются только из самой силы.
-    assert(source.items.some(item => chapters.some(page => page.text.content?.includes(
+    // «Зачаточные» силы выдаются талантами и в книгу не вставлены.
+    if (!/^Nascent /.test(originalPower.name)) assert(source.items.some(item => chapters.some(page => page.text.content?.includes(
       `@Embed[Compendium.${artsCollection}.Item.${id}.Item.${item._id} `
     ))), `Сила не представлена во вставках книги: ${id}`);
     const [result] = await translateResult([{ toObject: () => structuredClone(source) }], {
