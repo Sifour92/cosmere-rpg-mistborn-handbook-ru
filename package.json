@@ -10,6 +10,7 @@
   "scripts": {
     "check": "node tools/check.mjs && node --check scripts/register.mjs && node --check tools/extract.mjs && node --check tools/verify-overlay.mjs",
     "check:overlay": "node tools/verify-overlay.mjs",
-    "extract": "node tools/extract.mjs"
+    "extract": "node tools/extract.mjs",
+    "pack": "sh tools/pack.sh"
   }
 }

@@ -18,7 +18,7 @@ Babele подставляет русский текст в компендиум�
    способом через Foundry и включить его в мире Cosmere RPG.
 2. Установить Babele и его зависимости. Babele применяет перевод к документам
    оригинала.
-3. Распаковать ZIP перевода в `Data/modules/`. Должен получиться файл
+3. Распаковать ZIP перевода в `Data/modules/` (собирается `npm run pack`; папка должна называться ровно `cosmere-rpg-mistborn-handbook-ru`, без версии и суффиксов, иначе Foundry пишет «Invalid module»). Должен получиться файл
    `Data/modules/cosmere-rpg-mistborn-handbook-ru/module.json` рядом с папкой
    оригинала `Data/modules/cosmere-rpg-mistborn-handbook/`.
 4. Перезапустить Foundry для обнаружения дополнения. В управлении модулями
