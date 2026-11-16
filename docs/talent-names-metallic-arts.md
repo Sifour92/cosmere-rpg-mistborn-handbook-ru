@@ -1,6 +1,6 @@
 # Названия талантов Металлических искусств (предложение 15.11.2026)
 
-Предложено мной, ждёт подтверждения. 157 уникальных названий; деревья талантов называются по схеме «Таланты <металл>ной алломантии/ферухимии (… Talents)». «Wasing About Not Seeing» оставлено на английском: игра слов (отсылка к Уэйну), нужен ваш вариант.
+Предложено мной, ждёт подтверждения. 157 уникальных названий; деревья талантов называются по схеме «Таланты <металл>ной алломантии/ферухимии (… Talents)». «Wasing About Not Seeing» — «Уэйнить вслепую (Wasing About Not Seeing)», решено автором 16.11.2026.
 
 | Английский | Русский |
 |---|---|
@@ -158,6 +158,6 @@
 | Unshakeable Quintessence | Непоколебимая квинтэссенция (Unshakeable Quintessence) |
 | Vital Precision | Точность в жизненно важное (Vital Precision) |
 | Wall of Muscle | Стена мышц (Wall of Muscle) |
-| Wasing About Not Seeing | Wasing About Not Seeing (оставлено на английском) |
+| Wasing About Not Seeing | Уэйнить вслепую (Wasing About Not Seeing) |
 | Whispers of Destiny | Шёпот судьбы (Whispers of Destiny) |
 | Worst Case Scenario | Худший сценарий (Worst Case Scenario) |

@@ -17,7 +17,7 @@
     },
     "0Oi2M4qc5QZfABZj": {
       "name": "Камертон (Tuning Fork)",
-      "description": "<p><strong>Цена (Price)</strong> 25 бкс; <strong>Вес (Weight)</strong> 0.5 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+      "description": "<p><strong>Цена (Price)</strong> 25 мр.; <strong>Вес (Weight)</strong> 0.5 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
     },
     "0iNgCYHRHPOtZpEz": {
       "name": "Набор «Наёмник» (Эра 2) (Mercenary Kit (Era 2))",
@@ -25,7 +25,7 @@
     },
     "0jWbM8lW2IDAPPU6": {
       "name": "Арбалет (Crossbow)",
-      "description": "<p><strong>Урон (Damage)</strong> 1d8 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [100/400]; <strong>Свойства (Traits)</strong> Заряжено (Loaded) [1], Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Смертоносное (Deadly);</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 100 бкс; <strong>Вес (Weight)</strong> 7 фнт;</p>"
+      "description": "<p><strong>Урон (Damage)</strong> 1d8 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [100/400]; <strong>Свойства (Traits)</strong> Заряжено (Loaded) [1], Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Смертоносное (Deadly);</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 100 мр.; <strong>Вес (Weight)</strong> 7 фнт;</p>"
     },
     "0kZJ39mZILvaJ8dB": {
       "name": "Дирижабль (Эра 2) (Airship (Era 2))",
@@ -37,11 +37,11 @@
     },
     "168hI9lTokUzZtz6": {
       "name": "Обсидиановый топор (Obsidian Axe)",
-      "description": "<p><strong>Урон (Damage)</strong> 1d6 колющий (keen); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Хрупкое (Fragile); <strong>Экспертные свойства (Expert Traits)</strong> Вторая рука (Offhand);</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 100 бкс; <strong>Вес (Weight)</strong> 1 фнт;</p>"
+      "description": "<p><strong>Урон (Damage)</strong> 1d6 колющий (keen); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Хрупкое (Fragile); <strong>Экспертные свойства (Expert Traits)</strong> Вторая рука (Offhand);</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 100 мр.; <strong>Вес (Weight)</strong> 1 фнт;</p>"
     },
     "1MQEA0Y6b8AtAEcz": {
       "name": "Керамическая кираса (Ceramic Breastplate)",
-      "description": "<p><strong>Значение отражения (Deflect Value)</strong> 2; <strong>Свойства (Traits)</strong> Громоздкое (Cumbersome) [3], Хрупкое (Fragile); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): Громоздкое (Cumbersome) [2] вместо Громоздкое (Cumbersome) [3];</p><p><strong>Цена (Price)</strong> 250 бкс; <strong>Вес (Weight)</strong> 20 фнт.;</p>"
+      "description": "<p><strong>Значение отражения (Deflect Value)</strong> 2; <strong>Свойства (Traits)</strong> Громоздкое (Cumbersome) [3], Хрупкое (Fragile); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): Громоздкое (Cumbersome) [2] вместо Громоздкое (Cumbersome) [3];</p><p><strong>Цена (Price)</strong> 250 мр.; <strong>Вес (Weight)</strong> 20 фнт.;</p>"
     },
     "21tDPXYEEeeEoMw1": {
       "name": "Железный штырь (Iron Spike)",
@@ -49,11 +49,11 @@
     },
     "23LPTRGPCDTdQFdE": {
       "name": "Алкоголь (1 порция) (Alcohol (1 serving))",
-      "description": "<p><strong>Цена (Price)</strong> 0.5-50 бкс; <strong>Вес (Weight)</strong> 0.2 фнт.;</p><p>У культур Скадриаля (Scadrial) есть разнообразные традиции употребления хмельного: от самых разбавленных элей и пив до лучших виски и вин.</p>"
+      "description": "<p><strong>Цена (Price)</strong> 0.5-50 мр.; <strong>Вес (Weight)</strong> 0.2 фнт.;</p><p>У культур Скадриаля (Scadrial) есть разнообразные традиции употребления хмельного: от самых разбавленных элей и пив до лучших виски и вин.</p>"
     },
     "2Bx7uOIdRXjX3GYA": {
       "name": "Воск (1 брусок) (Wax (1 block))",
-      "description": "<p><strong>Цена (Price)</strong> 1 бкс; <strong>Вес (Weight)</strong>0.5 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+      "description": "<p><strong>Цена (Price)</strong> 1 мр.; <strong>Вес (Weight)</strong>0.5 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
     },
     "2X4c36zGHLF4L3Lt": {
       "name": "Бронзовая металлопамять (Bronzemind)",
@@ -61,15 +61,15 @@
     },
     "2am9CVpunoSfJHBj": {
       "name": "Лопата (Shovel)",
-      "description": "<p><strong>Цена (Price)</strong> 8 бкс; <strong>Вес (Weight)</strong> 5 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+      "description": "<p><strong>Цена (Price)</strong> 8 мр.; <strong>Вес (Weight)</strong> 5 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
     },
     "2exxAzzABqAocuVd": {
       "name": "Бурдюк (Waterskin)",
-      "description": "<p><strong>Цена (Price)</strong> 0.5 бкс; <strong>Вес (Weight)</strong> 1 фнт. (пустой);</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+      "description": "<p><strong>Цена (Price)</strong> 0.5 мр.; <strong>Вес (Weight)</strong> 1 фнт. (пустой);</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
     },
     "2ki5sRu7VQIyt3hh": {
       "name": "Верёвка (50 футов) (Rope (50 feet))",
-      "description": "<p><strong>Цена (Price)</strong> 15 бкс; <strong>Вес (Weight)</strong> 5 фнт.;</p><p>Верёвка, обычно сплетённая из конопляных волокон, как правило продаётся отрезками по 50 футов, которые можно резать и связывать, чтобы менять длину при необходимости. Её можно перерезать, нанеся ей непосредственно 2 урона, либо разорвать успехом в [[test dc=20 skill=ath]].</p>"
+      "description": "<p><strong>Цена (Price)</strong> 15 мр.; <strong>Вес (Weight)</strong> 5 фнт.;</p><p>Верёвка, обычно сплетённая из конопляных волокон, как правило продаётся отрезками по 50 футов, которые можно резать и связывать, чтобы менять длину при необходимости. Её можно перерезать, нанеся ей непосредственно 2 урона, либо разорвать успехом в [[test dc=20 skill=ath]].</p>"
     },
     "2lEDQUA6bGSNKfpM": {
       "name": "Благословение Харизмы (Blessing of Presence)",
@@ -77,7 +77,7 @@
     },
     "2nB2MzL14rbJ0D11": {
       "name": "Бусина атиума (Atium Bead)",
-      "description": "<p><strong>Цена в Эре 1 (Era 1 Price)</strong> 150 бкс/bead; <strong>Цена в Эре 2 (Era 2 Price)</strong> Недоступно;</p>"
+      "description": "<p><strong>Цена в Эре 1 (Era 1 Price)</strong> 150 мр./bead; <strong>Цена в Эре 2 (Era 2 Price)</strong> Недоступно;</p>"
     },
     "2pRra76P8WPvYxfg": {
       "name": "Атиумная металлопамять (Atiummind)",
@@ -89,11 +89,11 @@
     },
     "3FYqvgKQPN1UeGD7": {
       "name": "Музыкальный инструмент (Musical Instrument)",
-      "description": "<p><strong>Цена (Price)</strong> 5–100 бкс; <strong>Вес (Weight)</strong> 0.5–20 фнт.;</p><p>Инструменты часто используются для удовольствия, времяпрепровождения или уличных выступлений за клипы. Играя на инструменте, вы можете определить качество игры, совершив проверку соответствующего навыка (например, [[test skill=agi]] для струнного инструмента, [[test skill=ath]] для барабанов или [[test skill=dis]] для инструмента со множеством клавиш). Если у вас есть компетенция по этому инструменту, вы получаете преимущество (advantage) на проверку.</p>"
+      "description": "<p><strong>Цена (Price)</strong> 5–100 мр.; <strong>Вес (Weight)</strong> 0.5–20 фнт.;</p><p>Инструменты часто используются для удовольствия, времяпрепровождения или уличных выступлений за клипы. Играя на инструменте, вы можете определить качество игры, совершив проверку соответствующего навыка (например, [[test skill=agi]] для струнного инструмента, [[test skill=ath]] для барабанов или [[test skill=dis]] для инструмента со множеством клавиш). Если у вас есть компетенция по этому инструменту, вы получаете преимущество (advantage) на проверку.</p>"
     },
     "3bZ14PIVquiKgvBt": {
       "name": "Подзорная труба (Spyglass)",
-      "description": "<p><strong>Цена (Price)</strong> 250 бкс; <strong>Вес (Weight)</strong> 1 фнт.;</p><p>Далёкие объекты, увиденные в подзорную трубу, воспринимаются как с половины расстояния. По усмотрению Ведущего за более высокую цену могут быть доступны подзорные трубы, делающие далёкие объекты ещё ближе.</p>"
+      "description": "<p><strong>Цена (Price)</strong> 250 мр.; <strong>Вес (Weight)</strong> 1 фнт.;</p><p>Далёкие объекты, увиденные в подзорную трубу, воспринимаются как с половины расстояния. По усмотрению Ведущего за более высокую цену могут быть доступны подзорные трубы, делающие далёкие объекты ещё ближе.</p>"
     },
     "3lfmXRefMWDSGRgu": {
       "name": "Алюминиевая металлопамять (Aluminummind)",
@@ -101,11 +101,11 @@
     },
     "3q5iIkduqtcLwQRw": {
       "name": "Ручная пушка (Hand Cannon)",
-      "description": "<p><strong>Урон (Damage)</strong> 1d8 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [20/80]; <strong>Свойства (Traits)</strong> Заряжено (Loaded) [6], Пронзающее (Pierce), Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): теряет свойство Двуручное (Two-Handed);</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 300 бкс; <strong>Вес (Weight)</strong> 2 фнт;</p>"
+      "description": "<p><strong>Урон (Damage)</strong> 1d8 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [20/80]; <strong>Свойства (Traits)</strong> Заряжено (Loaded) [6], Пронзающее (Pierce), Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): теряет свойство Двуручное (Two-Handed);</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 300 мр.; <strong>Вес (Weight)</strong> 2 фнт;</p>"
     },
     "4Mwhuteko8CsooPB": {
       "name": "Фонарь (масляный) (Lantern (oil))",
-      "description": "<p><strong>Цена (Price)</strong> 10 бкс; <strong>Вес (Weight)</strong> 2 фнт.;</p><p>Пока фонарь горит, он освещает область в радиусе 30 футов. Он горит до 6 часов на пинту масла.</p>"
+      "description": "<p><strong>Цена (Price)</strong> 10 мр.; <strong>Вес (Weight)</strong> 2 фнт.;</p><p>Пока фонарь горит, он освещает область в радиусе 30 футов. Он горит до 6 часов на пинту масла.</p>"
     },
     "4Nho2cikSD3YwvMf": {
       "name": "Золотая металлопамять (Goldmind)",
@@ -113,15 +113,15 @@
     },
     "4NoAMMUg2X6IMb7e": {
       "name": "Замок с ключом (Lock and Key)",
-      "description": "<p><strong>Цена (Price)</strong> 25 бкс; <strong>Вес (Weight)</strong> 1 фнт.;</p><p>Этот прочный замок можно открыть прилагаемым ключом или успешной [[test dc=20 skill=thv]]. По усмотрению Ведущего за более высокую цену могут быть доступны замки, требующие более высоких Сл.</p>"
+      "description": "<p><strong>Цена (Price)</strong> 25 мр.; <strong>Вес (Weight)</strong> 1 фнт.;</p><p>Этот прочный замок можно открыть прилагаемым ключом или успешной [[test dc=20 skill=thv]]. По усмотрению Ведущего за более высокую цену могут быть доступны замки, требующие более высоких Сл.</p>"
     },
     "4Zea03uv1iHLrnpZ": {
       "name": "Одежда (лохмотья) (Clothing (ragged))",
-      "description": "<p><strong>Цена (Price)</strong> 0.2 бкс; <strong>Вес (Weight)</strong> 1.5 фнт.;</p><p>Когда-то эта одежда могла быть дорогой или простой, но теперь едва держится. Пока вы её носите, вы получаете преимущество (advantage) на духовные проверки, чтобы убедить других, что вы нищий.</p>"
+      "description": "<p><strong>Цена (Price)</strong> 0.2 мр.; <strong>Вес (Weight)</strong> 1.5 фнт.;</p><p>Когда-то эта одежда могла быть дорогой или простой, но теперь едва держится. Пока вы её носите, вы получаете преимущество (advantage) на духовные проверки, чтобы убедить других, что вы нищий.</p>"
     },
     "4mJDyGeeWq8lCRqn": {
       "name": "Короткоствольный пистолет (Snub Nose Pistol)",
-      "description": "<p><strong>Урон (Damage)</strong> 1d4 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [20/60]; <strong>Свойства (Traits)</strong> Заряжено (Loaded) [6], Пронзающее (Pierce); <strong>Экспертные свойства (Expert Traits)</strong> Неприметное (Discreet), Вторая рука (Offhand);</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 175 бкс; <strong>Вес (Weight)</strong> 1 фнт;</p>"
+      "description": "<p><strong>Урон (Damage)</strong> 1d4 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [20/60]; <strong>Свойства (Traits)</strong> Заряжено (Loaded) [6], Пронзающее (Pierce); <strong>Экспертные свойства (Expert Traits)</strong> Неприметное (Discreet), Вторая рука (Offhand);</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 175 мр.; <strong>Вес (Weight)</strong> 1 фнт;</p>"
     },
     "4wGvwYC23Ay9CPf2": {
       "name": "Цинковый штырь (Zinc Spike)",
@@ -129,7 +129,7 @@
     },
     "4z3PGL5yahqCz6ii": {
       "name": "Масло (1 фляга) (Oil (1 flask))",
-      "description": "<p><strong>Цена (Price)</strong> 0.5 бкс; <strong>Вес (Weight)</strong> 1 фнт.;</p><p>Масло обычно поставляется в керамической фляге на 1 пинту. Масло горюче и может использоваться для заправки масляных фонарей, для создания опасной местности в пространстве или как импровизированное оружие (праща). Когда вы попадаете или задеваете цель этим импровизированным оружием, вы покрываете цель маслом в дополнение к обычному урону. После атаки, независимо от результата, керамическая фляга разбивается, а неиспользованное масло теряется.</p>"
+      "description": "<p><strong>Цена (Price)</strong> 0.5 мр.; <strong>Вес (Weight)</strong> 1 фнт.;</p><p>Масло обычно поставляется в керамической фляге на 1 пинту. Масло горюче и может использоваться для заправки масляных фонарей, для создания опасной местности в пространстве или как импровизированное оружие (праща). Когда вы попадаете или задеваете цель этим импровизированным оружием, вы покрываете цель маслом в дополнение к обычному урону. После атаки, независимо от результата, керамическая фляга разбивается, а неиспользованное масло теряется.</p>"
     },
     "50GZxE2bMOq7Xb6y": {
       "name": "Бусина сплава лерасиума (Lerasium Alloy Bead)",
@@ -137,27 +137,27 @@
     },
     "5SUivvOAmyaDC6Kq": {
       "name": "Револьвер (Revolver)",
-      "description": "<p><strong>Урон (Damage)</strong> 1d6 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [20/80]; <strong>Свойства (Traits)</strong> Заряжено (Loaded) [6], Пронзающее (Pierce), Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): теряет свойство Двуручное (Two-Handed);</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 250 бкс; <strong>Вес (Weight)</strong> 1 фнт;</p>"
+      "description": "<p><strong>Урон (Damage)</strong> 1d6 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [20/80]; <strong>Свойства (Traits)</strong> Заряжено (Loaded) [6], Пронзающее (Pierce), Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): теряет свойство Двуручное (Two-Handed);</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 250 мр.; <strong>Вес (Weight)</strong> 1 фнт;</p>"
     },
     "5TohvTvRrhQzKAlN": {
       "name": "Сундук (Chest)",
-      "description": "<p><strong>Цена (Price)</strong> 30 бкс; <strong>Вес (Weight)</strong> 25 фнт.;</p><p><em>Этот предмет указан для ролевой игры и не имеет особых характеристик или правил.</em></p>"
+      "description": "<p><strong>Цена (Price)</strong> 30 мр.; <strong>Вес (Weight)</strong> 25 фнт.;</p><p><em>Этот предмет указан для ролевой игры и не имеет особых характеристик или правил.</em></p>"
     },
     "5m7TByQXGy0G2jbu": {
       "name": "Звуковая палка (Soundstick)",
-      "description": "<p><strong>Урон (Damage)</strong> 1d4 дробящий (impact); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Хрупкое (Fragile), Особое (Unique); <strong>Экспертные свойства (Expert Traits)</strong> Вторая рука (Offhand);</p><p><strong>Тип (Type)</strong> Особое оружие (Special Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 100 бкс; <strong>Вес (Weight)</strong> 0.5 фнт;</p><p></p><p>Звуковые палки (soundsticks) — деревянные палки, рассчитанные на громкий и резкий звук при ударе; особенно эффективно ударять одной о другую. Часто используемые туманными убийцами (hazekillers), эти орудия особенно хороши для перегрузки усиленных оловом чувств Оловоглазых (Tineyes) и Шептателей ветра (Windwhisperers).</p><p></p><p><strong>Особые свойства (Unique Traits).</strong> Звуковые палки имеют следующее уникальное свойство:</p><p><strong>Раздирающий уши звук (Ear-Splitting).</strong> Пока вы держите это оружие, вы можете использовать <span class=\"cosmere-icon\">1</span>, чтобы совершить [[test skill=lwp]], сравнив результат с Духовной защитой (Spiritual defense) каждого персонажа (кроме вас), в радиус восприятия которого входит ваше пространство. Помимо возможной перегрузки персонажей со сверхъестественным слухом, каждый персонаж, против которого вы преуспели, получает [[damage 1d6 Vital]] и становится @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#disoriented]{Дезориентирован (Disoriented)} до конца своего следующего хода. Если вы совершаете эту проверку, держа две звуковые палки, вы получаете преимущество (advantage) против персонажей со сверхъестественным слухом, а при успехе против такого персонажа он также становится @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#stunned]{Ошеломлён (Stunned)} до конца своего следующего хода.</p>"
+      "description": "<p><strong>Урон (Damage)</strong> 1d4 дробящий (impact); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Хрупкое (Fragile), Особое (Unique); <strong>Экспертные свойства (Expert Traits)</strong> Вторая рука (Offhand);</p><p><strong>Тип (Type)</strong> Особое оружие (Special Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 100 мр.; <strong>Вес (Weight)</strong> 0.5 фнт;</p><p></p><p>Звуковые палки (soundsticks) — деревянные палки, рассчитанные на громкий и резкий звук при ударе; особенно эффективно ударять одной о другую. Часто используемые туманными убийцами (hazekillers), эти орудия особенно хороши для перегрузки усиленных оловом чувств Оловоглазых (Tineyes) и Шептателей ветра (Windwhisperers).</p><p></p><p><strong>Особые свойства (Unique Traits).</strong> Звуковые палки имеют следующее уникальное свойство:</p><p><strong>Раздирающий уши звук (Ear-Splitting).</strong> Пока вы держите это оружие, вы можете использовать <span class=\"cosmere-icon\">1</span>, чтобы совершить [[test skill=lwp]], сравнив результат с Духовной защитой (Spiritual defense) каждого персонажа (кроме вас), в радиус восприятия которого входит ваше пространство. Помимо возможной перегрузки персонажей со сверхъестественным слухом, каждый персонаж, против которого вы преуспели, получает [[damage 1d6 Vital]] и становится @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#disoriented]{Дезориентирован (Disoriented)} до конца своего следующего хода. Если вы совершаете эту проверку, держа две звуковые палки, вы получаете преимущество (advantage) против персонажей со сверхъестественным слухом, а при успехе против такого персонажа он также становится @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#stunned]{Ошеломлён (Stunned)} до конца своего следующего хода.</p>"
     },
     "5yddEGOQ8aPjbavW": {
       "name": "Слуховая трубка (Ear Trumpet)",
-      "description": "<p><strong>Цена (Price)</strong> 25 бкс; <strong>Вес (Weight)</strong> 1 фнт.;</p><p>Далёкие звуки, услышанные через слуховую трубу, воспринимаются как с половины расстояния. По усмотрению Ведущего за более высокую цену могут быть доступны более мощные слуховые трубы.</p>"
+      "description": "<p><strong>Цена (Price)</strong> 25 мр.; <strong>Вес (Weight)</strong> 1 фнт.;</p><p>Далёкие звуки, услышанные через слуховую трубу, воспринимаются как с половины расстояния. По усмотрению Ведущего за более высокую цену могут быть доступны более мощные слуховые трубы.</p>"
     },
     "5zRpoY9jfAnKcZCh": {
       "name": "Яд (сильный, 1 доза) (Poison (potent, 1 dose))",
-      "description": "<p><strong>Цена (Price)</strong> 60 бкс; <strong>Вес (Weight)</strong> 0.2 фнт.;</p><p>Часто изготавливаемый из гурвраита (gurwraith) или коры лиан вроде бирчбейна (birchbane), яд поставляется в стеклянных флаконах на одну дозу. Как <span class=\"cosmere-icon\">1</span> вы можете налить его в еду, жидкость или ёмкость либо нанести яд на оружие ближнего боя или боеприпас, который вы держите. Когда вы это делаете, Ведущий может потребовать от вас успеха в [[test skill=stl]], чтобы избежать обнаружения. Когда персонаж глотает яд или в него попадает атака отравленным оружием или боеприпасом, яд расходуется, и персонаж страдает от следующих эффектов:</p><p><strong>Сильный яд (Potent Poison).</strong> Цель должна преуспеть в проверке [[test dc=16 skill=ath]] или получить [[damage 3d10 Vital]] и стать @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#stunned]{Ошеломлён (Stunned)} на 1 час. Пока цель @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#stunned]{Ошеломлён (Stunned)} таким образом, она @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#immobilized]{Обездвижен (Immobilized)}.</p>"
+      "description": "<p><strong>Цена (Price)</strong> 60 мр.; <strong>Вес (Weight)</strong> 0.2 фнт.;</p><p>Часто изготавливаемый из гурвраита (gurwraith) или коры лиан вроде бирчбейна (birchbane), яд поставляется в стеклянных флаконах на одну дозу. Как <span class=\"cosmere-icon\">1</span> вы можете налить его в еду, жидкость или ёмкость либо нанести яд на оружие ближнего боя или боеприпас, который вы держите. Когда вы это делаете, Ведущий может потребовать от вас успеха в [[test skill=stl]], чтобы избежать обнаружения. Когда персонаж глотает яд или в него попадает атака отравленным оружием или боеприпасом, яд расходуется, и персонаж страдает от следующих эффектов:</p><p><strong>Сильный яд (Potent Poison).</strong> Цель должна преуспеть в проверке [[test dc=16 skill=ath]] или получить [[damage 3d10 Vital]] и стать @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#stunned]{Ошеломлён (Stunned)} на 1 час. Пока цель @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#stunned]{Ошеломлён (Stunned)} таким образом, она @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#immobilized]{Обездвижен (Immobilized)}.</p>"
     },
     "60hOy0PRgKILSjAg": {
       "name": "Огниво (Flint and Steel)",
-      "description": "<p><strong>Цена (Price)</strong> 2 бкс; <strong>Вес (Weight)</strong> 1.5 фнт.;</p><p>Огниво можно использовать как <span class=\"cosmere-icon\">1</span>, чтобы поджечь обильное топливо в пределах вашей досягаемости. Разжигание огня в более трудных условиях может занять 1 минуту или больше.</p>"
+      "description": "<p><strong>Цена (Price)</strong> 2 мр.; <strong>Вес (Weight)</strong> 1.5 фнт.;</p><p>Огниво можно использовать как <span class=\"cosmere-icon\">1</span>, чтобы поджечь обильное топливо в пределах вашей досягаемости. Разжигание огня в более трудных условиях может занять 1 минуту или больше.</p>"
     },
     "6Xs4uZ1ijMRoZdEG": {
       "name": "Электрумовый штырь (А. хром) (Electrum Spike (A. Chromium))",
@@ -173,7 +173,7 @@
     },
     "7kojDwykN6pPj3mg": {
       "name": "Кружка (Tankard)",
-      "description": "<p><strong>Цена (Price)</strong> 0.5 бкс; <strong>Вес (Weight)</strong> 1 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+      "description": "<p><strong>Цена (Price)</strong> 0.5 мр.; <strong>Вес (Weight)</strong> 1 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
     },
     "8AfUw6aYUGhmBrUY": {
       "name": "Оловянный штырь (Tin Spike)",
@@ -181,19 +181,19 @@
     },
     "8XZOwuBlXNl31Qxs": {
       "name": "Монета в 50 клипов (50-Clip Coin)",
-      "description": "<p>Клипы (clips) — мелкие монеты из простых металлов, таких как железо, олово и бронза. Один клип стоит 0,01 бкс (bx). Они также бывают номиналом в 5, 10, 20 и 50 клипов.</p>"
+      "description": "<p>Клипы (clips) — мелкие монеты из простых металлов, таких как железо, олово и бронза. Один клип стоит 0,01 мр. (bx). Они также бывают номиналом в 5, 10, 20 и 50 клипов.</p>"
     },
     "8ri5sErGIJf8AItd": {
       "name": "Молот (Hammer)",
-      "description": "<p><strong>Урон (Damage)</strong> 1d10 дробящий (impact); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Инерционное (Momentum);</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 30 бкс; <strong>Вес (Weight)</strong> 8 фнт;</p>"
+      "description": "<p><strong>Урон (Damage)</strong> 1d10 дробящий (impact); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Инерционное (Momentum);</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 30 мр.; <strong>Вес (Weight)</strong> 8 фнт;</p>"
     },
     "97HJbD5NQ4w9cQU9": {
       "name": "Контузионная граната (Concussion Grenade)",
-      "description": "<p><strong>Урон (Damage)</strong> 2d6 дробящий (impact); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [20/60]; <strong>Свойства (Traits)</strong> Взрывное (Blast) [10], Опасное (Dangerous), Одноразовое (Single-Use), Метательное (Thrown) [20/60]; <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): теряет свойство Опасное (Dangerous);</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 50 бкс; <strong>Вес (Weight)</strong> 0.5 фнт;</p>"
+      "description": "<p><strong>Урон (Damage)</strong> 2d6 дробящий (impact); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [20/60]; <strong>Свойства (Traits)</strong> Взрывное (Blast) [10], Опасное (Dangerous), Одноразовое (Single-Use), Метательное (Thrown) [20/60]; <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): теряет свойство Опасное (Dangerous);</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 50 мр.; <strong>Вес (Weight)</strong> 0.5 фнт;</p>"
     },
     "9IHe1Sp64LKY7kLw": {
       "name": "Отмычка (Lockpick)",
-      "description": "<p><strong>Цена (Price)</strong> 2 бкс; <strong>Вес (Weight)</strong> 0.5 фнт.;</p><p>Вы можете использовать отмычку, чтобы получить преимущество (advantage) на проверки «Воровства» (Thievery) для вскрытия замка. После разрешения этой проверки Ведущий может потратить <span class=\"cosmere-icon\" style=\"color:rgb(173,19,19)\">C</span>, чтобы отмычка сломалась.</p>"
+      "description": "<p><strong>Цена (Price)</strong> 2 мр.; <strong>Вес (Weight)</strong> 0.5 фнт.;</p><p>Вы можете использовать отмычку, чтобы получить преимущество (advantage) на проверки «Воровства» (Thievery) для вскрытия замка. После разрешения этой проверки Ведущий может потратить <span class=\"cosmere-icon\" style=\"color:rgb(173,19,19)\">C</span>, чтобы отмычка сломалась.</p>"
     },
     "9IMd5RPFcLbLfIne": {
       "name": "Шляпа с алюминиевой подкладкой (Aluminum-Lined Hat)",
@@ -201,15 +201,15 @@
     },
     "9Nyemglhryiu3LkK": {
       "name": "Бутылка (стеклянная) (Bottle (glass))",
-      "description": "<p><strong>Цена (Price)</strong> 8 бкс; <strong>Вес (Weight)</strong> 2 фнт.;</p><p><em>Этот предмет указан для ролевой игры и не имеет особых характеристик или правил.</em></p>"
+      "description": "<p><strong>Цена (Price)</strong> 8 мр.; <strong>Вес (Weight)</strong> 2 фнт.;</p><p><em>Этот предмет указан для ролевой игры и не имеет особых характеристик или правил.</em></p>"
     },
     "9ZJEStLcWOXeLSYL": {
       "name": "Алебарда (Poleaxe)",
-      "description": "<p><strong>Урон (Damage)</strong> 1d10 колющий (keen); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): Ближний бой (Melee) [+5];</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 20 бкс; <strong>Вес (Weight)</strong> 5 фнт;</p>"
+      "description": "<p><strong>Урон (Damage)</strong> 1d10 колющий (keen); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): Ближний бой (Melee) [+5];</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 20 мр.; <strong>Вес (Weight)</strong> 5 фнт;</p>"
     },
     "9pzu2Rd034Sad7oW": {
       "name": "Флакон (стеклянный) (Vial (glass))",
-      "description": "<p><strong>Цена (Price)</strong> 2 бкс; <strong>Вес (Weight)</strong> 0.2 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+      "description": "<p><strong>Цена (Price)</strong> 2 мр.; <strong>Вес (Weight)</strong> 0.2 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
     },
     "AVaDkCL9AQayhSyD": {
       "name": "Термосплавный штырь (Ф. алюминий) (Bendalloy Spike (F. Aluminum))",
@@ -217,19 +217,19 @@
     },
     "AbRygZmz2qg0kvHx": {
       "name": "Карабин (Carbine)",
-      "description": "<p><strong>Урон (Damage)</strong> 1d8 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [80/320]; <strong>Свойства (Traits)</strong> Заряжено (Loaded) [4], Пронзающее (Pierce), Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): Заряжено (Loaded) [4] становится Заряжено (Loaded) [8];</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 750 бкс; <strong>Вес (Weight)</strong> 7 фнт;</p>"
+      "description": "<p><strong>Урон (Damage)</strong> 1d8 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [80/320]; <strong>Свойства (Traits)</strong> Заряжено (Loaded) [4], Пронзающее (Pierce), Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): Заряжено (Loaded) [4] становится Заряжено (Loaded) [8];</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 750 мр.; <strong>Вес (Weight)</strong> 7 фнт;</p>"
     },
     "AdYtnZd6gNm7lWeQ": {
       "name": "Сапожный пистолет (Boot Pistol)",
-      "description": "<p><strong>Урон (Damage)</strong> 1d4 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [20/40]; <strong>Свойства (Traits)</strong> Неприметное (Discreet), Заряжено (Loaded) [1], Пронзающее (Pierce); <strong>Экспертные свойства (Expert Traits)</strong> Быстроизвлекаемое (Quickdraw);</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 125 бкс; <strong>Вес (Weight)</strong> 0.5 фнт;</p>"
+      "description": "<p><strong>Урон (Damage)</strong> 1d4 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [20/40]; <strong>Свойства (Traits)</strong> Неприметное (Discreet), Заряжено (Loaded) [1], Пронзающее (Pierce); <strong>Экспертные свойства (Expert Traits)</strong> Быстроизвлекаемое (Quickdraw);</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 125 мр.; <strong>Вес (Weight)</strong> 0.5 фнт;</p>"
     },
     "BUN8GpAROPrmYn5O": {
       "name": "Скромное жильё (Modest Lodging)",
-      "description": "<p>Цена 1 бкс (bx) с человека за ночь.</p>"
+      "description": "<p>Цена 1 мр. (bx) с человека за ночь.</p>"
     },
     "BfLXD6617jCHa0Yd": {
       "name": "Монета в 10 клипов (10-Clip Coin)",
-      "description": "<p>Клипы (clips) — мелкие монеты из простых металлов, таких как железо, олово и бронза. Один клип стоит 0,01 бкс (bx). Они также бывают номиналом в 5, 10, 20 и 50 клипов.</p>"
+      "description": "<p>Клипы (clips) — мелкие монеты из простых металлов, таких как железо, олово и бронза. Один клип стоит 0,01 мр. (bx). Они также бывают номиналом в 5, 10, 20 и 50 клипов.</p>"
     },
     "BtNQp2KfJychPJzt": {
       "name": "Пьютеровый штырь (Ф. сталь) (Pewter Spike (F. Steel))",
@@ -237,19 +237,19 @@
     },
     "CCYWmqZxFBoowYvY": {
       "name": "Анестетик (5 доз) (Anesthetic (5 doses))",
-      "description": "<p><strong>Цена (Price)</strong> 30 бкс; <strong>Вес (Weight)</strong> 1.5 фнт.;</p><p>Обычно изготовленную на основе эфира анестезирующую мазь можно нанести на травму после короткого или продолжительного отдыха, чтобы сократить оставшееся время восстановления на [[/roll 1d4]] дн. Каждую травму можно лечить анестетиком только раз в день.</p>"
+      "description": "<p><strong>Цена (Price)</strong> 30 мр.; <strong>Вес (Weight)</strong> 1.5 фнт.;</p><p>Обычно изготовленную на основе эфира анестезирующую мазь можно нанести на травму после короткого или продолжительного отдыха, чтобы сократить оставшееся время восстановления на [[/roll 1d4]] дн. Каждую травму можно лечить анестетиком только раз в день.</p>"
     },
     "CHUOd0TxxpXKX4vx": {
       "name": "Щит (Shield)",
-      "description": "<p><strong>Урон (Damage)</strong> 1d4 дробящий (impact); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Защитное (Defensive); <strong>Экспертные свойства (Expert Traits)</strong> Вторая рука (Offhand);</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 5 бкс; <strong>Вес (Weight)</strong> 2 фнт;</p>"
+      "description": "<p><strong>Урон (Damage)</strong> 1d4 дробящий (impact); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Защитное (Defensive); <strong>Экспертные свойства (Expert Traits)</strong> Вторая рука (Offhand);</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 5 мр.; <strong>Вес (Weight)</strong> 2 фнт;</p>"
     },
     "CQ9amv8mG0USCy8w": {
       "name": "Длинное копьё (Longspear)",
-      "description": "<p><strong>Урон (Damage)</strong> 1d8 колющий (keen); <strong>Дальность (Range)</strong> Ближний бой (Melee) [+5]; <strong>Свойства (Traits)</strong> Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Защитное (Defensive);</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 20 бкс; <strong>Вес (Weight)</strong> 9 фнт;</p>"
+      "description": "<p><strong>Урон (Damage)</strong> 1d8 колющий (keen); <strong>Дальность (Range)</strong> Ближний бой (Melee) [+5]; <strong>Свойства (Traits)</strong> Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Защитное (Defensive);</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 20 мр.; <strong>Вес (Weight)</strong> 9 фнт;</p>"
     },
     "CVYk0Xdp4UkRfBDq": {
       "name": "Монета в 5 клипов (5-Clip Coin)",
-      "description": "<p>Клипы (clips) — мелкие монеты из простых металлов, таких как железо, олово и бронза. Один клип стоит 0,01 бкс (bx). Они также бывают номиналом в 5, 10, 20 и 50 клипов.</p>"
+      "description": "<p>Клипы (clips) — мелкие монеты из простых металлов, таких как железо, олово и бронза. Один клип стоит 0,01 мр. (bx). Они также бывают номиналом в 5, 10, 20 и 50 клипов.</p>"
     },
     "CwIMeeSgYQ4sgy0o": {
       "name": "Дюралюминиевая металлопамять (Duraluminmind)",
@@ -257,15 +257,15 @@
     },
     "D3eIW5wMlyLDCX5G": {
       "name": "Книга (справочная) (Book (reference))",
-      "description": "<p><strong>Цена (Price)</strong> 5–250 бкс; <strong>Вес (Weight)</strong> 1–5 фнт.;</p><p>Каждая справочная книга содержит сведения по определённой теме, например по исторической эпохе, инженерному делу, биологии или архитектуре. Если у вас есть время заглянуть в книгу, пока вы совершаете связанную проверку с атрибутом Интеллект (Intellect), считается, что у вас есть компетенция по этой теме (см. «@UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.kwz9u1ntb7EcYxTk.JournalEntryPage.JkkAc8A0etwb6Ocx#expertise-benefits]{Преимущества компетенции (Expertise Benefits)}» в главе 3).</p>"
+      "description": "<p><strong>Цена (Price)</strong> 5–250 мр.; <strong>Вес (Weight)</strong> 1–5 фнт.;</p><p>Каждая справочная книга содержит сведения по определённой теме, например по исторической эпохе, инженерному делу, биологии или архитектуре. Если у вас есть время заглянуть в книгу, пока вы совершаете связанную проверку с атрибутом Интеллект (Intellect), считается, что у вас есть компетенция по этой теме (см. «@UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.kwz9u1ntb7EcYxTk.JournalEntryPage.JkkAc8A0etwb6Ocx#expertise-benefits]{Преимущества компетенции (Expertise Benefits)}» в главе 3).</p>"
     },
     "DOCw4Cwc8i7s3SQR": {
       "name": "Комфортное жильё (Comfortable Lodging)",
-      "description": "<p>Цена 5 бкс (bx) с человека за ночь.</p>"
+      "description": "<p>Цена 5 мр. (bx) с человека за ночь.</p>"
     },
     "DdRFyiNFBQaNX4sE": {
       "name": "Зеркало (ручное) (Mirror (handheld))",
-      "description": "<p><strong>Цена (Price)</strong> 15 бкс; <strong>Вес (Weight)</strong> 2 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+      "description": "<p><strong>Цена (Price)</strong> 15 мр.; <strong>Вес (Weight)</strong> 2 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
     },
     "DfN2JpiqRgNp8AQm": {
       "name": "Термосплавная металлопамять (Bendalloymind)",
@@ -281,11 +281,11 @@
     },
     "DxwSmVxCjr8H5NJ8": {
       "name": "Флакон электрума (Эра 1) (Electrum Vial (Era 1))",
-      "description": "<p><strong>Цена в Эре 1 (Era 1 Price)</strong> 10 бкс/флакон;</p>"
+      "description": "<p><strong>Цена в Эре 1 (Era 1 Price)</strong> 10 мр./флакон;</p>"
     },
     "E6t2V6pTG525cUEN": {
       "name": "Одежда (простая) (Clothing (common))",
-      "description": "<p><strong>Цена (Price)</strong> 1 бкс; <strong>Вес (Weight)</strong> 3 фнт.;</p><p>Простая одежда делается из материалов, которыми пользуется рабочий класс, и обычно не красится, что помогает вам смешаться с простолюдинами. Пока на вас комплект простой одежды, вы получаете преимущество (advantage) на духовные проверки, чтобы убедить других, что вы из рабочего класса.</p>"
+      "description": "<p><strong>Цена (Price)</strong> 1 мр.; <strong>Вес (Weight)</strong> 3 фнт.;</p><p>Простая одежда делается из материалов, которыми пользуется рабочий класс, и обычно не красится, что помогает вам смешаться с простолюдинами. Пока на вас комплект простой одежды, вы получаете преимущество (advantage) на духовные проверки, чтобы убедить других, что вы из рабочего класса.</p>"
     },
     "EYhGTnIbyxfbXeNO": {
       "name": "Бронзовый штырь (А. бронза) (Bronze Spike (A. Bronze))",
@@ -301,7 +301,7 @@
     },
     "F7Ca3fJ3d5nNGDEF": {
       "name": "Чернила (флакон в 1 унцию) (Ink (1-ounce bottle))",
-      "description": "<p><strong>Цена (Price)</strong> 20 бкс; <strong>Вес (Weight)</strong> 0.2 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+      "description": "<p><strong>Цена (Price)</strong> 20 мр.; <strong>Вес (Weight)</strong> 0.2 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
     },
     "FCmEU15r0L3nvNjn": {
       "name": "Кадмиевый штырь (А. электрум) (Cadmium Spike (A. Electrum))",
@@ -309,11 +309,11 @@
     },
     "FVlCNQ7NnJqzji7W": {
       "name": "Весы (Scale)",
-      "description": "<p><strong>Цена (Price)</strong> 10 бкс; <strong>Вес (Weight)</strong> 3 фнт.;</p><p>Весы чаще всего используют учёные, оценщики и огранщики драгоценностей; ими можно определить точный вес предмета (максимум 2 фунта).</p>"
+      "description": "<p><strong>Цена (Price)</strong> 10 мр.; <strong>Вес (Weight)</strong> 3 фнт.;</p><p>Весы чаще всего используют учёные, оценщики и огранщики драгоценностей; ими можно определить точный вес предмета (максимум 2 фунта).</p>"
     },
     "FtRJw2uxev3ImluH": {
       "name": "Дуэльная трость (Dueling Cane)",
-      "description": "<p><strong>Урон (Damage)</strong> 1d8 дробящий (impact); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Неприметное (Discreet), Особое (Unique); <strong>Экспертные свойства (Expert Traits)</strong> Вторая рука (Offhand);</p><p><strong>Тип (Type)</strong> Особое оружие (Special Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry) или Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 40 бкс; <strong>Вес (Weight)</strong> 3 фнт;</p><p></p><p>Любимое оружие туманных убийц (hazekillers), дуэльные трости (dueling canes) — деревянные трости, сделанные так, чтобы выдерживать бой, хотя внешне это обычная трость для ходьбы. Их вес и размер точно рассчитаны под самые разные стили боя.</p><p><strong>Особое свойство (Unique Trait).</strong> Дуэльные трости имеют следующее уникальное свойство:</p><p><strong>Гибкий бой (Flexible Fighting).</strong> С дуэльной тростью вы можете использовать навык «Тяжёлое оружие» (Heavy Weaponry) или «Лёгкое оружие» (Light Weaponry).</p>"
+      "description": "<p><strong>Урон (Damage)</strong> 1d8 дробящий (impact); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Неприметное (Discreet), Особое (Unique); <strong>Экспертные свойства (Expert Traits)</strong> Вторая рука (Offhand);</p><p><strong>Тип (Type)</strong> Особое оружие (Special Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry) или Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 40 мр.; <strong>Вес (Weight)</strong> 3 фнт;</p><p></p><p>Любимое оружие туманных убийц (hazekillers), дуэльные трости (dueling canes) — деревянные трости, сделанные так, чтобы выдерживать бой, хотя внешне это обычная трость для ходьбы. Их вес и размер точно рассчитаны под самые разные стили боя.</p><p><strong>Особое свойство (Unique Trait).</strong> Дуэльные трости имеют следующее уникальное свойство:</p><p><strong>Гибкий бой (Flexible Fighting).</strong> С дуэльной тростью вы можете использовать навык «Тяжёлое оружие» (Heavy Weaponry) или «Лёгкое оружие» (Light Weaponry).</p>"
     },
     "FyUw856cRR4yIFVR": {
       "name": "Набор «Исследователь» (Эра 2) (Researcher Kit (Era 2))",
@@ -321,11 +321,11 @@
     },
     "Ghv5FYmohk45RoBj": {
       "name": "Кандалы (Manacles)",
-      "description": "<p><strong>Цена (Price)</strong> 5 бкс; <strong>Вес (Weight)</strong> 6 фнт.;</p><p>Эти металлические оковы с ключом могут сковать запястья или лодыжки Большого (Large) или меньшего персонажа. Из них можно вырваться успешной [[test dc=25 skill=agi]], сломать успехом в [[test dc=25 skill=ath]] или нанеся им 15 урона либо вскрыть успехом в [[test dc=20 skill=thv]]. По усмотрению Ведущего за более высокую цену могут быть доступны кандалы, требующие более высоких Сл.</p>"
+      "description": "<p><strong>Цена (Price)</strong> 5 мр.; <strong>Вес (Weight)</strong> 6 фнт.;</p><p>Эти металлические оковы с ключом могут сковать запястья или лодыжки Большого (Large) или меньшего персонажа. Из них можно вырваться успешной [[test dc=25 skill=agi]], сломать успехом в [[test dc=25 skill=ath]] или нанеся им 15 урона либо вскрыть успехом в [[test dc=20 skill=thv]]. По усмотрению Ведущего за более высокую цену могут быть доступны кандалы, требующие более высоких Сл.</p>"
     },
     "GhxJE5s9ssdkNaAu": {
       "name": "Одеяло (Blanket)",
-      "description": "<p><strong>Цена (Price)</strong> 0.5 бкс; <strong>Вес (Weight)</strong> 2 фнт.;</p><p><em>Этот предмет указан для ролевой игры и не имеет особых характеристик или правил.</em></p>"
+      "description": "<p><strong>Цена (Price)</strong> 0.5 мр.; <strong>Вес (Weight)</strong> 2 фнт.;</p><p><em>Этот предмет указан для ролевой игры и не имеет особых характеристик или правил.</em></p>"
     },
     "GjBt5CQLGpdiYT6p": {
       "name": "Термосплавный штырь (Ф. никросил) (Bendalloy Spike (F. Nicrosil))",
@@ -333,19 +333,19 @@
     },
     "GlmQ8TajOkhAZdZ2": {
       "name": "Монета в 5 мер (boxings) (5-Boxing Coin)",
-      "description": "<p>Имперские монеты, в просторечии называемые меры (boxings)ми (boxings), крупнее — примерно вдвое больше клипов — и обычно делаются из более драгоценных металлов, например золота. Одна мера (boxings), разумеется, стоит 1 бкс (bx). До Катакендра (Catacendre) существовали монеты в 2 и 5 мер (boxings), а в Эре 2 появились и другие номиналы.</p>"
+      "description": "<p>Имперские монеты, в просторечии называемые меры (boxings)ми (boxings), крупнее — примерно вдвое больше клипов — и обычно делаются из более драгоценных металлов, например золота. Одна мера (boxings), разумеется, стоит 1 мр. (bx). До Катакендра (Catacendre) существовали монеты в 2 и 5 мер (boxings), а в Эре 2 появились и другие номиналы.</p>"
     },
     "Gsxz5kiWL5eTINV9": {
       "name": "Кираса (Breastplate)",
-      "description": "<p><strong>Значение отражения (Deflect Value)</strong> 2; <strong>Свойства (Traits)</strong> Громоздкое (Cumbersome) [3]; <strong>Экспертные свойства (Expert Traits)</strong> Презентабельное (Presentable);</p><p><strong>Цена (Price)</strong> 50 бкс; <strong>Вес (Weight)</strong> 30 фнт.;</p>"
+      "description": "<p><strong>Значение отражения (Deflect Value)</strong> 2; <strong>Свойства (Traits)</strong> Громоздкое (Cumbersome) [3]; <strong>Экспертные свойства (Expert Traits)</strong> Презентабельное (Presentable);</p><p><strong>Цена (Price)</strong> 50 мр.; <strong>Вес (Weight)</strong> 30 фнт.;</p>"
     },
     "Gzr8xP3LeSZRF7s6": {
       "name": "Мешок (Sack)",
-      "description": "<p><strong>Цена (Price)</strong> 0.1 бкс; <strong>Вес (Weight)</strong> 0.5 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+      "description": "<p><strong>Цена (Price)</strong> 0.1 мр.; <strong>Вес (Weight)</strong> 0.5 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
     },
     "IDA4C6QUNYJkI2J3": {
       "name": "Флакон золота (Эра 2) (Gold Vial (Era 2))",
-      "description": "<p><strong>Цена в Эре 2 (Era 2 Price)</strong> 25 бкс/флакон;</p>"
+      "description": "<p><strong>Цена в Эре 2 (Era 2 Price)</strong> 25 мр./флакон;</p>"
     },
     "IVyc7xGziZUy9CZn": {
       "name": "Деревянное Истинное тело (Wood True Body)",
@@ -357,11 +357,11 @@
     },
     "IYSZUYoodyo2zfRm": {
       "name": "Праща (Sling)",
-      "description": "<p><strong>Урон (Damage)</strong> 1d4 дробящий (impact); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [30/120]; <strong>Свойства (Traits)</strong> Неприметное (Discreet); <strong>Экспертные свойства (Expert Traits)</strong> Баллистическое (Indirect);</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 1 бкс; <strong>Вес (Weight)</strong> 1 фнт;</p>"
+      "description": "<p><strong>Урон (Damage)</strong> 1d4 дробящий (impact); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [30/120]; <strong>Свойства (Traits)</strong> Неприметное (Discreet); <strong>Экспертные свойства (Expert Traits)</strong> Баллистическое (Indirect);</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 1 мр.; <strong>Вес (Weight)</strong> 1 фнт;</p>"
     },
     "IjkdEi1ocmBu3cdw": {
       "name": "Флакон алюминия (Эра 2) (Aluminum Vial (Era 2))",
-      "description": "<p><strong>Цена в Эре 2 (Era 2 Price)</strong> 50 бкс/флакон;</p>"
+      "description": "<p><strong>Цена в Эре 2 (Era 2 Price)</strong> 50 мр./флакон;</p>"
     },
     "IqQJc7NjR52yQKEf": {
       "name": "Набор «Аристократ» (Эра 1) (Noble Kit (Era 1))",
@@ -369,19 +369,19 @@
     },
     "J3OZpxOYyCTVuo4N": {
       "name": "Конная повозка (Horse Cart)",
-      "description": "<p><strong>Цена покупки (Purchase Price)</strong> 500 бкс; <strong>Аренда в день (Rental Price per Day)</strong> 5 бкс; <strong>Скорость в пути (Travel Speed)</strong> 4 миль/ч; <strong>Тип (Type)</strong> Суша (Land)</p>"
+      "description": "<p><strong>Цена покупки (Purchase Price)</strong> 500 мр.; <strong>Аренда в день (Rental Price per Day)</strong> 5 мр.; <strong>Скорость в пути (Travel Speed)</strong> 4 миль/ч; <strong>Тип (Type)</strong> Суша (Land)</p>"
     },
     "JEXeMD8ecANFIUWt": {
       "name": "Бутылка (керамическая) (Bottle (ceramic))",
-      "description": "<p><strong>Цена (Price)</strong> 4 бкс; <strong>Вес (Weight)</strong> 3 фнт.;</p><p><em>Этот предмет указан для ролевой игры и не имеет особых характеристик или правил.</em></p>"
+      "description": "<p><strong>Цена (Price)</strong> 4 мр.; <strong>Вес (Weight)</strong> 3 фнт.;</p><p><em>Этот предмет указан для ролевой игры и не имеет особых характеристик или правил.</em></p>"
     },
     "JPWV6EqMOsQMVOxG": {
       "name": "Кувшин с носиком (Pitcher)",
-      "description": "<p><strong>Цена (Price)</strong> 1 бкс; <strong>Вес (Weight)</strong> 4 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+      "description": "<p><strong>Цена (Price)</strong> 1 мр.; <strong>Вес (Weight)</strong> 4 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
     },
     "JUVtIzIHItUhaQEn": {
       "name": "Антисептик (слабый, 5 доз) (Antiseptic (weak, 5 doses))",
-      "description": "<p><strong>Цена (Price)</strong> 10 бкс; <strong>Вес (Weight)</strong> 1 фнт.;</p><p>Дозу слабого антисептика, например изготовленного на основе ртути, можно применить к персонажу после короткого отдыха, чтобы восстановить [[healing 1d6]].</p>"
+      "description": "<p><strong>Цена (Price)</strong> 10 мр.; <strong>Вес (Weight)</strong> 1 фнт.;</p><p>Дозу слабого антисептика, например изготовленного на основе ртути, можно применить к персонажу после короткого отдыха, чтобы восстановить [[healing 1d6]].</p>"
     },
     "JaBLrFaIsUvtPLlk": {
       "name": "Золотой штырь (Ф. кадмий) (Gold Spike (F. Cadmium))",
@@ -393,7 +393,7 @@
     },
     "Jo2moXimhsgiyxZB": {
       "name": "Короткое копьё (Shortspear)",
-      "description": "<p><strong>Урон (Damage)</strong> 1d8 колющий (keen); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): теряет свойство Двуручное (Two-Handed);</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 5 бкс; <strong>Вес (Weight)</strong> 3 фнт;</p>"
+      "description": "<p><strong>Урон (Damage)</strong> 1d8 колющий (keen); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): теряет свойство Двуручное (Two-Handed);</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 5 мр.; <strong>Вес (Weight)</strong> 3 фнт;</p>"
     },
     "JvkPQCFBaGPtAQaN": {
       "name": "Оловянная металлопамять (Tinmind)",
@@ -401,11 +401,11 @@
     },
     "K3QsaSiMtisuFVxp": {
       "name": "Яд (слабый, 1 доза) (Poison (weak, 1 dose))",
-      "description": "<p><strong>Цена (Price)</strong> 10 бкс; <strong>Вес (Weight)</strong> 0.2 фнт.;</p><p>Часто изготавливаемый из гурвраита (gurwraith) или коры лиан вроде бирчбейна (birchbane), яд поставляется в стеклянных флаконах на одну дозу. Как <span class=\"cosmere-icon\">1</span> вы можете налить его в еду, жидкость или ёмкость либо нанести яд на оружие ближнего боя или боеприпас, который вы держите. Когда вы это делаете, Ведущий может потребовать от вас успеха в [[test skill=stl]], чтобы избежать обнаружения. Когда персонаж глотает яд или в него попадает атака отравленным оружием или боеприпасом, яд расходуется, и персонаж страдает от следующих эффектов:</p><p><strong>Слабый яд (Weak Poison).</strong> Цель должна преуспеть в проверке [[test dc=12 skill=ath]] или получить [[damage 1d6 Vital]].</p>"
+      "description": "<p><strong>Цена (Price)</strong> 10 мр.; <strong>Вес (Weight)</strong> 0.2 фнт.;</p><p>Часто изготавливаемый из гурвраита (gurwraith) или коры лиан вроде бирчбейна (birchbane), яд поставляется в стеклянных флаконах на одну дозу. Как <span class=\"cosmere-icon\">1</span> вы можете налить его в еду, жидкость или ёмкость либо нанести яд на оружие ближнего боя или боеприпас, который вы держите. Когда вы это делаете, Ведущий может потребовать от вас успеха в [[test skill=stl]], чтобы избежать обнаружения. Когда персонаж глотает яд или в него попадает атака отравленным оружием или боеприпасом, яд расходуется, и персонаж страдает от следующих эффектов:</p><p><strong>Слабый яд (Weak Poison).</strong> Цель должна преуспеть в проверке [[test dc=12 skill=ath]] или получить [[damage 1d6 Vital]].</p>"
     },
     "K6XqEXem6amtlpuF": {
       "name": "Банкнота в 10 нот (10-Note Bill)",
-      "description": "<p>Бумажные ноты (notes) существуют в обе эры, хотя в Эре 1 эти банкноты обычно бывают только у дворян. Банкнота в 1 ноту стоит 10 бкс (bx). Также в обращении банкноты в 5, 10, 20 и 50 нот.</p>"
+      "description": "<p>Бумажные ноты (notes) существуют в обе эры, хотя в Эре 1 эти банкноты обычно бывают только у дворян. Банкнота в 1 ноту стоит 10 мр. (bx). Также в обращении банкноты в 5, 10, 20 и 50 нот.</p>"
     },
     "KZIQlUD9U7vAyzQw": {
       "name": "Стальной штырь (А. железо) (Steel Spike (A. Iron))",
@@ -425,11 +425,11 @@
     },
     "MKUtZYv2IVSFCQJW": {
       "name": "Банкнота в 5 нот (5-Note Bill)",
-      "description": "<p>Бумажные ноты (notes) существуют в обе эры, хотя в Эре 1 эти банкноты обычно бывают только у дворян. Банкнота в 1 ноту стоит 10 бкс (bx). Также в обращении банкноты в 5, 10, 20 и 50 нот.</p>"
+      "description": "<p>Бумажные ноты (notes) существуют в обе эры, хотя в Эре 1 эти банкноты обычно бывают только у дворян. Банкнота в 1 ноту стоит 10 мр. (bx). Также в обращении банкноты в 5, 10, 20 и 50 нот.</p>"
     },
     "MdqZDFtQ1SAZiKwj": {
       "name": "Флакон кадмия (Cadmium Vial)",
-      "description": "<p><strong>Цена в Эре 1 (Era 1 Price)</strong> Недоступно; <strong>Цена в Эре 2 (Era 2 Price)</strong> 50 бкс/флакон;</p>"
+      "description": "<p><strong>Цена в Эре 1 (Era 1 Price)</strong> Недоступно; <strong>Цена в Эре 2 (Era 2 Price)</strong> 50 мр./флакон;</p>"
     },
     "N3DDR2JH7KCLGvmw": {
       "name": "Кости простолюдина (Commoner Bones)",
@@ -437,27 +437,27 @@
     },
     "N3U2qm2wOSciyMWk": {
       "name": "Банкнота в 50 нот (50-Note Bill)",
-      "description": "<p>Бумажные ноты (notes) существуют в обе эры, хотя в Эре 1 эти банкноты обычно бывают только у дворян. Банкнота в 1 ноту стоит 10 бкс (bx). Также в обращении банкноты в 5, 10, 20 и 50 нот.</p>"
+      "description": "<p>Бумажные ноты (notes) существуют в обе эры, хотя в Эре 1 эти банкноты обычно бывают только у дворян. Банкнота в 1 ноту стоит 10 мр. (bx). Также в обращении банкноты в 5, 10, 20 и 50 нот.</p>"
     },
     "NForcGEKB1nQK6Ko": {
       "name": "Кирка (горная) (Pick (mining))",
-      "description": "<p><strong>Цена (Price)</strong> 10 бкс; <strong>Вес (Weight)</strong> 10 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+      "description": "<p><strong>Цена (Price)</strong> 10 мр.; <strong>Вес (Weight)</strong> 10 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
     },
     "NIW6SkeOw4VD1WZt": {
       "name": "Перо для чернил (Ink Pen)",
-      "description": "<p><strong>Цена (Price)</strong> 0.05 бкс; <strong>Вес (Weight)</strong> 0.1 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+      "description": "<p><strong>Цена (Price)</strong> 0.05 мр.; <strong>Вес (Weight)</strong> 0.1 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
     },
     "NLqAFOZeJojL6eok": {
       "name": "Фрагментационная граната (Fragmentation Grenade)",
-      "description": "<p><strong>Урон (Damage)</strong> 2d4 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [20/60]; <strong>Свойства (Traits)</strong> Взрывное (Blast) [5], Опасное (Dangerous), Пронзающее (Pierce), Одноразовое (Single-Use), Метательное (Thrown) [20/60; <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): теряет свойство Опасное (Dangerous);</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 75 бкс; <strong>Вес (Weight)</strong> 0.5 фнт;</p>"
+      "description": "<p><strong>Урон (Damage)</strong> 2d4 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [20/60]; <strong>Свойства (Traits)</strong> Взрывное (Blast) [5], Опасное (Dangerous), Пронзающее (Pierce), Одноразовое (Single-Use), Метательное (Thrown) [20/60; <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): теряет свойство Опасное (Dangerous);</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 75 мр.; <strong>Вес (Weight)</strong> 0.5 фнт;</p>"
     },
     "NMo4gKcUB92MM69d": {
       "name": "Аристократическое жильё (Aristocratic Lodging)",
-      "description": "<p>Цена 40 бкс (bx) с человека за ночь.</p>"
+      "description": "<p>Цена 40 мр. (bx) с человека за ночь.</p>"
     },
     "OB6uk4Jy49qCgGy5": {
       "name": "Одежда (быстросъёмная) (Clothing (breakaway))",
-      "description": "<p><strong>Цена (Price)</strong> 120 бкс; <strong>Вес (Weight)</strong> 5 фнт.;</p><p>Быстросъёмная одежда внешне имитирует дорогую, но предназначена для ношения поверх брони и оружия, чтобы их скрывать. Её можно снять как <span class=\"cosmere-icon\">1</span>, если начнётся драка, разорвав заранее заготовленные швы без ущерба для одежды. Пока на вас комплект быстросъёмной одежды, любая надетая броня получает свойство «Презентабельное» (Presentable), а каждое носимое оружие — свойство «Неприметное» (Discreet); однако вы получаете помеху (disadvantage) на любую вашу атаку, а каждая атака по вам получает преимущество (advantage).</p>"
+      "description": "<p><strong>Цена (Price)</strong> 120 мр.; <strong>Вес (Weight)</strong> 5 фнт.;</p><p>Быстросъёмная одежда внешне имитирует дорогую, но предназначена для ношения поверх брони и оружия, чтобы их скрывать. Её можно снять как <span class=\"cosmere-icon\">1</span>, если начнётся драка, разорвав заранее заготовленные швы без ущерба для одежды. Пока на вас комплект быстросъёмной одежды, любая надетая броня получает свойство «Презентабельное» (Presentable), а каждое носимое оружие — свойство «Неприметное» (Discreet); однако вы получаете помеху (disadvantage) на любую вашу атаку, а каждая атака по вам получает преимущество (advantage).</p>"
     },
     "OFeQsU9qi2JF3LwE": {
       "name": "Электрумовая металлопамять (Electrummind)",
@@ -469,11 +469,11 @@
     },
     "OUi6FQmQfwe3HiRG": {
       "name": "Антисептик (сильный, 5 доз) (Antiseptic (potent, 5 doses))",
-      "description": "<p><strong>Цена (Price)</strong> 25 бкс; <strong>Вес (Weight)</strong> 1 фнт.;</p><p>Сильные антисептики, такие как йод, можно извлекать из золы водорослей кислотой. Одну дозу можно применить к персонажу после короткого отдыха, чтобы восстановить [[healing 2d6]].</p>"
+      "description": "<p><strong>Цена (Price)</strong> 25 мр.; <strong>Вес (Weight)</strong> 1 фнт.;</p><p>Сильные антисептики, такие как йод, можно извлекать из золы водорослей кислотой. Одну дозу можно применить к персонажу после короткого отдыха, чтобы восстановить [[healing 2d6]].</p>"
     },
     "ObB0HCtycWRruHJY": {
       "name": "Короткий лук (Shortbow)",
-      "description": "<p><strong>Урон (Damage)</strong> 1d6 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [80/320]; <strong>Свойства (Traits)</strong> Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Быстроизвлекаемое (Quickdraw);</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 40 бкс; <strong>Вес (Weight)</strong> 2 фнт;</p>"
+      "description": "<p><strong>Урон (Damage)</strong> 1d6 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [80/320]; <strong>Свойства (Traits)</strong> Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Быстроизвлекаемое (Quickdraw);</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 40 мр.; <strong>Вес (Weight)</strong> 2 фнт;</p>"
     },
     "Own4s6Y2qp2K92CN": {
       "name": "Кадмиевый штырь (А. термосплав) (Cadmium Spike (A. Bendalloy))",
@@ -485,7 +485,7 @@
     },
     "Ozl4I5eVfkW6ZN9O": {
       "name": "Еда (изысканная, 1 день) (Food (fine, 1 day))",
-      "description": "<p><strong>Цена (Price)</strong> 10 бкс; <strong>Вес (Weight)</strong> 0.5 фнт.;</p><p>Изысканную еду можно найти в дорогих ресторанах и на столах дворянских пиров.</p>"
+      "description": "<p><strong>Цена (Price)</strong> 10 мр.; <strong>Вес (Weight)</strong> 0.5 фнт.;</p><p>Изысканную еду можно найти в дорогих ресторанах и на столах дворянских пиров.</p>"
     },
     "P4nu3tN5YXyQrv3e": {
       "name": "Стальной штырь (А. олово) (Steel Spike (A. Tin))",
@@ -497,22 +497,22 @@
     },
     "PjCI6Ixq22iQKA1f": {
       "name": "Флакон алюминия (Эра 1) (Aluminum Vial (Era 1))",
-      "description": "<p><strong>Цена в Эре 1 (Era 1 Price)</strong> 25 бкс/флакон;</p>"
+      "description": "<p><strong>Цена в Эре 1 (Era 1 Price)</strong> 25 мр./флакон;</p>"
     },
     "Qkq7sijLaZcU6fXS": {
       "name": "Длинный меч (Longsword)",
-      "description": "<p><strong>Урон (Damage)</strong> 1d8 колющий (keen); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Быстроизвлекаемое (Quickdraw), Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): теряет свойство Двуручное (Two-Handed);</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 30 бкс; <strong>Вес (Weight)</strong> 3 фнт;</p>"
+      "description": "<p><strong>Урон (Damage)</strong> 1d8 колющий (keen); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Быстроизвлекаемое (Quickdraw), Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): теряет свойство Двуручное (Two-Handed);</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 30 мр.; <strong>Вес (Weight)</strong> 3 фнт;</p>"
     },
     "RKVSFjJtidMVC3Tv": {
       "name": "Флакон олова (Tin Vial)"
     },
     "RWI6YcswJGPtMbar": {
       "name": "Точильный камень (Whetstone)",
-      "description": "<p><strong>Цена (Price)</strong> 0.1 бкс; <strong>Вес (Weight)</strong> 1 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+      "description": "<p><strong>Цена (Price)</strong> 0.1 мр.; <strong>Вес (Weight)</strong> 1 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
     },
     "RWz4T1gNbreSxJaT": {
       "name": "Молоток (ручной) (Hammer (handheld))",
-      "description": "<p><strong>Цена (Price)</strong> 2 бкс; <strong>Вес (Weight)</strong> 3 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+      "description": "<p><strong>Цена (Price)</strong> 2 мр.; <strong>Вес (Weight)</strong> 3 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
     },
     "ScUREJKOjVT1mtkC": {
       "name": "Алюминиевое Истинное тело (Aluminum True Body)",
@@ -520,11 +520,11 @@
     },
     "SnQpASdqtxNECCNi": {
       "name": "Еда (паёк, 1 день) (Food (ration, 1 day))",
-      "description": "<p><strong>Цена (Price)</strong> 0.1 бкс; <strong>Вес (Weight)</strong> 0.5 фнт.;</p><p>Пайки — это еда для долгих путешествий, например вяленое мясо и твёрдый хлеб. Обычно она безвкусна, но, если хранить её сухой, остаётся съедобной неограниченно долго.</p>"
+      "description": "<p><strong>Цена (Price)</strong> 0.1 мр.; <strong>Вес (Weight)</strong> 0.5 фнт.;</p><p>Пайки — это еда для долгих путешествий, например вяленое мясо и твёрдый хлеб. Обычно она безвкусна, но, если хранить её сухой, остаётся съедобной неограниченно долго.</p>"
     },
     "SsnjHFrF0OheW5oX": {
       "name": "Болтовая винтовка (Bolt Rifle)",
-      "description": "<p><strong>Урон (Damage)</strong> 1d10 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [150/600]; <strong>Свойства (Traits)</strong> Заряжено (Loaded) [1], Пронзающее (Pierce), Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): дальность становится [250/1,000];</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 600 бкс; <strong>Вес (Weight)</strong> 9 фнт;</p>"
+      "description": "<p><strong>Урон (Damage)</strong> 1d10 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [150/600]; <strong>Свойства (Traits)</strong> Заряжено (Loaded) [1], Пронзающее (Pierce), Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): дальность становится [250/1,000];</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 600 мр.; <strong>Вес (Weight)</strong> 9 фнт;</p>"
     },
     "T4KW4cFnkOmoMsuC": {
       "name": "Флакон железа (Iron Vial)"
@@ -535,7 +535,7 @@
     },
     "TmrXGEiVq4Mn8WCh": {
       "name": "Автомобиль (Эра 2) (Car (Era 2))",
-      "description": "<p><strong>Цена покупки (Purchase Price)</strong> 4,000 бкс; <strong>Аренда в день (Rental Price per Day)</strong> 200 бкс; <strong>Скорость в пути (Travel Speed)</strong> 30 миль/ч; <strong>Тип (Type)</strong> Суша (Land)</p>"
+      "description": "<p><strong>Цена покупки (Purchase Price)</strong> 4,000 мр.; <strong>Аренда в день (Rental Price per Day)</strong> 200 мр.; <strong>Скорость в пути (Travel Speed)</strong> 30 миль/ч; <strong>Тип (Type)</strong> Суша (Land)</p>"
     },
     "Uk5sqUdiTM573Ohg": {
       "name": "Туманный плащ-пыльник (Эра 2) (Mistcoat (Era 2))",
@@ -543,11 +543,11 @@
     },
     "V2AbDAq6NRuqKtxX": {
       "name": "Деревянный посох (Wooden Staff)",
-      "description": "<p><strong>Урон (Damage)</strong> 1d6 дробящий (impact); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Неприметное (Discreet), Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Защитное (Defensive);</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 5 бкс; <strong>Вес (Weight)</strong> 4 фнт;</p>"
+      "description": "<p><strong>Урон (Damage)</strong> 1d6 дробящий (impact); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Неприметное (Discreet), Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Защитное (Defensive);</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 5 мр.; <strong>Вес (Weight)</strong> 4 фнт;</p>"
     },
     "WDiC6hIIyCOLaytZ": {
       "name": "Бедное жильё (Poor Lodging)",
-      "description": "<p>Цена 0,2 бкс (bx) с человека за ночь.</p>"
+      "description": "<p>Цена 0,2 мр. (bx) с человека за ночь.</p>"
     },
     "WIglLGRboNtm8uqJ": {
       "name": "Непривязанная металлопамять (Unkeyed Metalmind)",
@@ -559,7 +559,7 @@
     },
     "WutO1IM8DbLGtpXp": {
       "name": "Сеть (охотничья) (Net (hunting))",
-      "description": "<p><strong>Цена (Price)</strong> 2 бкс; <strong>Вес (Weight)</strong> 5 фнт.;</p><p>Эта сеть из толстой верёвки может опутать животных или врагов. Держа эту сеть, вы можете использовать <span class=\"cosmere-icon\">1</span>, чтобы совершить [[test skill=ath]] против Физической защиты (Physical defense) Большого (Large) или меньшего персонажа в пределах 15 футов от вас. При успехе персонаж становится @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#restrained]{Скован (Restrained)} и сбит с ног (Prone). Этот персонаж или другой, который может до него дотянуться, может использовать действие «Взаимодействие» (Interact), чтобы совершить [[test dc=15 skill=ath]], освободив пойманного персонажа при успехе. Если персонаж @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#restrained]{Скован (Restrained)} несколькими сетями, его нужно освободить от каждой отдельно.</p>"
+      "description": "<p><strong>Цена (Price)</strong> 2 мр.; <strong>Вес (Weight)</strong> 5 фнт.;</p><p>Эта сеть из толстой верёвки может опутать животных или врагов. Держа эту сеть, вы можете использовать <span class=\"cosmere-icon\">1</span>, чтобы совершить [[test skill=ath]] против Физической защиты (Physical defense) Большого (Large) или меньшего персонажа в пределах 15 футов от вас. При успехе персонаж становится @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#restrained]{Скован (Restrained)} и сбит с ног (Prone). Этот персонаж или другой, который может до него дотянуться, может использовать действие «Взаимодействие» (Interact), чтобы совершить [[test dc=15 skill=ath]], освободив пойманного персонажа при успехе. Если персонаж @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#restrained]{Скован (Restrained)} несколькими сетями, его нужно освободить от каждой отдельно.</p>"
     },
     "X1XSHvHUw9JKZ18d": {
       "name": "Импровизированное оружие (лёгкое) (Improvised Weapon (Light))",
@@ -567,23 +567,23 @@
     },
     "X2CrY41KMzaHc7rC": {
       "name": "Цепь (тонкая, 1 фут) (Chain (thin, 1 foot))",
-      "description": "<p><strong>Цена (Price)</strong> 10 бкс; <strong>Вес (Weight)</strong> 0.5 фнт.;</p><p>Эта тонкая цепь часто используется в украшениях и обычно изготавливается из драгоценных металлов с мелкими звеньями. Цепь можно разорвать успехом в [[test dc=20 skill=ath]] или нанеся ей 5 урона.</p>"
+      "description": "<p><strong>Цена (Price)</strong> 10 мр.; <strong>Вес (Weight)</strong> 0.5 фнт.;</p><p>Эта тонкая цепь часто используется в украшениях и обычно изготавливается из драгоценных металлов с мелкими звеньями. Цепь можно разорвать успехом в [[test dc=20 skill=ath]] или нанеся ей 5 урона.</p>"
     },
     "XIVcK2jmFeQvtQh6": {
       "name": "Лошадь (Horse)",
-      "description": "<p><strong>Цена покупки (Purchase Price)</strong> 500 бкс; <strong>Аренда в день (Rental Price per Day)</strong> 4 бкс; <strong>Грузоподъёмность (Carrying Capacity)</strong> 500 фнт.; <strong>Скорость в пути (Travel Speed)</strong> 4 миль/ч; </p>"
+      "description": "<p><strong>Цена покупки (Purchase Price)</strong> 500 мр.; <strong>Аренда в день (Rental Price per Day)</strong> 4 мр.; <strong>Грузоподъёмность (Carrying Capacity)</strong> 500 фнт.; <strong>Скорость в пути (Travel Speed)</strong> 4 миль/ч; </p>"
     },
     "XJ5BRBkkHBdmcKKh": {
       "name": "Флакон термосплава (Bendalloy Vial)",
-      "description": "<p><strong>Цена в Эре 1 (Era 1 Price)</strong> Недоступно; <strong>Цена в Эре 2 (Era 2 Price)</strong> 500 бкс/флакон;</p>"
+      "description": "<p><strong>Цена в Эре 1 (Era 1 Price)</strong> Недоступно; <strong>Цена в Эре 2 (Era 2 Price)</strong> 500 мр./флакон;</p>"
     },
     "XOuL6g3fc22JJ4Nu": {
       "name": "Мыло (Soap)",
-      "description": "<p><strong>Цена (Price)</strong> 0.5 бкс; <strong>Вес (Weight)</strong> 0.1 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+      "description": "<p><strong>Цена (Price)</strong> 0.5 мр.; <strong>Вес (Weight)</strong> 0.1 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
     },
     "XRlZP4JqG5ZM1MAs": {
       "name": "Полиспаст (Pulley System)",
-      "description": "<p><strong>Цена (Price)</strong> 50 бкс; <strong>Вес (Weight)</strong> 12 фнт.;</p><p>Чаще всего используемая инженерами и строителями, эта система содержит четыре блочных колеса, 30 футов верёвки и крюк. Если у вас есть время установить блочный механизм, пытаясь поднять предмет, считайте, что вес предмета составляет четверть обычного.</p>"
+      "description": "<p><strong>Цена (Price)</strong> 50 мр.; <strong>Вес (Weight)</strong> 12 фнт.;</p><p>Чаще всего используемая инженерами и строителями, эта система содержит четыре блочных колеса, 30 футов верёвки и крюк. Если у вас есть время установить блочный механизм, пытаясь поднять предмет, считайте, что вес предмета составляет четверть обычного.</p>"
     },
     "XYcZ3Q9P31L6U6mI": {
       "name": "Набор «Преступный мир» (Эра 1) (Underworld Kit (Era 1))",
@@ -591,7 +591,7 @@
     },
     "Y0Ly0OkNOFLwmxUA": {
       "name": "Горшок (железный) (Pot (iron))",
-      "description": "<p><strong>Цена (Price)</strong> 4 бкс; <strong>Вес (Weight)</strong> 10 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+      "description": "<p><strong>Цена (Price)</strong> 4 мр.; <strong>Вес (Weight)</strong> 10 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
     },
     "Y50EWM25RAYW4wcz": {
       "name": "Набор «Беглец» (Runaway Kit)",
@@ -603,26 +603,26 @@
     },
     "YrsvEoGWWZ4qGsSo": {
       "name": "Кожаная (Leather)",
-      "description": "<p><strong>Значение отражения (Deflect Value)</strong> 1; <strong>Свойства (Traits)</strong> —; <strong>Экспертные свойства (Expert Traits)</strong> Презентабельное (Presentable);</p><p><strong>Цена (Price)</strong> 30 бкс; <strong>Вес (Weight)</strong> 10 фнт.;</p>"
+      "description": "<p><strong>Значение отражения (Deflect Value)</strong> 1; <strong>Свойства (Traits)</strong> —; <strong>Экспертные свойства (Expert Traits)</strong> Презентабельное (Presentable);</p><p><strong>Цена (Price)</strong> 30 мр.; <strong>Вес (Weight)</strong> 10 фнт.;</p>"
     },
     "ZgUsHC5KbbK5NyNo": {
       "name": "Деревянный щит (Wooden Shield)",
-      "description": "<p><strong>Урон (Damage)</strong> 1d6 дробящий (impact); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Защитное (Defensive), Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): теряет свойство Двуручное (Two-Handed);</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 50 бкс; <strong>Вес (Weight)</strong> 4 фнт;</p>"
+      "description": "<p><strong>Урон (Damage)</strong> 1d6 дробящий (impact); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Защитное (Defensive), Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): теряет свойство Двуручное (Two-Handed);</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 50 мр.; <strong>Вес (Weight)</strong> 4 фнт;</p>"
     },
     "Zopb04ptnAE9yCZK": {
       "name": "Длинный лук (Longbow)",
-      "description": "<p><strong>Урон (Damage)</strong> 1d6 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [150/600]; <strong>Свойства (Traits)</strong> Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Баллистическое (Indirect);</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 75 бкс; <strong>Вес (Weight)</strong> 3 фнт;</p>"
+      "description": "<p><strong>Урон (Damage)</strong> 1d6 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [150/600]; <strong>Свойства (Traits)</strong> Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Баллистическое (Indirect);</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 75 мр.; <strong>Вес (Weight)</strong> 3 фнт;</p>"
     },
     "aRRqq0i1Ez7ZxgJc": {
       "name": "Короткий меч (Sidesword)",
-      "description": "<p><strong>Урон (Damage)</strong> 1d6 колющий (keen); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Быстроизвлекаемое (Quickdraw); <strong>Экспертные свойства (Expert Traits)</strong> Вторая рука (Offhand);</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 15 бкс; <strong>Вес (Weight)</strong> 2 фнт;</p>"
+      "description": "<p><strong>Урон (Damage)</strong> 1d6 колющий (keen); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Быстроизвлекаемое (Quickdraw); <strong>Экспертные свойства (Expert Traits)</strong> Вторая рука (Offhand);</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 15 мр.; <strong>Вес (Weight)</strong> 2 фнт;</p>"
     },
     "bFlVYbZTm1KQswE7": {
       "name": "Флакон цинка (Zinc Vial)"
     },
     "bJoWkt6T45R4kgfd": {
       "name": "Тоник (1 доза) (Tonic (1 dose))",
-      "description": "<p><strong>Цена (Price)</strong> 2 бкс; <strong>Вес (Weight)</strong> 0.2 фнт.;</p><p>Резкая настойка из секретных ингредиентов. В Эре 1 многие дворяне ежедневно принимают ложку Пьютерхартского тоника (Pewterheart Tonic), а в Эре 2 бесчисленные довольные покупатели клянутся в действенности Сверкающего тоника (Sparkle Tonic). (А другие клянутся, что это просто эффект плацебо.) В любом случае персонаж может принять дозу после короткого отдыха, чтобы восстановить [[healing 1d4]] и 1 фокус (focus).</p>"
+      "description": "<p><strong>Цена (Price)</strong> 2 мр.; <strong>Вес (Weight)</strong> 0.2 фнт.;</p><p>Резкая настойка из секретных ингредиентов. В Эре 1 многие дворяне ежедневно принимают ложку Пьютерхартского тоника (Pewterheart Tonic), а в Эре 2 бесчисленные довольные покупатели клянутся в действенности Сверкающего тоника (Sparkle Tonic). (А другие клянутся, что это просто эффект плацебо.) В любом случае персонаж может принять дозу после короткого отдыха, чтобы восстановить [[healing 1d4]] и 1 фокус (focus).</p>"
     },
     "bP1OyNiin20n0GOE": {
       "name": "Кадмиевый штырь (А. золото) (Cadmium Spike (A. Gold))",
@@ -630,7 +630,7 @@
     },
     "bR0XVSOJKa25D2ez": {
       "name": "Крюк-кошка (Grappling Hook)",
-      "description": "<p><strong>Цена (Price)</strong> 5 бкс; <strong>Вес (Weight)</strong> 4 фнт.;</p><p>Крюк-кошка обычно крепится к концу верёвки, чтобы помогать подниматься или спускаться по стенам и утёсам. Надёжно закреплённый крюк даёт преимущество (advantage) на проверки «Ловкости» (Agility) и «Атлетики» (Athletics) при лазании по прикреплённой к нему верёвке.</p><p>Вы можете использовать действие «Взаимодействие» (Interact), чтобы прикрепить крюк к опоре в пределах вашей досягаемости без проверки. Либо вы можете забросить и прикрепить его к подходящей опоре в пределах 20 футов от вас, преуспев в [[test skill=agi]] или [[test skill=ath]] (Сл назначает Ведущий).</p>"
+      "description": "<p><strong>Цена (Price)</strong> 5 мр.; <strong>Вес (Weight)</strong> 4 фнт.;</p><p>Крюк-кошка обычно крепится к концу верёвки, чтобы помогать подниматься или спускаться по стенам и утёсам. Надёжно закреплённый крюк даёт преимущество (advantage) на проверки «Ловкости» (Agility) и «Атлетики» (Athletics) при лазании по прикреплённой к нему верёвке.</p><p>Вы можете использовать действие «Взаимодействие» (Interact), чтобы прикрепить крюк к опоре в пределах вашей досягаемости без проверки. Либо вы можете забросить и прикрепить его к подходящей опоре в пределах 20 футов от вас, преуспев в [[test skill=agi]] или [[test skill=ath]] (Сл назначает Ведущий).</p>"
     },
     "bSXzf7EwrXKCHyAy": {
       "name": "Латунная металлопамять (Brassmind)",
@@ -638,19 +638,19 @@
     },
     "cOZiS15Z4VpsVVuW": {
       "name": "Монета в 2 меры (boxings) (2-Boxing Coin)",
-      "description": "<p>Имперские монеты, в просторечии называемые меры (boxings)ми (boxings), крупнее — примерно вдвое больше клипов — и обычно делаются из более драгоценных металлов, например золота. Одна мера (boxings), разумеется, стоит 1 бкс (bx). До Катакендра (Catacendre) существовали монеты в 2 и 5 мер (boxings), а в Эре 2 появились и другие номиналы.</p>"
+      "description": "<p>Имперские монеты, в просторечии называемые меры (boxings)ми (boxings), крупнее — примерно вдвое больше клипов — и обычно делаются из более драгоценных металлов, например золота. Одна мера (boxings), разумеется, стоит 1 мр. (bx). До Катакендра (Catacendre) существовали монеты в 2 и 5 мер (boxings), а в Эре 2 появились и другие номиналы.</p>"
     },
     "cTdSHRh3rrQ0tm1f": {
       "name": "Духи (1 флакон) (Perfume (1 vial))",
-      "description": "<p><strong>Цена (Price)</strong> 10 бкс; <strong>Вес (Weight)</strong> 0.5 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+      "description": "<p><strong>Цена (Price)</strong> 10 мр.; <strong>Вес (Weight)</strong> 0.5 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
     },
     "cWhzXa3BNFDg6THr": {
       "name": "Свеча (Candle)",
-      "description": "<p><strong>Цена (Price)</strong> 0.1 бкс; <strong>Вес (Weight)</strong> 0.2 фнт.;</p><p>Пока свеча горит, она освещает область в радиусе 15 футов. Она горит до 6 часов, после чего становится непригодной.</p>"
+      "description": "<p><strong>Цена (Price)</strong> 0.1 мр.; <strong>Вес (Weight)</strong> 0.2 фнт.;</p><p>Пока свеча горит, она освещает область в радиусе 15 футов. Она горит до 6 часов, после чего становится непригодной.</p>"
     },
     "dCDUAZzKVddmP9av": {
       "name": "Хирургические принадлежности (Surgical Supplies)",
-      "description": "<p><strong>Цена (Price)</strong> 20 бкс; <strong>Вес (Weight)</strong> 3 фнт.;</p><p>В этой сумке достаточно бинтов, мазей, шин и других медицинских принадлежностей на 10 применений. Когда вы совершаете [[test skill=med]], чтобы лечить раненого персонажа (или подобным образом использовать эти принадлежности), вы можете потратить одно из этих применений, чтобы получить преимущество (advantage) на проверку.</p>"
+      "description": "<p><strong>Цена (Price)</strong> 20 мр.; <strong>Вес (Weight)</strong> 3 фнт.;</p><p>В этой сумке достаточно бинтов, мазей, шин и других медицинских принадлежностей на 10 применений. Когда вы совершаете [[test skill=med]], чтобы лечить раненого персонажа (или подобным образом использовать эти принадлежности), вы можете потратить одно из этих применений, чтобы получить преимущество (advantage) на проверку.</p>"
     },
     "dQLbNEqmO2Vr0qhM": {
       "name": "Клинок колосса (Koloss Blade)",
@@ -662,23 +662,23 @@
     },
     "dao2YbedjUmznApf": {
       "name": "Флакон дюралюминия (Эра 2) (Duralumin Vial (Era 2))",
-      "description": "<p><strong>Цена в Эре 2 (Era 2 Price)</strong> 50 бкс/флакон;</p>"
+      "description": "<p><strong>Цена в Эре 2 (Era 2 Price)</strong> 50 мр./флакон;</p>"
     },
     "eNpsl2LSCmkoexbg": {
       "name": "Нож (Knife)",
-      "description": "<p><strong>Урон (Damage)</strong> 1d4 колющий (keen); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Неприметное (Discreet); <strong>Экспертные свойства (Expert Traits)</strong> Вторая рука (Offhand), Метательное (Thrown) [20/60];</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 2 бкс; <strong>Вес (Weight)</strong> 1 фнт;</p>"
+      "description": "<p><strong>Урон (Damage)</strong> 1d4 колющий (keen); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Неприметное (Discreet); <strong>Экспертные свойства (Expert Traits)</strong> Вторая рука (Offhand), Метательное (Thrown) [20/60];</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 2 мр.; <strong>Вес (Weight)</strong> 1 фнт;</p>"
     },
     "eVwROxcI7IyJSbmK": {
       "name": "Кувшин (Jug)",
-      "description": "<p><strong>Цена (Price)</strong> 1 бкс; <strong>Вес (Weight)</strong> 4 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+      "description": "<p><strong>Цена (Price)</strong> 1 мр.; <strong>Вес (Weight)</strong> 4 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
     },
     "eiY4NQ2sWiTHhpBN": {
       "name": "Мера (Boxing)",
-      "description": "<p>Имперские монеты, в просторечии называемые меры (boxings)ми (boxings), крупнее — примерно вдвое больше клипов — и обычно делаются из более драгоценных металлов, например золота. Одна мера (boxings), разумеется, стоит 1 бкс (bx). До Катакендра (Catacendre) существовали монеты в 2 и 5 мер (boxings), а в Эре 2 появились и другие номиналы.</p>"
+      "description": "<p>Имперские монеты, в просторечии называемые меры (boxings)ми (boxings), крупнее — примерно вдвое больше клипов — и обычно делаются из более драгоценных металлов, например золота. Одна мера (boxings), разумеется, стоит 1 мр. (bx). До Катакендра (Catacendre) существовали монеты в 2 и 5 мер (boxings), а в Эре 2 появились и другие номиналы.</p>"
     },
     "enBhoi9CSFT51bTW": {
       "name": "Палатка (двухместная) (Tent (two-person))",
-      "description": "<p><strong>Цена (Price)</strong> 5 бкс; <strong>Вес (Weight)</strong> 20 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+      "description": "<p><strong>Цена (Price)</strong> 5 мр.; <strong>Вес (Weight)</strong> 20 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
     },
     "erS8NL6l0ONH1RaE": {
       "name": "Импровизированное оружие (тяжёлое) (Improvised Weapon (Heavy))",
@@ -686,18 +686,18 @@
     },
     "f1J4IOP0gxGzE61D": {
       "name": "Флакон дюралюминия (Эра 1) (Duralumin Vial (Era 1))",
-      "description": "<p><strong>Цена в Эре 1 (Era 1 Price)</strong> 25 бкс/флакон;</p>"
+      "description": "<p><strong>Цена в Эре 1 (Era 1 Price)</strong> 25 мр./флакон;</p>"
     },
     "flUEIEhZk3uk59NP": {
       "name": "Богатое жильё (Wealthy Lodging)",
-      "description": "<p>Цена 25 бкс (bx) с человека за ночь.</p>"
+      "description": "<p>Цена 25 мр. (bx) с человека за ночь.</p>"
     },
     "g7UNBAVkvskIEI23": {
       "name": "Флакон стали (Steel Vial)"
     },
     "gN3eBW643do1hPoc": {
       "name": "Алкоголь (бутылка) (Alcohol (bottle))",
-      "description": "<p><strong>Цена (Price)</strong> 0.5-300 бкс; <strong>Вес (Weight)</strong> 2-4 фнт.;</p><p>У культур Скадриаля (Scadrial) есть разнообразные традиции употребления хмельного: от самых разбавленных элей и пив до лучших виски и вин.</p>"
+      "description": "<p><strong>Цена (Price)</strong> 0.5-300 мр.; <strong>Вес (Weight)</strong> 2-4 фнт.;</p><p>У культур Скадриаля (Scadrial) есть разнообразные традиции употребления хмельного: от самых разбавленных элей и пив до лучших виски и вин.</p>"
     },
     "gT8aiRh5P78qLMiK": {
       "name": "Золотой штырь (Ф. электрум) (Gold Spike (F. Electrum))",
@@ -705,11 +705,11 @@
     },
     "gdePR6FRHFXf20rf": {
       "name": "Ротационный пулемёт (Rotary Gun)",
-      "description": "<p><strong>Урон (Damage)</strong> 3d4 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [20/60]; <strong>Свойства (Traits)</strong> Громоздкое (Cumbersome) [6], Опасное (Dangerous), Заряжено (Loaded) [20], Пронзающее (Pierce), Двуручное (Two-Handed), Особое (Unique); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): теряет свойство Опасное (Dangerous);</p><p><strong>Тип (Type)</strong> Особое оружие (Special Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 2,500 бкс; <strong>Вес (Weight)</strong> 170 фнт;</p><p></p><p>Ротационный пулемёт (rotary gun) имеет набор стволов на вращающемся круглом основании, обычно соединённых с магазином или лентой боеприпасов. Вручную вращая рычаг, патроны подаются в стволы и выстреливают с невероятной скоростью.</p><p>Особенно в городских населённых центрах правоохранители (например, констебли) пристально следят за подобными опасными предметами. Если у вас нет покровителя (см. «@UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.UqXwZ77VrwqnNCR7.JournalEntryPage.J99NbXyTKoPz5Ncg]{Категории наград (Reward Categories)}» в главе 8), разрешающего вам приобретать, перевозить или применять ротационный пулемёт, купить его невероятно трудно, а если вас с ним поймают, вас могут арестовать и привлечь к ответственности.</p><p><strong>Особые свойства (Unique Traits).</strong> Ротационные пулемёты имеют следующие уникальные свойства:</p><p><strong>Скорость огня (Fire Velocity).</strong> Количество действий «Удар» (Strike), которые вы можете совершить ротационным пулемётом в свой ход, не ограничено. Однако каждый раз, когда вы атакуете ротационным пулемётом, проверка получает столько помех, сколько предыдущих атак им вы совершили в этот ход. Например, когда вы совершаете третью атаку ротационным пулемётом за один ход, ваша проверка атаки получает две помехи (disadvantages).</p><p><strong>Неподъёмный вес (Unwieldy Weight).</strong> Из-за огромного веса и отдачи ротационным пулемётом невероятно трудно пользоваться, не закрепив его на устойчивой поверхности. Пока ротационный пулемёт не закреплён, у него есть свойство «Громоздкое [6]» (Cumbersome [6]). Вы или другой персонаж, который может до него дотянуться, может использовать действие «Взаимодействие» (Interact), чтобы закрепить ротационный пулемёт на горизонтальной устойчивой поверхности; каждый раз, когда вы это делаете, значение свойства «Громоздкое» уменьшается на 2. Например, если вы так взаимодействуете дважды, ротационный пулемёт становится «Громоздким [2]». Если закреплённый ротационный пулемёт по какой-то причине снимают с его поверхности, он перестаёт быть закреплённым и снова становится «Громоздким [6]».</p>"
+      "description": "<p><strong>Урон (Damage)</strong> 3d4 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [20/60]; <strong>Свойства (Traits)</strong> Громоздкое (Cumbersome) [6], Опасное (Dangerous), Заряжено (Loaded) [20], Пронзающее (Pierce), Двуручное (Two-Handed), Особое (Unique); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): теряет свойство Опасное (Dangerous);</p><p><strong>Тип (Type)</strong> Особое оружие (Special Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 2,500 мр.; <strong>Вес (Weight)</strong> 170 фнт;</p><p></p><p>Ротационный пулемёт (rotary gun) имеет набор стволов на вращающемся круглом основании, обычно соединённых с магазином или лентой боеприпасов. Вручную вращая рычаг, патроны подаются в стволы и выстреливают с невероятной скоростью.</p><p>Особенно в городских населённых центрах правоохранители (например, констебли) пристально следят за подобными опасными предметами. Если у вас нет покровителя (см. «@UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.UqXwZ77VrwqnNCR7.JournalEntryPage.J99NbXyTKoPz5Ncg]{Категории наград (Reward Categories)}» в главе 8), разрешающего вам приобретать, перевозить или применять ротационный пулемёт, купить его невероятно трудно, а если вас с ним поймают, вас могут арестовать и привлечь к ответственности.</p><p><strong>Особые свойства (Unique Traits).</strong> Ротационные пулемёты имеют следующие уникальные свойства:</p><p><strong>Скорость огня (Fire Velocity).</strong> Количество действий «Удар» (Strike), которые вы можете совершить ротационным пулемётом в свой ход, не ограничено. Однако каждый раз, когда вы атакуете ротационным пулемётом, проверка получает столько помех, сколько предыдущих атак им вы совершили в этот ход. Например, когда вы совершаете третью атаку ротационным пулемётом за один ход, ваша проверка атаки получает две помехи (disadvantages).</p><p><strong>Неподъёмный вес (Unwieldy Weight).</strong> Из-за огромного веса и отдачи ротационным пулемётом невероятно трудно пользоваться, не закрепив его на устойчивой поверхности. Пока ротационный пулемёт не закреплён, у него есть свойство «Громоздкое [6]» (Cumbersome [6]). Вы или другой персонаж, который может до него дотянуться, может использовать действие «Взаимодействие» (Interact), чтобы закрепить ротационный пулемёт на горизонтальной устойчивой поверхности; каждый раз, когда вы это делаете, значение свойства «Громоздкое» уменьшается на 2. Например, если вы так взаимодействуете дважды, ротационный пулемёт становится «Громоздким [2]». Если закреплённый ротационный пулемёт по какой-то причине снимают с его поверхности, он перестаёт быть закреплённым и снова становится «Громоздким [6]».</p>"
     },
     "glAmg6alkOaaa4Qd": {
       "name": "Ведро (Bucket)",
-      "description": "<p><strong>Цена (Price)</strong> 0.5 бкс; <strong>Вес (Weight)</strong> 2 фнт.;</p><p><em>Этот предмет указан для ролевой игры и не имеет особых характеристик или правил.</em></p>"
+      "description": "<p><strong>Цена (Price)</strong> 0.5 мр.; <strong>Вес (Weight)</strong> 2 фнт.;</p><p><em>Этот предмет указан для ролевой игры и не имеет особых характеристик или правил.</em></p>"
     },
     "gpLIklT7jJ37ZU9E": {
       "name": "Металлическое Истинное тело (Metal True Body)",
@@ -717,19 +717,19 @@
     },
     "h5ajig4KTh84RAUj": {
       "name": "Свободное кресло (Эра 2) (Freechair (Era 2))",
-      "description": "<p><strong>Цена (Price)</strong> Бесплатно или 500 бкс; <strong>Вес (Weight)</strong> 12 фнт.;</p><p>Свободное кресло (freechair), созданное на основе технологии дирижаблей, — устройство для передвижения, которое парит и движется с помощью железного медальона и праймерного куба стального толкания (Steelpushing primer cube). Управляющий свободным креслом имеет ту же скорость передвижения, что и другие персонажи (см. «@UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.kwz9u1ntb7EcYxTk.JournalEntryPage.GO9eVv3l8JqDfEpe#speed]{Скорость (Speed)}» в главе 3), и креслу не требуется действие для активации.</p><p>Хотя свободные кресла можно купить, персонажи с ограниченными возможностями могут получить его бесплатно. В Эре 1 технология свободных кресел неизвестна, но персонажи могут использовать инвалидное кресло с той же скоростью передвижения.</p>"
+      "description": "<p><strong>Цена (Price)</strong> Бесплатно или 500 мр.; <strong>Вес (Weight)</strong> 12 фнт.;</p><p>Свободное кресло (freechair), созданное на основе технологии дирижаблей, — устройство для передвижения, которое парит и движется с помощью железного медальона и праймерного куба стального толкания (Steelpushing primer cube). Управляющий свободным креслом имеет ту же скорость передвижения, что и другие персонажи (см. «@UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.kwz9u1ntb7EcYxTk.JournalEntryPage.GO9eVv3l8JqDfEpe#speed]{Скорость (Speed)}» в главе 3), и креслу не требуется действие для активации.</p><p>Хотя свободные кресла можно купить, персонажи с ограниченными возможностями могут получить его бесплатно. В Эре 1 технология свободных кресел неизвестна, но персонажи могут использовать инвалидное кресло с той же скоростью передвижения.</p>"
     },
     "h5qadhOBjvTCbaQB": {
       "name": "Охотничье ружьё (Hunting Rifle)",
-      "description": "<p><strong>Урон (Damage)</strong> 1d8 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [150/600]; <strong>Свойства (Traits)</strong> Заряжено (Loaded) [1], Пронзающее (Pierce), Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): Заряжено (Loaded) [3] вместо Заряжено (Loaded) [1];</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 400 бкс; <strong>Вес (Weight)</strong> 5 фнт;</p>"
+      "description": "<p><strong>Урон (Damage)</strong> 1d8 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [150/600]; <strong>Свойства (Traits)</strong> Заряжено (Loaded) [1], Пронзающее (Pierce), Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): Заряжено (Loaded) [3] вместо Заряжено (Loaded) [1];</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 400 мр.; <strong>Вес (Weight)</strong> 5 фнт;</p>"
     },
     "hH5881XHDBkySRs3": {
       "name": "Флакон золота (Эра 1) (Gold Vial (Era 1))",
-      "description": "<p><strong>Цена в Эре 1 (Era 1 Price)</strong> 5 бкс/флакон;</p>"
+      "description": "<p><strong>Цена в Эре 1 (Era 1 Price)</strong> 5 мр./флакон;</p>"
     },
     "hSlO9QMMeoogpsrv": {
       "name": "Бочка (Barrel)",
-      "description": "<p><strong>Цена (Price)</strong> 10 бкс; <strong>Вес (Weight)</strong> 70 фнт.;</p><p><em>Этот предмет указан для ролевой игры и не имеет особых характеристик или правил.</em></p>"
+      "description": "<p><strong>Цена (Price)</strong> 10 мр.; <strong>Вес (Weight)</strong> 70 фнт.;</p><p><em>Этот предмет указан для ролевой игры и не имеет особых характеристик или правил.</em></p>"
     },
     "i9p41QlZJxs92Ia4": {
       "name": "Бусина чистого лерасиума (Pure Lerasium Bead)",
@@ -737,7 +737,7 @@
     },
     "j2CAN6KGnShwNrF9": {
       "name": "Униформа (Uniform)",
-      "description": "<p><strong>Значение отражения (Deflect Value)</strong> 0; <strong>Свойства (Traits)</strong> Презентабельное (Presentable); <strong>Экспертные свойства (Expert Traits)</strong> —;</p><p><strong>Цена (Price)</strong> 20 бкс; <strong>Вес (Weight)</strong> 5 фнт.;</p>"
+      "description": "<p><strong>Значение отражения (Deflect Value)</strong> 0; <strong>Свойства (Traits)</strong> Презентабельное (Presentable); <strong>Экспертные свойства (Expert Traits)</strong> —;</p><p><strong>Цена (Price)</strong> 20 мр.; <strong>Вес (Weight)</strong> 5 фнт.;</p>"
     },
     "jJ8YU0YMLrC2qZpK": {
       "name": "Золотой штырь (Ф. золото) (Gold Spike (F. Gold))",
@@ -745,7 +745,7 @@
     },
     "jJw5hLd1sSGvTCU7": {
       "name": "Нота (Note)",
-      "description": "<p>Бумажные ноты (notes) существуют в обе эры, хотя в Эре 1 эти банкноты обычно бывают только у дворян. Банкнота в 1 ноту стоит 10 бкс (bx). Также в обращении банкноты в 5, 10, 20 и 50 нот.</p>"
+      "description": "<p>Бумажные ноты (notes) существуют в обе эры, хотя в Эре 1 эти банкноты обычно бывают только у дворян. Банкнота в 1 ноту стоит 10 мр. (bx). Также в обращении банкноты в 5, 10, 20 и 50 нот.</p>"
     },
     "jiqASOmj9Z3rfai5": {
       "name": "Туманный плащ (Mistcloak)",
@@ -753,7 +753,7 @@
     },
     "jl5xn1mYBQgQsx7E": {
       "name": "Поезд (Эра 2) (Train (Era 2))",
-      "description": "<p><strong>Цена покупки (Purchase Price)</strong> 50,000 бкс; <strong>Аренда в день (Rental Price per Day)</strong> 25 бкс с пассажира; <strong>Скорость в пути (Travel Speed)</strong> 60 миль/ч; <strong>Тип (Type)</strong> Суша (Land)</p>"
+      "description": "<p><strong>Цена покупки (Purchase Price)</strong> 50,000 мр.; <strong>Аренда в день (Rental Price per Day)</strong> 25 мр. с пассажира; <strong>Скорость в пути (Travel Speed)</strong> 60 миль/ч; <strong>Тип (Type)</strong> Суша (Land)</p>"
     },
     "k03AOpzaJ3EHBarF": {
       "name": "Электрумовый штырь (А. никросил) (Electrum Spike (A. Nicrosil))",
@@ -765,7 +765,7 @@
     },
     "l0ttECDXEUNyLv2G": {
       "name": "Флакон никросила (Nicrosil Vial)",
-      "description": "<p><strong>Цена в Эре 1 (Era 1 Price)</strong> Недоступно; <strong>Цена в Эре 2 (Era 2 Price)</strong> 50 бкс/флакон;</p>"
+      "description": "<p><strong>Цена в Эре 1 (Era 1 Price)</strong> Недоступно; <strong>Цена в Эре 2 (Era 2 Price)</strong> 50 мр./флакон;</p>"
     },
     "lEXvaGCAksxxZ5Ri": {
       "name": "Флакон латуни (Brass Vial)"
@@ -776,7 +776,7 @@
     },
     "le4Pzlyr5KUBZpGx": {
       "name": "Торговая баржа (Merchant barge)",
-      "description": "<p><strong>Цена покупки (Purchase Price)</strong> 10,000 бкс; <strong>Аренда в день (Rental Price per Day)</strong> 25 бкс; <strong>Скорость в пути (Travel Speed)</strong> 5 миль/ч; <strong>Тип (Type)</strong> Вода (Water)</p>"
+      "description": "<p><strong>Цена покупки (Purchase Price)</strong> 10,000 мр.; <strong>Аренда в день (Rental Price per Day)</strong> 25 мр.; <strong>Скорость в пути (Travel Speed)</strong> 5 миль/ч; <strong>Тип (Type)</strong> Вода (Water)</p>"
     },
     "le4gXiZ44GyHlx9k": {
       "name": "Набор «Хранитель» (Keeper Kit)",
@@ -788,15 +788,15 @@
     },
     "m7nAjUB8yCtFdoJH": {
       "name": "Цепь (толстая, 10 футов) (Chain (thick, 10 feet))",
-      "description": "<p><strong>Цена (Price)</strong> 10 бкс; <strong>Вес (Weight)</strong> 10 фнт.;</p><p>Эта прочная цепь пригодна для крепления груза, сковывания пленников и других ситуаций, где важна прочность. Цепь можно разорвать успехом в [[test dc=30 skill=ath]] или нанеся ей 15 урона.</p>"
+      "description": "<p><strong>Цена (Price)</strong> 10 мр.; <strong>Вес (Weight)</strong> 10 фнт.;</p><p>Эта прочная цепь пригодна для крепления груза, сковывания пленников и других ситуаций, где важна прочность. Цепь можно разорвать успехом в [[test dc=30 skill=ath]] или нанеся ей 15 урона.</p>"
     },
     "mBudliSTTbvSqKCd": {
       "name": "Дробовик (Shotgun)",
-      "description": "<p><strong>Урон (Damage)</strong> 1d10 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [20/60]; <strong>Свойства (Traits)</strong> Опасное (Dangerous), Заряжено (Loaded) [2], Пронзающее (Pierce), Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Взрывное (Blast) [5];</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 600 бкс; <strong>Вес (Weight)</strong> 7 фнт;</p>"
+      "description": "<p><strong>Урон (Damage)</strong> 1d10 колющий (keen); <strong>Дальность (Range)</strong> Дальний бой (Ranged) [20/60]; <strong>Свойства (Traits)</strong> Опасное (Dangerous), Заряжено (Loaded) [2], Пронзающее (Pierce), Двуручное (Two-Handed); <strong>Экспертные свойства (Expert Traits)</strong> Взрывное (Blast) [5];</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 600 мр.; <strong>Вес (Weight)</strong> 7 фнт;</p>"
     },
     "mD895AhhXMsvOJIB": {
       "name": "Деревянные полулаты (Wooden Half-Plate)",
-      "description": "<p><strong>Значение отражения (Deflect Value)</strong> 3; <strong>Свойства (Traits)</strong> Громоздкое (Cumbersome) [5], Хрупкое (Fragile); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): теряет свойство Хрупкое (Fragile);</p><p><strong>Цена (Price)</strong> 1,000 бкс; <strong>Вес (Weight)</strong> 30 фнт.;</p>"
+      "description": "<p><strong>Значение отражения (Deflect Value)</strong> 3; <strong>Свойства (Traits)</strong> Громоздкое (Cumbersome) [5], Хрупкое (Fragile); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): теряет свойство Хрупкое (Fragile);</p><p><strong>Цена (Price)</strong> 1,000 мр.; <strong>Вес (Weight)</strong> 30 фнт.;</p>"
     },
     "mSJ6vqkFTkvyTY8I": {
       "name": "Бронзовый штырь (А. медь) (Bronze Spike (A. Copper))",
@@ -807,7 +807,7 @@
     },
     "mX9v7UnBXKFuP8mI": {
       "name": "Монета в 20 клипов (20-Clip coin)",
-      "description": "<p>Клипы (clips) — мелкие монеты из простых металлов, таких как железо, олово и бронза. Один клип стоит 0,01 бкс (bx). Они также бывают номиналом в 5, 10, 20 и 50 клипов.</p>"
+      "description": "<p>Клипы (clips) — мелкие монеты из простых металлов, таких как железо, олово и бронза. Один клип стоит 0,01 мр. (bx). Они также бывают номиналом в 5, 10, 20 и 50 клипов.</p>"
     },
     "mkBGxGsWWc6O8wK3": {
       "name": "Термосплавный штырь (Ф. дюралюмин) (Bendalloy Spike (F. Duralumin))",
@@ -815,7 +815,7 @@
     },
     "nGXUBepQmcllI6V7": {
       "name": "Паровой корабль (Эра 2) (Steam Ship (Era 2))",
-      "description": "<p><strong>Цена покупки (Purchase Price)</strong> 75,000 бкс; <strong>Аренда в день (Rental Price per Day)</strong> 100 бкс; <strong>Скорость в пути (Travel Speed)</strong> 20 миль/ч; <strong>Тип (Type)</strong> Вода (Water)</p>"
+      "description": "<p><strong>Цена покупки (Purchase Price)</strong> 75,000 мр.; <strong>Аренда в день (Rental Price per Day)</strong> 100 мр.; <strong>Скорость в пути (Travel Speed)</strong> 20 миль/ч; <strong>Тип (Type)</strong> Вода (Water)</p>"
     },
     "nx1r37alGv1psvmb": {
       "name": "Набор «Преступный мир» (Эра 2) (Underworld Kit (Era 2))",
@@ -831,15 +831,15 @@
     },
     "oslQuL43G0lQwk4K": {
       "name": "Топор (Axe)",
-      "description": "<p><strong>Урон (Damage)</strong> 1d6 колющий (keen); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Метательное (Thrown) [20/60]; <strong>Экспертные свойства (Expert Traits)</strong> Вторая рука (Offhand);</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 10 бкс; <strong>Вес (Weight)</strong> 2 фнт;</p>"
+      "description": "<p><strong>Урон (Damage)</strong> 1d6 колющий (keen); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Метательное (Thrown) [20/60]; <strong>Экспертные свойства (Expert Traits)</strong> Вторая рука (Offhand);</p><p><strong>Тип (Type)</strong> Тяжёлое оружие (Heavy Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 10 мр.; <strong>Вес (Weight)</strong> 2 фнт;</p>"
     },
     "p9CwXLHSpJm3RUln": {
       "name": "Футляр (кожаный) (Case (leather))",
-      "description": "<p><strong>Цена (Price)</strong> 2 бкс; <strong>Вес (Weight)</strong> 1 фнт.;</p><p>Запечатываемый цилиндрический футляр, в котором можно хранить до десяти листов бумаги или пергамента и защищать их от непогоды.</p>"
+      "description": "<p><strong>Цена (Price)</strong> 2 мр.; <strong>Вес (Weight)</strong> 1 фнт.;</p><p>Запечатываемый цилиндрический футляр, в котором можно хранить до десяти листов бумаги или пергамента и защищать их от непогоды.</p>"
     },
     "pDVT3H24X58f1d3O": {
       "name": "Одежда (изысканная) (Clothing (fine))",
-      "description": "<p><strong>Цена (Price)</strong> 25–100 бкс; <strong>Вес (Weight)</strong> 6 фнт.;</p><p>Дорогая одежда шьётся из шёлка или других высококачественных материалов, красится дорогими красителями и часто украшается тонкой вышивкой. Дорогая одежда помогает вам слиться с высшим светом, например на дворянских банкетах, не вызывая подозрений. Пока на вас комплект дорогой одежды, вы получаете преимущество (advantage) на духовные проверки, чтобы убедить других, что вы из высшего класса.</p>"
+      "description": "<p><strong>Цена (Price)</strong> 25–100 мр.; <strong>Вес (Weight)</strong> 6 фнт.;</p><p>Дорогая одежда шьётся из шёлка или других высококачественных материалов, красится дорогими красителями и часто украшается тонкой вышивкой. Дорогая одежда помогает вам слиться с высшим светом, например на дворянских банкетах, не вызывая подозрений. Пока на вас комплект дорогой одежды, вы получаете преимущество (advantage) на духовные проверки, чтобы убедить других, что вы из высшего класса.</p>"
     },
     "pI00VZNAMUwPf7Oe": {
       "name": "Термосплавный штырь (Ф. хром) (Bendalloy Spike (F. Chromium))",
@@ -847,11 +847,11 @@
     },
     "pRRgMeF3rSW2Mlj5": {
       "name": "Фляга (Flask)",
-      "description": "<p><strong>Цена (Price)</strong> 0.5 бкс; <strong>Вес (Weight)</strong> 1 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+      "description": "<p><strong>Цена (Price)</strong> 0.5 мр.; <strong>Вес (Weight)</strong> 1 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
     },
     "pb9XjL76wtIKVbJn": {
       "name": "Клип (Clip)",
-      "description": "<p>Клипы (clips) — мелкие монеты из простых металлов, таких как железо, олово и бронза. Один клип стоит 0,01 бкс (bx). Они также бывают номиналом в 5, 10, 20 и 50 клипов.</p>"
+      "description": "<p>Клипы (clips) — мелкие монеты из простых металлов, таких как железо, олово и бронза. Один клип стоит 0,01 мр. (bx). Они также бывают номиналом в 5, 10, 20 и 50 клипов.</p>"
     },
     "pgxJoTqF674AuxdO": {
       "name": "Покровитель-дворянин (Noble Patron)",
@@ -866,19 +866,19 @@
     },
     "r4zq0JG1tuiuBj7K": {
       "name": "Динамит (1 шашка) (Dynamite (1 stick))",
-      "description": "<p><strong>Урон (Damage)</strong> 4d6 дробящий (impact); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Взрывное (Blast) [30], Опасное (Dangerous), Одноразовое (Single-Use), Метательное (Thrown) [20/60], Особое (Unique); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique);</p><p><strong>Тип (Type)</strong> Особое оружие (Special Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 100 бкс; <strong>Вес (Weight)</strong> 0.5 фнт;</p><p></p><p>Динамит — мощная и летучая взрывчатка, обычно используемая для сноса и открытой добычи. Её можно использовать как оружие, но будьте предельно осторожны: даже носить её с собой невероятно опасно. Динамит обычно подрывают фитилём, хотя при необходимости его можно бросить. Несколько шашек динамита можно прикрепить к одному фитилю, чтобы усилить взрыв по таймеру.</p><p>Особенно в городских населённых центрах правоохранители (например, констебли) пристально следят за подобными опасными предметами. Если у вас нет покровителя (см. «@UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.UqXwZ77VrwqnNCR7.JournalEntryPage.J99NbXyTKoPz5Ncg]{Категории наград (Reward Categories)}» в главе 8), разрешающего вам приобретать, перевозить или применять динамит, купить его невероятно трудно, а если вас с ним поймают, вас могут арестовать и привлечь к ответственности.</p><p><strong>Особые свойства (Unique Traits).</strong> Динамит имеет следующие уникальные свойства:</p><p><strong>Отложенная детонация (Delayed Detonation).</strong> Касаясь одной или нескольких шашек динамита, вы можете использовать <span class=\"cosmere-icon\">2</span>, чтобы прикрепить и поджечь фитиль, выбрав время детонации от 10 до 60 секунд (от 1 до 6 раундов боя). По истечении этого времени шашки динамита взрываются. Когда это происходит, совершите атаку «Ремеслом» (Crafting) против Физической защиты (Physical defense) каждого персонажа в пределах 5 футов от взрывающегося динамита; чтобы определить, как вы воздействуете на цели дальше 5 футов, см. правила свойства «Взрывное» (Blast). По усмотрению Ведущего вы можете также повредить или разрушить предметы в радиусе взрыва.</p><p><strong>Нестабильный (Volatile).</strong> Хотя динамит безопаснее в перевозке, чем чистый чёрный порох, он всё же может самовоспламениться при значительном ударе или трении. Когда динамит бросают в персонажа, предмет или поверхность, он автоматически взрывается при ударе, как если бы был подорван фитилём (см. «Отложенная детонация» (Delayed Detonation)). Кроме того, пока вы несёте динамит, Ведущий может потратить <span class=\"cosmere-icon\" style=\"color:rgb(173,19,19)\">C</span> из любой вашей проверки, чтобы одна из ваших шашек динамита взорвалась, израсходовавшись и задев каждого персонажа (включая вас) в пределах её дальности взрыва (Blast); однако если у вас есть оружейная компетенция «Динамит» (Dynamite), вы можете безопасно носить динамит без риска такого взрыва.</p>"
+      "description": "<p><strong>Урон (Damage)</strong> 4d6 дробящий (impact); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Взрывное (Blast) [30], Опасное (Dangerous), Одноразовое (Single-Use), Метательное (Thrown) [20/60], Особое (Unique); <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique);</p><p><strong>Тип (Type)</strong> Особое оружие (Special Weapon); <strong>Навык оружия (Weapons Skill)</strong> Тяжёлое оружие (Heavy Weaponry); <strong>Цена (Price)</strong> 100 мр.; <strong>Вес (Weight)</strong> 0.5 фнт;</p><p></p><p>Динамит — мощная и летучая взрывчатка, обычно используемая для сноса и открытой добычи. Её можно использовать как оружие, но будьте предельно осторожны: даже носить её с собой невероятно опасно. Динамит обычно подрывают фитилём, хотя при необходимости его можно бросить. Несколько шашек динамита можно прикрепить к одному фитилю, чтобы усилить взрыв по таймеру.</p><p>Особенно в городских населённых центрах правоохранители (например, констебли) пристально следят за подобными опасными предметами. Если у вас нет покровителя (см. «@UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.UqXwZ77VrwqnNCR7.JournalEntryPage.J99NbXyTKoPz5Ncg]{Категории наград (Reward Categories)}» в главе 8), разрешающего вам приобретать, перевозить или применять динамит, купить его невероятно трудно, а если вас с ним поймают, вас могут арестовать и привлечь к ответственности.</p><p><strong>Особые свойства (Unique Traits).</strong> Динамит имеет следующие уникальные свойства:</p><p><strong>Отложенная детонация (Delayed Detonation).</strong> Касаясь одной или нескольких шашек динамита, вы можете использовать <span class=\"cosmere-icon\">2</span>, чтобы прикрепить и поджечь фитиль, выбрав время детонации от 10 до 60 секунд (от 1 до 6 раундов боя). По истечении этого времени шашки динамита взрываются. Когда это происходит, совершите атаку «Ремеслом» (Crafting) против Физической защиты (Physical defense) каждого персонажа в пределах 5 футов от взрывающегося динамита; чтобы определить, как вы воздействуете на цели дальше 5 футов, см. правила свойства «Взрывное» (Blast). По усмотрению Ведущего вы можете также повредить или разрушить предметы в радиусе взрыва.</p><p><strong>Нестабильный (Volatile).</strong> Хотя динамит безопаснее в перевозке, чем чистый чёрный порох, он всё же может самовоспламениться при значительном ударе или трении. Когда динамит бросают в персонажа, предмет или поверхность, он автоматически взрывается при ударе, как если бы был подорван фитилём (см. «Отложенная детонация» (Delayed Detonation)). Кроме того, пока вы несёте динамит, Ведущий может потратить <span class=\"cosmere-icon\" style=\"color:rgb(173,19,19)\">C</span> из любой вашей проверки, чтобы одна из ваших шашек динамита взорвалась, израсходовавшись и задев каждого персонажа (включая вас) в пределах её дальности взрыва (Blast); однако если у вас есть оружейная компетенция «Динамит» (Dynamite), вы можете безопасно носить динамит без риска такого взрыва.</p>"
     },
     "rCclesiMGBa8Tfw9": {
       "name": "Увеличительное стекло (Magnifying Lens)",
-      "description": "<p><strong>Цена (Price)</strong> 200 бкс; <strong>Вес (Weight)</strong> 0.2 фнт.;</p><p>Вы можете использовать увеличительное стекло, чтобы получить преимущество (advantage) на любую проверку навыка, которую вы совершаете, чтобы оценить или осмотреть маленький или очень детальный предмет.</p>"
+      "description": "<p><strong>Цена (Price)</strong> 200 мр.; <strong>Вес (Weight)</strong> 0.2 фнт.;</p><p>Вы можете использовать увеличительное стекло, чтобы получить преимущество (advantage) на любую проверку навыка, которую вы совершаете, чтобы оценить или осмотреть маленький или очень детальный предмет.</p>"
     },
     "rDsHfrZkMBFFCDLk": {
       "name": "Булава (Mace)",
-      "description": "<p><strong>Урон (Damage)</strong> 1d6 дробящий (impact); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> —; <strong>Экспертные свойства (Expert Traits)</strong> Инерционное (Momentum);</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 10 бкс; <strong>Вес (Weight)</strong> 3 фнт;</p>"
+      "description": "<p><strong>Урон (Damage)</strong> 1d6 дробящий (impact); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> —; <strong>Экспертные свойства (Expert Traits)</strong> Инерционное (Momentum);</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 10 мр.; <strong>Вес (Weight)</strong> 3 фнт;</p>"
     },
     "rHagZzjgcmfcQPVk": {
       "name": "Рюкзак (Backpack)",
-      "description": "<p><strong>Цена (Price)</strong> 4 бкс; <strong>Вес (Weight)</strong> 5 фнт.;</p><p><em>Этот предмет указан для ролевой игры и не имеет особых характеристик или правил.</em></p>"
+      "description": "<p><strong>Цена (Price)</strong> 4 мр.; <strong>Вес (Weight)</strong> 5 фнт.;</p><p><em>Этот предмет указан для ролевой игры и не имеет особых характеристик или правил.</em></p>"
     },
     "rzsl34fEEbYXFjts": {
       "name": "Набор «Ремесленник» (Эра 1) (Artisan Kit (Era 1))",
@@ -886,11 +886,11 @@
     },
     "sKBSrx7m8gkp5jmj": {
       "name": "Мешочек (Pouch)",
-      "description": "<p><strong>Цена (Price)</strong> 0.5 бкс; <strong>Вес (Weight)</strong> 1 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+      "description": "<p><strong>Цена (Price)</strong> 0.5 мр.; <strong>Вес (Weight)</strong> 1 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
     },
     "spCQWQSyJl9zfPa3": {
       "name": "Лестница (10 футов) (Ladder (10-foot))",
-      "description": "<p><strong>Цена (Price)</strong> 10 бкс; <strong>Вес (Weight)</strong> 20 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+      "description": "<p><strong>Цена (Price)</strong> 10 мр.; <strong>Вес (Weight)</strong> 20 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
     },
     "t8A5xwXpuU6Ubpi9": {
       "name": "Бронзовый штырь (А. цинк) (Bronze Spike (A. Zinc))",
@@ -898,19 +898,19 @@
     },
     "t8X24miZKeC3lP59": {
       "name": "Гребная лодка (Rowboat)",
-      "description": "<p><strong>Цена покупки (Purchase Price)</strong> 250 бкс; <strong>Аренда в день (Rental Price per Day)</strong> 10 бкс; <strong>Скорость в пути (Travel Speed)</strong> 3 миль/ч по течению, 1 миль/ч против течения; <strong>Тип (Type)</strong> Вода (Water)</p>"
+      "description": "<p><strong>Цена покупки (Purchase Price)</strong> 250 мр.; <strong>Аренда в день (Rental Price per Day)</strong> 10 мр.; <strong>Скорость в пути (Travel Speed)</strong> 3 миль/ч по течению, 1 миль/ч против течения; <strong>Тип (Type)</strong> Вода (Water)</p>"
     },
     "tIafbgE28yYhQR4J": {
       "name": "Бумага или пергамент (1 лист) (Paper or Parchment (1 sheet))",
-      "description": "<p><strong>Цена (Price)</strong> 0.2 бкс; <strong>Вес (Weight)</strong> 0.1 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
+      "description": "<p><strong>Цена (Price)</strong> 0.2 мр.; <strong>Вес (Weight)</strong> 0.1 фнт.;</p><p><em>Этот предмет включён для повествования и не имеет особых характеристик или правил.</em></p>"
     },
     "tdwomstAU8jIfgBc": {
       "name": "Полулаты (Half-Plate)",
-      "description": "<p><strong>Значение отражения (Deflect Value)</strong> 3; <strong>Свойства (Traits)</strong> Громоздкое (Cumbersome) [4]; <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): Громоздкое (Cumbersome) [3] вместо Громоздкое (Cumbersome) [4];</p><p><strong>Цена (Price)</strong> 200 бкс; <strong>Вес (Weight)</strong> 40 фнт.;</p>"
+      "description": "<p><strong>Значение отражения (Deflect Value)</strong> 3; <strong>Свойства (Traits)</strong> Громоздкое (Cumbersome) [4]; <strong>Экспертные свойства (Expert Traits)</strong> Особое (Unique): Громоздкое (Cumbersome) [3] вместо Громоздкое (Cumbersome) [4];</p><p><strong>Цена (Price)</strong> 200 мр.; <strong>Вес (Weight)</strong> 40 фнт.;</p>"
     },
     "u2WJxy5sqKfuZZgM": {
       "name": "Стеклянный кинжал (Glass Dagger)",
-      "description": "<p><strong>Урон (Damage)</strong> 1d4 колющий (keen); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Неприметное (Discreet), Хрупкое (Fragile); <strong>Экспертные свойства (Expert Traits)</strong> Вторая рука (Offhand), Метательное (Thrown) [20/60];</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 50 бкс; <strong>Вес (Weight)</strong> 0.5 фнт;</p>"
+      "description": "<p><strong>Урон (Damage)</strong> 1d4 колющий (keen); <strong>Дальность (Range)</strong> Ближний бой (Melee); <strong>Свойства (Traits)</strong> Неприметное (Discreet), Хрупкое (Fragile); <strong>Экспертные свойства (Expert Traits)</strong> Вторая рука (Offhand), Метательное (Thrown) [20/60];</p><p><strong>Тип (Type)</strong> Лёгкое оружие (Light Weapon); <strong>Навык оружия (Weapons Skill)</strong> Лёгкое оружие (Light Weaponry); <strong>Цена (Price)</strong> 50 мр.; <strong>Вес (Weight)</strong> 0.5 фнт;</p>"
     },
     "uHt8uBlvc10jL44e": {
       "name": "Золотой штырь (Ф. термосплав) (Gold Spike (F. Bendalloy))",
@@ -929,19 +929,19 @@
     },
     "vu1nLEGVJHCZaDju": {
       "name": "Еда (уличная, 1 день) (Food (street, 1 day))",
-      "description": "<p><strong>Цена (Price)</strong> 0.5 бкс; <strong>Вес (Weight)</strong> 1.5 фнт.;</p><p>В каждом доминионе в Эре 1 и в разных городах Эры 2 можно отведать местные уличные лакомства: от обычных хлебов до хаша из корнеплодов и супа из фарлета (farlet).</p>"
+      "description": "<p><strong>Цена (Price)</strong> 0.5 мр.; <strong>Вес (Weight)</strong> 1.5 фнт.;</p><p>В каждом доминионе в Эре 1 и в разных городах Эры 2 можно отведать местные уличные лакомства: от обычных хлебов до хаша из корнеплодов и супа из фарлета (farlet).</p>"
     },
     "vyMsrzCAEJJyX1ic": {
       "name": "Флакон хрома (Chromium Vial)",
-      "description": "<p><strong>Цена в Эре 1 (Era 1 Price)</strong> Недоступно; <strong>Цена в Эре 2 (Era 2 Price)</strong> 10 бкс/флакон;</p>"
+      "description": "<p><strong>Цена в Эре 1 (Era 1 Price)</strong> Недоступно; <strong>Цена в Эре 2 (Era 2 Price)</strong> 10 мр./флакон;</p>"
     },
     "w1NJtBDh1NhMenTL": {
       "name": "Лекарство (медицинское, 1 доза) (Treatment (medical, 1 dose))",
-      "description": "<p><strong>Цена (Price)</strong> 5 бкс; <strong>Вес (Weight)</strong> 0.2 фнт.;</p><p>Скадриальские врачи лечат недуги разнообразными средствами, обычно из растительного сырья вроде чеснока, петрушки, ивы и кипариса. Во время короткого отдыха вы можете использовать дозу такого лекарства, чтобы излечить персонажа от одного из следующих состояний при условии, что его источник — не постоянная травма: @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#disoriented]{Дезориентирован (Disoriented)}, @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#exhausted]{Истощён (Exhausted)} (уменьшает штраф на 1) или @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#stunned]{Ошеломлён (Stunned)}.</p>"
+      "description": "<p><strong>Цена (Price)</strong> 5 мр.; <strong>Вес (Weight)</strong> 0.2 фнт.;</p><p>Скадриальские врачи лечат недуги разнообразными средствами, обычно из растительного сырья вроде чеснока, петрушки, ивы и кипариса. Во время короткого отдыха вы можете использовать дозу такого лекарства, чтобы излечить персонажа от одного из следующих состояний при условии, что его источник — не постоянная травма: @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#disoriented]{Дезориентирован (Disoriented)}, @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#exhausted]{Истощён (Exhausted)} (уменьшает штраф на 1) или @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#stunned]{Ошеломлён (Stunned)}.</p>"
     },
     "w5FZaGw37nQq4Ytj": {
       "name": "Кастеты (Knucklebones)",
-      "description": "<p><strong>Цена (Price)</strong> 5–10 бкс; <strong>Вес (Weight)</strong> 0.5 фнт.;</p><p>Уличные громилы и головорезы больших городов Скадриаля (Scadrial) любят кастеты (knucklebones). Латунные кастеты распространены, но против алломантов более дорогие деревянные стоят каждой монеты.</p><p>Вы можете надеть кастеты на руку вместо оружия в этой руке. Когда вы совершаете безоружную атаку этой рукой, увеличьте размер каждой кости безоружного урона на один размер (см. таблицу «@UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.Rn9IDL3Nvu7wvARP.JournalEntryPage.HOD84joH34YPDpWb]{Урон безоружной атаки (Unarmed Damage)}» ранее в этой главе). Например, урон 1 (без броска) становится 1d4, 1d8 становится 1d10 и так далее.</p>"
+      "description": "<p><strong>Цена (Price)</strong> 5–10 мр.; <strong>Вес (Weight)</strong> 0.5 фнт.;</p><p>Уличные громилы и головорезы больших городов Скадриаля (Scadrial) любят кастеты (knucklebones). Латунные кастеты распространены, но против алломантов более дорогие деревянные стоят каждой монеты.</p><p>Вы можете надеть кастеты на руку вместо оружия в этой руке. Когда вы совершаете безоружную атаку этой рукой, увеличьте размер каждой кости безоружного урона на один размер (см. таблицу «@UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.Rn9IDL3Nvu7wvARP.JournalEntryPage.HOD84joH34YPDpWb]{Урон безоружной атаки (Unarmed Damage)}» ранее в этой главе). Например, урон 1 (без броска) становится 1d4, 1d8 становится 1d10 и так далее.</p>"
     },
     "wgf5JpVtKHIxPjlG": {
       "name": "Кадмиевая металлопамять (Cadmiummind)",
@@ -949,7 +949,7 @@
     },
     "wjgF8ENPmV1Qo6Oz": {
       "name": "Флакон электрума (Эра 2) (Electrum Vial (Era 2))",
-      "description": "<p><strong>Цена в Эре 2 (Era 2 Price)</strong> 50 бкс/флакон;</p>"
+      "description": "<p><strong>Цена в Эре 2 (Era 2 Price)</strong> 50 мр./флакон;</p>"
     },
     "x0pTUa7eEmKSj6jL": {
       "name": "Хромовая металлопамять (Chromiummind)",
@@ -957,15 +957,15 @@
     },
     "x15Fc6Ptax0WEIDM": {
       "name": "Яд (действенный, 1 доза) (Poison (effectual, 1 dose))",
-      "description": "<p><strong>Цена (Price)</strong> 25 бкс; <strong>Вес (Weight)</strong> 0.2 фнт.;</p><p>Часто изготавливаемый из гурвраита (gurwraith) или коры лиан вроде бирчбейна (birchbane), яд поставляется в стеклянных флаконах на одну дозу. Как <span class=\"cosmere-icon\">1</span> вы можете налить его в еду, жидкость или ёмкость либо нанести яд на оружие ближнего боя или боеприпас, который вы держите. Когда вы это делаете, Ведущий может потребовать от вас успеха в [[test skill=stl]], чтобы избежать обнаружения. Когда персонаж глотает яд или в него попадает атака отравленным оружием или боеприпасом, яд расходуется, и персонаж страдает от следующих эффектов:</p><p><strong>Действенный яд (Effectual Poison).</strong> Цель должна преуспеть в проверке [[test dc=14 skill=ath]] или получить [[damage 2d8 Vital]] и стать @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#stunned]{Ошеломлён (Stunned)} на 1 час.</p>"
+      "description": "<p><strong>Цена (Price)</strong> 25 мр.; <strong>Вес (Weight)</strong> 0.2 фнт.;</p><p>Часто изготавливаемый из гурвраита (gurwraith) или коры лиан вроде бирчбейна (birchbane), яд поставляется в стеклянных флаконах на одну дозу. Как <span class=\"cosmere-icon\">1</span> вы можете налить его в еду, жидкость или ёмкость либо нанести яд на оружие ближнего боя или боеприпас, который вы держите. Когда вы это делаете, Ведущий может потребовать от вас успеха в [[test skill=stl]], чтобы избежать обнаружения. Когда персонаж глотает яд или в него попадает атака отравленным оружием или боеприпасом, яд расходуется, и персонаж страдает от следующих эффектов:</p><p><strong>Действенный яд (Effectual Poison).</strong> Цель должна преуспеть в проверке [[test dc=14 skill=ath]] или получить [[damage 2d8 Vital]] и стать @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#stunned]{Ошеломлён (Stunned)} на 1 час.</p>"
     },
     "xEuK3Y3U8FiFdTQK": {
       "name": "Сеть (рыболовная) (Net (fishing))",
-      "description": "<p><strong>Цена (Price)</strong> 5 бкс; <strong>Вес (Weight)</strong> 15 фнт.;</p><p>Эта сеть с мелкой ячеёй используется для ловли рыбы. Вы можете использовать эту сеть, чтобы получить преимущество (advantage) на физические проверки, связанные с рыбалкой.</p>"
+      "description": "<p><strong>Цена (Price)</strong> 5 мр.; <strong>Вес (Weight)</strong> 15 фнт.;</p><p>Эта сеть с мелкой ячеёй используется для ловли рыбы. Вы можете использовать эту сеть, чтобы получить преимущество (advantage) на физические проверки, связанные с рыбалкой.</p>"
     },
     "xbI3fe4Ns0dOVmyp": {
       "name": "Банкнота в 20 нот (20-Note Bill)",
-      "description": "<p>Бумажные ноты (notes) существуют в обе эры, хотя в Эре 1 эти банкноты обычно бывают только у дворян. Банкнота в 1 ноту стоит 10 бкс (bx). Также в обращении банкноты в 5, 10, 20 и 50 нот.</p>"
+      "description": "<p>Бумажные ноты (notes) существуют в обе эры, хотя в Эре 1 эти банкноты обычно бывают только у дворян. Банкнота в 1 ноту стоит 10 мр. (bx). Также в обращении банкноты в 5, 10, 20 и 50 нот.</p>"
     },
     "y6pAUq6W79GbuxiA": {
       "name": "Стальной штырь (А. пьютер) (Steel Spike (A. Pewter))",
@@ -977,11 +977,11 @@
     },
     "zWUzWzc7oid3Hd2X": {
       "name": "Лом (Crowbar)",
-      "description": "<p><strong>Цена (Price)</strong> 5 бкс; <strong>Вес (Weight)</strong> 3 фнт.;</p><p>Вы можете использовать лом, чтобы получить преимущество (advantage) на проверки «Атлетики» (Athletics), где можно применить рычаг лома.</p>"
+      "description": "<p><strong>Цена (Price)</strong> 5 мр.; <strong>Вес (Weight)</strong> 3 фнт.;</p><p>Вы можете использовать лом, чтобы получить преимущество (advantage) на проверки «Атлетики» (Athletics), где можно применить рычаг лома.</p>"
     },
     "zlAHYFCOzCy0U0XG": {
       "name": "Металлический песок (мешочек) (Metal Sand (pouch))",
-      "description": "<p><strong>Цена (Price)</strong> 5 бкс; <strong>Вес (Weight)</strong> 0.3 фнт.;</p><p>Вы можете рассыпать эти мелкие хлопья металлолома, чтобы запутать персонажа (например, железного или стального алломанта), способного ощущать металлы. Вы можете использовать <span class=\"cosmere-icon\">1</span>, чтобы бросить мешочек в пространство в пределах 30 футов от вас, порвав мешочек и рассеяв его содержимое. Металлический песок создаёт облако на площади 10 футов на 10 футов, которое остаётся до конца вашего следующего хода. Это облако скрывает как зрение, так и способность алломанта ощущать металл, сжигая железо или сталь. Кроме того, проверки алломантии, совершаемые для железной или стальной алломантии, получают помеху (disadvantage), если это облако находится на линии их воздействия.</p>"
+      "description": "<p><strong>Цена (Price)</strong> 5 мр.; <strong>Вес (Weight)</strong> 0.3 фнт.;</p><p>Вы можете рассыпать эти мелкие хлопья металлолома, чтобы запутать персонажа (например, железного или стального алломанта), способного ощущать металлы. Вы можете использовать <span class=\"cosmere-icon\">1</span>, чтобы бросить мешочек в пространство в пределах 30 футов от вас, порвав мешочек и рассеяв его содержимое. Металлический песок создаёт облако на площади 10 футов на 10 футов, которое остаётся до конца вашего следующего хода. Это облако скрывает как зрение, так и способность алломанта ощущать металл, сжигая железо или сталь. Кроме того, проверки алломантии, совершаемые для железной или стальной алломантии, получают помеху (disadvantage), если это облако находится на линии их воздействия.</p>"
     }
   }
 }
