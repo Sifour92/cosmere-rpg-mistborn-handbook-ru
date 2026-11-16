@@ -197,7 +197,7 @@ for (const { language, enabled } of [
   assert.deepEqual(snapshot.packs['metallic-arts'].documents, originalArts, 'Исходные силы изменены');
 
   // Таланты, деревья талантов, наследия и предметы: меняются только тексты и подписи.
-  for (const packName of ['heroic-paths', 'metalborn-paths', 'ancestries', 'metallic-arts', 'items']) {
+  for (const packName of ['heroic-paths', 'metalborn-paths', 'ancestries', 'cultures', 'metallic-arts', 'items']) {
     const collectionName = `${snapshot.manifest.id}.${packName}`;
     const packTranslation = await readJson(path.join(root, `translations/ru/${collectionName}.json`));
     let labelsTranslated = 0;
@@ -245,8 +245,17 @@ for (const { language, enabled } of [
       walk(source, stripBabele(after), '');
     }
     if (translated) {
-      assert(actionsTranslated > 0 || packName === 'items', `Вложенные действия не переведены: ${packName}`);
-      if (packName !== 'items' && packName !== 'ancestries') assert(labelsTranslated > 0, `Подписи узлов не переведены: ${packName}`);
+      assert(actionsTranslated > 0 || packName === 'items' || packName === 'cultures', `Вложенные действия не переведены: ${packName}`);
+      if (packName !== 'items' && packName !== 'ancestries' && packName !== 'cultures') assert(labelsTranslated > 0, `Подписи узлов не переведены: ${packName}`);
+      if (packName === 'cultures') {
+        const lists = snapshot.packs.cultures.documents.filter(document => /Names/.test(document.system?.description?.value ?? ''));
+        assert(lists.length >= 12, 'Нет культур со списками имён');
+        for (const document of lists) {
+          const [result] = await translateResult([{ toObject: () => structuredClone(document) }], { pack: collectionName, documentClass: { fromSource: data => data } }, { init: async () => true, translatedCompendiumFor: pack => session.translatedCompendiumFor(pack) });
+          const text = (typeof result.toObject === 'function' ? result.toObject() : result).system.description.value;
+          assert(!/<p>(?:[A-Z][A-Za-z’'-]+, ){3,}/.test(text), `Список имён не переведён: ${document.name}`);
+        }
+      }
       console.log(`  ${packName}: подписей ${labelsTranslated}, строк вложенных действий ${actionsTranslated}`);
     }
   }
