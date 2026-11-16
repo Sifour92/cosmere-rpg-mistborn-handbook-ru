@@ -131,7 +131,7 @@
       "items": {
         "LDL6RgUqkaNQY9Ab": {
           "name": "Засадник (Ambusher)",
-          "description": "<p>В начале каждой сцены, если [[lookup @actor.name]]{Имя существа} не @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#surprised]{Застигнут врасплох (Surprised)}, он может совершить [[test skill=stl]] против наивысшей Духовной защиты (Spiritual defense) среди своих врагов. При успехе [[lookup @actor.name]]{Имя существа} делает быстрый ход перед всеми остальными персонажами (это не считается его ходом в этом раунде).</p>"
+          "description": "<p>В начале каждой сцены, если [[lookup @actor.name]]{Имя существа} не @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#surprised]{Взят врасплох (Surprised)}, он может совершить [[test skill=stl]] против наивысшей Духовной защиты (Spiritual defense) среди своих врагов. При успехе [[lookup @actor.name]]{Имя существа} делает быстрый ход перед всеми остальными персонажами (это не считается его ходом в этом раунде).</p>"
         },
         "QXAvZ7ghkpy5ggFi": {
           "name": "Удар: коготь (Strike: Claw)",
@@ -251,7 +251,7 @@
         },
         "YLiYNumA0Da2jaYU": {
           "name": "Засадник (Ambusher)",
-          "description": "<p>В начале каждой сцены, если [[lookup @actor.name]]{Имя существа} не @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#surprised]{Застигнут врасплох (Surprised)}, он может совершить [[test skill=stl]] против наивысшей Духовной защиты (Spiritual defense) среди своих врагов. При успехе [[lookup @actor.name]]{Имя существа} делает быстрый ход перед всеми остальными персонажами (это не считается его ходом в этом раунде).</p>"
+          "description": "<p>В начале каждой сцены, если [[lookup @actor.name]]{Имя существа} не @UUID[Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.b684FTgeTTE90HLs.JournalEntryPage.vyYzxzfhwORSeTLw#surprised]{Взят врасплох (Surprised)}, он может совершить [[test skill=stl]] против наивысшей Духовной защиты (Spiritual defense) среди своих врагов. При успехе [[lookup @actor.name]]{Имя существа} делает быстрый ход перед всеми остальными персонажами (это не считается его ходом в этом раунде).</p>"
         },
         "w0H9shEj4SaGIT2m": {
           "name": "Безжалостный хищник (Ruthless Predator)",
