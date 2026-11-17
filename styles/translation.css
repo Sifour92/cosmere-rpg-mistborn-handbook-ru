@@ -78,6 +78,13 @@ html[lang="ru"] .sheet.journal-entry.mbjhb .mb-chapter-header > div:first-child 
   align-self: stretch;
 }
 
+/* Широкая встроенная таблица прокручивается внутри своей области. */
+html[lang="ru"] .sheet.journal-entry.mbjhb .journal-page-content document-embed:has(> table) {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+}
+
 /* Высота обложки растёт вместе с названием; источник остаётся под ним. */
 html[lang="ru"] .compendium-sidebar .compendium[data-pack="cosmere-rpg-mistborn-handbook.handbook"] {
   height: auto;

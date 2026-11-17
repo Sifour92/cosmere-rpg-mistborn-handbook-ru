@@ -1,4 +1,5 @@
 {
+  "label": "Наследия (Ancestries)",
   "mapping": {
     "description": "system.description.value",
     "chat": "system.description.chat",

@@ -52,6 +52,10 @@ globalThis.Hooks = {
     assert.equal(event, 'babele.init');
     hooks.push(callback);
   },
+  on(event) {
+    // В этой проверке не отрисовываются окна журнала.
+    assert.equal(event, 'renderJournalEntrySheet');
+  },
   callAll: () => true
 };
 await importFrom(root, 'scripts/register.mjs');
@@ -96,6 +100,25 @@ function rulesValues(text) {
   return (plain.match(/\d+d\d+|[+−-]?\d+/g) ?? []).sort();
 }
 
+// Only these four links in the source target the right anchor on the wrong page.
+const chapterSixIntro = 'Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.Wdux6AlRp01Ox3EQ.JournalEntryPage.H0pYaTZr3enQNbMj';
+const chapterSixRules = 'I0SSB8epbNJfzWkf';
+const correctedLinks = new Map([
+  ['7SWGoz46cr0lkATU.v6P4sMmKFcb1SoiD', new Set([
+    'nascent-powers', 'power-scaling', 'durations-of-store-actions'
+  ])],
+  ['AyVQ17BzPLpNYwk8.ZOW2VjaPS4ACrrcN', new Set(['allomantically-inert-materials'])]
+]);
+
+function expectedJournalReference(reference, anchors) {
+  for (const anchor of anchors ?? []) {
+    if (reference === `@UUID[${chapterSixIntro}#${anchor}]`) {
+      return `@UUID[${chapterSixIntro.replace(/[^.]+$/, chapterSixRules)}#${anchor}]`;
+    }
+  }
+  return reference;
+}
+
 for (const { language, enabled } of [
   { language: 'ru', enabled: true },
   { language: 'en', enabled: true },
@@ -129,11 +152,13 @@ for (const { language, enabled } of [
       assert.equal(after._id, page._id);
       assert.equal(after.name, patch?.name ?? page.name);
       assert.equal(after.text.content, patch?.text ?? page.text.content);
-      // Тексты могут добавлять явные HTML-якоря; пути и команды сохраняются.
+      // Тексты могут добавлять явные HTML-якоря. У четырёх ссылок исправлена страница назначения.
       const references = text => Array.from(text.matchAll(
         /@(?:UUID|Embed)\[[^\]]+\]|(?:href|src)="[^"]*"|\[\[[^\]]+\]\]/g
       ), match => match[0]);
-      assert.deepEqual(references(after.text.content), references(page.text.content));
+      const anchors = correctedLinks.get(`${id}.${page._id}`);
+      assert.deepEqual(references(after.text.content),
+        references(page.text.content).map(reference => expectedJournalReference(reference, anchors)));
       for (const [, anchor] of page.text.content.matchAll(/\bid="([^"]*)"/g)) {
         assert(after.text.content.includes(`id="${anchor}"`), `Утрачен якорь ${anchor}`);
       }

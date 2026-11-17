@@ -1,4 +1,5 @@
 {
+  "label": "Героические пути (Heroic Paths)",
   "mapping": {
     "description": "system.description.value",
     "chat": "system.description.chat",
@@ -230,13 +231,13 @@
       "short": "<p><strong>Активация: </strong><span class=\"cosmere-icon\"><strong>8</strong></span></p><p>Когда вы получаете этот талант, увеличьте вашу скорость передвижения (movement rate) на 10.</p><p>Кроме того, прежде чем вы получите урон от опасной местности (dangerous terrain) или падения, уменьшите этот урон на 2 × ваш тир.</p>"
     },
     "OAji4q7Xgw7YBe2l": {
-      "name": "Быстрые удары (Swift Strikes)",
+      "name": "Стремительные удары (Swift Strikes)",
       "description": "<p><strong>Активация: </strong><span class=\"cosmere-icon\"><strong>1</strong></span></p><p><em>Вы инстинктивно следуете темпу боя, не снижая давления на врагов в решающие моменты.</em></p><p>Потратьте 1 фокус, чтобы совершить второе действие «@UUID[Compendium.cosmere-rpg-mistborn-handbook.actions.Item.Da4Xj4WnVbtHMH7k]{Удар (Strike)}» рукой, которой вы уже совершали «@UUID[Compendium.cosmere-rpg-mistborn-handbook.actions.Item.Da4Xj4WnVbtHMH7k]{Удар (Strike)}» в этот ход.</p>",
       "chat": "<p><strong>Активация: </strong><span class=\"cosmere-icon\"><strong>1</strong></span></p><p>Потратьте 1 фокус, чтобы совершить второй «@UUID[Compendium.cosmere-rpg-mistborn-handbook.actions.Item.Da4Xj4WnVbtHMH7k]{Удар (Strike)}» тем же оружием.</p>",
       "short": "<p><strong>Активация: </strong><span class=\"cosmere-icon\"><strong>1</strong></span></p><p>Потратьте 1 фокус, чтобы совершить второе действие «@UUID[Compendium.cosmere-rpg-mistborn-handbook.actions.Item.Da4Xj4WnVbtHMH7k]{Удар (Strike)}» рукой, которой вы уже совершали «@UUID[Compendium.cosmere-rpg-mistborn-handbook.actions.Item.Da4Xj4WnVbtHMH7k]{Удар (Strike)}» в этот ход.</p>",
       "actions": {
         "3ofTNQtFatgXFYvJ": {
-          "name": "Быстрые удары (Swift Strikes)",
+          "name": "Стремительные удары (Swift Strikes)",
           "description": "<p><em>Вы инстинктивно следуете темпу боя, не снижая давления на врагов в решающие моменты.</em></p><p>Потратьте 1 фокус, чтобы совершить второе действие «@UUID[Compendium.cosmere-rpg-mistborn-handbook.actions.Item.Da4Xj4WnVbtHMH7k]{Удар (Strike)}» рукой, которой вы уже совершали «@UUID[Compendium.cosmere-rpg-mistborn-handbook.actions.Item.Da4Xj4WnVbtHMH7k]{Удар (Strike)}» в этот ход.</p>"
         }
       }

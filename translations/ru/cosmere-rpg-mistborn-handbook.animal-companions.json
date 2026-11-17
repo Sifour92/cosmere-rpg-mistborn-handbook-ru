@@ -1,4 +1,5 @@
 {
+  "label": "Животные-компаньоны (Animal Companions)",
   "mapping": {
     "tokenName": {
       "path": "prototypeToken.name",

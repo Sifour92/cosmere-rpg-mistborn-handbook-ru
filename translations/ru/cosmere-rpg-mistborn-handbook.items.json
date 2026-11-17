@@ -1,4 +1,5 @@
 {
+  "label": "Предметы (Items)",
   "mapping": {
     "description": "system.description.value",
     "events": {

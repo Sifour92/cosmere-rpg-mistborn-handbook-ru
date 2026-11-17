@@ -1,4 +1,5 @@
 {
+  "label": "Особенности противников (Adversary Features)",
   "mapping": {
     "description": "system.description.value"
   },

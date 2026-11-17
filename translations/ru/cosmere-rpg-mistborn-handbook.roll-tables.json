@@ -1,4 +1,5 @@
 {
+  "label": "Таблицы бросков (Roll Tables)",
   "mapping": {
     "results": {
       "path": "results",

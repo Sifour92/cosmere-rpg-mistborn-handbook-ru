@@ -1,4 +1,5 @@
 {
+  "label": "Действия (Actions)",
   "mapping": {
     "description": "system.description.value",
     "chat": "system.description.chat",

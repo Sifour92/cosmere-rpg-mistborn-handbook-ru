@@ -1,4 +1,5 @@
 {
+  "label": "Пути металлорождённых (Metalborn Paths)",
   "mapping": {
     "description": "system.description.value",
     "chat": "system.description.chat",
