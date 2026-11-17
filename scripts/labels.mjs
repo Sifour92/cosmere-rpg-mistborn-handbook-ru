@@ -132,8 +132,8 @@ export const LABELS = {
   "Metallic Splash": "Металлический всплеск (Metallic Splash)",
   "Mighty": "Мощь (Mighty)",
   "Mind and Body": "Тело и разум (Mind and Body)",
-  "Mistborn Snap": "Щелчок Рождённого туманом (Mistborn Snap)",
-  "Misting Snap": "Щелчок туманщика (Misting Snap)",
+  "Mistborn Snap": "Пробуждение Рождённого туманом (Mistborn Snap)",
+  "Misting Snap": "Пробуждение туманщика (Misting Snap)",
   "Mnemonic Adept": "Адепт мнемоники (Mnemonic Adept)",
   "Natural Form": "Естественный облик (Natural Form)",
   "Nicrosil Allomancy": "Никросиловая алломантия (Nicrosil Allomancy)",
@@ -229,6 +229,6 @@ export const LABELS = {
   "Your two powers use different metals": "Две ваши силы используют разные металлы",
   "Zinc Allomancy": "Цинковая алломантия (Zinc Allomancy)",
   "Zinc Feruchemy": "Цинковая ферухимия (Zinc Feruchemy)",
-  "no other Snap or Heritage talent": "нет другого таланта Щелчка или Наследия",
+  "no other Snap or Heritage talent": "нет другого таланта Пробуждения или Наследия",
   "your two powers use the same metal": "две ваши силы используют один и тот же металл"
 };

@@ -120,13 +120,13 @@
       "short": "<p>Переместитесь на 5 футов, не провоцируя @UUID[Compendium.cosmere-rpg-mistborn-handbook.actions.Item.QpFIxaoCBezzt6yw]{Удары реакцией (Reactive Strikes)}.</p>"
     },
     "INsv4Xu6dqQFCb89": {
-      "name": "Набор общих действий (Common Actions Pack)",
+      "name": "Набор частых действий (Common Actions Pack)",
       "description": "<p>Перетащите этот набор на лист персонажа, чтобы быстро добавить часто используемые базовые действия. Это:</p><ul><li><p>@UUID[Compendium.cosmere-rpg-mistborn-handbook.actions.Item.K2QgKOSezyeYnnxl]{Помощь (Aid)}</p></li><li><p>@UUID[Compendium.cosmere-rpg-mistborn-handbook.actions.Item.9cVxEnB5ayw52fTA]{Избежать опасности (Avoid Danger)}</p></li><li><p>@UUID[Compendium.cosmere-rpg-mistborn-handbook.actions.Item.I1CQjZicYdeG9NCN]{Укрыться (Brace)}</p></li><li><p>@UUID[Compendium.cosmere-rpg-mistborn-handbook.actions.Item.wC4Z0mdGwRxLDpMC]{Отход (Disengage)}</p></li><li><p>@UUID[Compendium.cosmere-rpg-mistborn-handbook.actions.Item.6Vm9QIbIjDOeSCwq]{Уклонение (Dodge)}</p></li><li><p>@UUID[Compendium.cosmere-rpg-mistborn-handbook.actions.Item.EVPgpHL6Y4jrumwI]{Захват (Grapple)}</p></li><li><p>@UUID[Compendium.cosmere-rpg-mistborn-handbook.actions.Item.ttTSR1u5C8D6vbGf]{Толчок (Shove)}</p></li><li><p>@UUID[Compendium.cosmere-rpg-mistborn-handbook.actions.Item.Mz0wO1rbShKlUARZ]{Безоружная атака (Unarmed Attack)}</p></li><li><p>@UUID[Compendium.cosmere-rpg-mistborn-handbook.actions.Item.Y9lzSbkmwGg7mN61]{Восстановление (Recover)}</p></li></ul>",
       "chat": "",
       "short": ""
     },
     "KOSGd8etKHitEPkF": {
-      "name": "Набор базовых действий (Basic Actions Pack)",
+      "name": "Набор всех базовых действий (Basic Actions Pack)",
       "description": "<p>Перетащите этот набор на лист персонажа, чтобы быстро добавить <strong>ВСЕ</strong> базовые действия.</p>",
       "chat": "",
       "short": ""

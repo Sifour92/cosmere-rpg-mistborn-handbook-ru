@@ -29,7 +29,7 @@
     },
     "5Hn4TbxphVIACftj": {
       "name": "Вьючное животное (Beast of Burden)",
-      "description": "<p>Грузоподъёмность существа — 500 фнт.</p>"
+      "description": "<p>Грузоподъёмность существа — 500 фунтов.</p>"
     },
     "9Ef2nWkGa3x5GYUn": {
       "name": "Скользкий (Slippery)",
@@ -53,7 +53,7 @@
     },
     "HlHLuWpPu1VFXFmr": {
       "name": "Удар: укус (Strike: Bite)",
-      "description": "<p><strong>Атака (Attack) </strong>+4; <strong>Досягаемость (Reach)</strong> 5 фт.; <strong>Цели (Targets) </strong>одна;</p><p><strong>Задевание (Graze)</strong> [[damage 1d4 Keen average]];</p><p><strong>Попадание (Hit)</strong> [[damage 1d4 + 4 Keen average]], если цель Большая (Large) или меньше, [[lookup @actor.name]]{Имя существа} может потратить 1 фокус (focus), чтобы сбить цель с ног (состояние Сбит с ног (Prone)), затем переместиться до 10 футов, таща цель за собой.</p>"
+      "description": "<p><strong>Атака (Attack) </strong>+4; <strong>Досягаемость (Reach)</strong> 5 футов; <strong>Цели (Targets) </strong>одна;</p><p><strong>Задевание (Graze)</strong> [[damage 1d4 Keen average]];</p><p><strong>Попадание (Hit)</strong> [[damage 1d4 + 4 Keen average]], если цель Большая (Large) или меньше, [[lookup @actor.name]]{Имя существа} может потратить 1 фокус (focus), чтобы сбить цель с ног (состояние Сбит с ног (Prone)), затем переместиться до 10 футов, таща цель за собой.</p>"
     },
     "JtFndeMcBCQrMP8Y": {
       "name": "Безжалостный хищник (Ruthless Predator)",
@@ -85,7 +85,7 @@
     },
     "Qx51C1CziotJyu3A": {
       "name": "Удар: коготь (Strike: Claw)",
-      "description": "<p><strong>Атака (Attack) </strong>+5; <strong>Досягаемость (Reach)</strong> 5 фт.; <strong>Цели (Targets) </strong>одна;</p><p><strong>Задевание (Graze)</strong> [[damage 1d4 Keen average]];</p><p><strong>Попадание (Hit)</strong> [[damage 1d4 + 5 Keen average]].</p>"
+      "description": "<p><strong>Атака (Attack) </strong>+5; <strong>Досягаемость (Reach)</strong> 5 футов; <strong>Цели (Targets) </strong>одна;</p><p><strong>Задевание (Graze)</strong> [[damage 1d4 Keen average]];</p><p><strong>Попадание (Hit)</strong> [[damage 1d4 + 5 Keen average]].</p>"
     },
     "RV1q7nQvxU0VSd9w": {
       "name": "Здоровяк (Hearty)",
@@ -109,7 +109,7 @@
     },
     "jsdUW9shLydcRvEf": {
       "name": "Пинок (Kick)",
-      "description": "<p><strong>Атака (Attack)</strong> +6; <strong>Досягаемость (Reach)</strong> 5 фт.; <strong>Цели (Targets)</strong> одна;</p><p><strong>Задевание (Graze)</strong> [[damage 1d8 Impact average]];</p><p><strong>Попадание (Hit)</strong> [[damage 1d8 + 6 Impact average]], если цель Средняя (Medium) или меньше, её отбрасывает на 10 футов.</p>"
+      "description": "<p><strong>Атака (Attack)</strong> +6; <strong>Досягаемость (Reach)</strong> 5 футов; <strong>Цели (Targets)</strong> одна;</p><p><strong>Задевание (Graze)</strong> [[damage 1d8 Impact average]];</p><p><strong>Попадание (Hit)</strong> [[damage 1d8 + 6 Impact average]], если цель Средняя (Medium) или меньше, её отбрасывает на 10 футов.</p>"
     },
     "k0AVRRu0A7y0J0iI": {
       "name": "Чешуя (Scales)",
@@ -137,7 +137,7 @@
     },
     "ysB2pX61Y2TD7X2D": {
       "name": "Удар: копыта (Strike: Hooves)",
-      "description": "<p><strong>Атака (Attack)</strong> +6; <strong>Досягаемость (Reach)</strong> 5 фт.; <strong>Цели (Targets)</strong> одна;</p><p><strong>Задевание (Graze)</strong> [[damage 1d6 Keen average]];</p><p><strong>Попадание (Hit)</strong> [[damage 1d6 + 6 Keen average]]</p>"
+      "description": "<p><strong>Атака (Attack)</strong> +6; <strong>Досягаемость (Reach)</strong> 5 футов; <strong>Цели (Targets)</strong> одна;</p><p><strong>Задевание (Graze)</strong> [[damage 1d6 Keen average]];</p><p><strong>Попадание (Hit)</strong> [[damage 1d6 + 6 Keen average]]</p>"
     }
   }
 }
