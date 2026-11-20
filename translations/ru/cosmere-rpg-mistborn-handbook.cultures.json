@@ -3,6 +3,10 @@
   "mapping": {
     "description": "system.description.value"
   },
+  "folders": {
+    "Era 1": "Эра 1 (Era 1)",
+    "Era 2": "Эра 2 (Era 2)"
+  },
   "entries": {
     "3yS4M4u9VBoySYup": {
       "name": "Родина кандра (Kandra Homeland)",

@@ -18,7 +18,12 @@
     },
     "3xERbaenBvzPvZ2K": {
       "name": "Панцирь (Carapace)",
-      "description": "<p>Увеличьте значение отражения (deflect) существа на +2. </p>"
+      "description": "<p>[[lookup @actor.name]]{Имя существа} получает +2 к отражению (deflect). </p>",
+      "effects": {
+        "bo2ZxdKbbEyNgnuI": {
+          "name": "Панцирь (Carapace)"
+        }
+      }
     },
     "4b5kxiyun82aFohh": {
       "name": "Засадник (Ambusher)",
@@ -30,7 +35,12 @@
     },
     "5Hn4TbxphVIACftj": {
       "name": "Вьючное животное (Beast of Burden)",
-      "description": "<p>Грузоподъёмность существа — 500 фунтов.</p>"
+      "description": "<p>[[lookup @actor.name]]{Имя существа} может нести 500 фунтов.</p>",
+      "effects": {
+        "CEmghccSSGa0CI15": {
+          "name": "Вьючное животное (Beast of Burden)"
+        }
+      }
     },
     "9Ef2nWkGa3x5GYUn": {
       "name": "Скользкий (Slippery)",
@@ -38,7 +48,7 @@
     },
     "BmGozKKdmnoR4Jzi": {
       "name": "Проворный (Nimble)",
-      "description": "<p>[[lookup @actor.name]]{Имя существа} может проходить через пространства врагов и может закончить свой ход в одном пространстве с согласным персонажем. Пока [[lookup @actor.name]]{Имя существа} занимает одно пространство с другим персонажем, его нельзя задеть (graze), а атаки против него получают помеху (disadvantage).</p>"
+      "description": "<p>[[lookup @actor.name]]{Имя существа} может проходить через пространства врагов и может закончить свой ход в одном пространстве с согласным персонажем. Пока [[lookup @actor.name]]{Имя существа} занимает одно пространство с другим персонажем, его нельзя задеть (graze), а атаки по цели [[lookup @actor.name]]{Имя существа} совершаются с помехой (disadvantage).</p>"
     },
     "Bygx7WftMQRxbXzj": {
       "name": "Обтекаемый (Sleek)",
@@ -62,7 +72,12 @@
     },
     "KEJFhBS2XpFeL8ao": {
       "name": "Полёт (Flight)",
-      "description": "<p>Даёт существу скорость полёта 30 футов.</p>"
+      "description": "<p>[[lookup @actor.name]]{Имя существа} получает скорость полёта 30 футов.</p>",
+      "effects": {
+        "GU55QNu8jJ57rmVy": {
+          "name": "Полёт (Flight)"
+        }
+      }
     },
     "LMjQODiXSNzxWyYd": {
       "name": "Натиск (Charge)",
@@ -90,11 +105,21 @@
     },
     "RV1q7nQvxU0VSd9w": {
       "name": "Здоровяк (Hearty)",
-      "description": "<p>Увеличьте здоровье (health) существа на 10.</p>"
+      "description": "<p>[[lookup @actor.name]]{Имя существа} получает +10 к здоровью (health).</p>",
+      "effects": {
+        "EbZMndRn0dNRUOhL": {
+          "name": "Здоровяк (Hearty)"
+        }
+      }
     },
     "RfTwYe9xDfBHwKGG": {
       "name": "Быстроногий (Fleet)",
-      "description": "<p>Увеличьте одну или несколько скоростей передвижения существа на 10 футов.</p>"
+      "description": "<p>[[lookup @actor.name]]{Имя существа} увеличивает одну или несколько своих скоростей передвижения на 10 футов.</p>",
+      "effects": {
+        "li28WXn38EInkLXn": {
+          "name": "Быстроногий (Fleet)"
+        }
+      }
     },
     "SH7Z8DKn4K0Wqcf0": {
       "name": "Прыгун (Jumper)",
@@ -102,7 +127,12 @@
     },
     "Wa7OMgfmuzpGNylq": {
       "name": "Шкура (Hide)",
-      "description": "<p>Увеличьте значение отражения (deflect) существа на +2. </p>"
+      "description": "<p>[[lookup @actor.name]]{Имя существа} получает +2 к отражению (deflect). </p>",
+      "effects": {
+        "bo2ZxdKbbEyNgnuI": {
+          "name": "Шкура (Hide)"
+        }
+      }
     },
     "coRf392wDxSHGDFm": {
       "name": "Быстрый взмах (Swift Swipe)",
@@ -114,7 +144,12 @@
     },
     "k0AVRRu0A7y0J0iI": {
       "name": "Чешуя (Scales)",
-      "description": "<p>Увеличьте значение отражения (deflect) существа на +2. </p>"
+      "description": "<p>[[lookup @actor.name]]{Имя существа} получает +2 к отражению (deflect). </p>",
+      "effects": {
+        "oiTf4dKPDfTcvGJ2": {
+          "name": "Чешуя (Scales)"
+        }
+      }
     },
     "lxh9GXJzcHVdB3nw": {
       "name": "На охоте (On the Hunt)",
@@ -122,7 +157,7 @@
     },
     "mHFYvznxYlissehN": {
       "name": "Приспешник (Minion)",
-      "description": "<p>Атаки существа не могут быть критическими попаданиями, и оно немедленно считается побеждённым, когда получает травму (injury).</p>"
+      "description": "<p>[[lookup @actor.name]]{Имя существа} не может наносить критические попадания (critical hit) и немедленно считается побеждённым, когда получает травму (injury).</p>"
     },
     "mICIyEYcyQtApU4a": {
       "name": "Увёртливый (Evasive)",
@@ -134,7 +169,12 @@
     },
     "tvkTSSvWI6weqyRv": {
       "name": "Скорлупа (Shell)",
-      "description": "<p>Увеличьте значение отражения (deflect) существа на +2. </p>"
+      "description": "<p>[[lookup @actor.name]]{Имя существа} получает +2 к отражению (deflect). </p>",
+      "effects": {
+        "bo2ZxdKbbEyNgnuI": {
+          "name": "Скорлупа (Shell)"
+        }
+      }
     },
     "ysB2pX61Y2TD7X2D": {
       "name": "Удар: копыта (Strike: Hooves)",

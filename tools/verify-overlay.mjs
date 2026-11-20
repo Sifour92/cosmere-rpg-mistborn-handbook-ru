@@ -47,14 +47,15 @@ globalThis.game = {
   })) }
 };
 const hooks = [];
+let renderCompendiumDirectory;
 globalThis.Hooks = {
   once(event, callback) {
     assert.equal(event, 'babele.init');
     hooks.push(callback);
   },
-  on(event) {
-    // В этой проверке не отрисовываются окна журнала.
-    assert.equal(event, 'renderJournalEntrySheet');
+  on(event, callback) {
+    if (event === 'renderCompendiumDirectory') renderCompendiumDirectory = callback;
+    else assert.equal(event, 'renderJournalEntrySheet');
   },
   callAll: () => true
 };
@@ -65,12 +66,46 @@ const { translateResult } = await importFrom(babelePath, 'script/foundry/wrapper
 assert.equal(typeof Babele.create, 'function', 'Нужен API Babele 2.9.1');
 
 const collection = `${snapshot.manifest.id}.handbook`;
-const translation = await readJson(path.join(root, `translations/ru/${collection}.json`));
+const translations = new Map(await Promise.all(Object.keys(snapshot.packs).map(async name => {
+  const pack = `${snapshot.manifest.id}.${name}`;
+  return [name, await readJson(path.join(root, `translations/ru/${pack}.json`))];
+})));
+const translation = translations.get('handbook');
 const original = structuredClone(snapshot.packs.handbook.documents);
 const artsCollection = `${snapshot.manifest.id}.metallic-arts`;
-const artsTranslation = await readJson(path.join(root, `translations/ru/${artsCollection}.json`));
+const artsTranslation = translations.get('metallic-arts');
 const originalArts = structuredClone(snapshot.packs['metallic-arts'].documents);
 const chapters = snapshot.packs.handbook.documents.flatMap(document => document.pages);
+
+function verifyCompendiumDirectory(language) {
+  const packageName = snapshot.manifest.id;
+  const [rootFolder] = snapshot.manifest.packFolders;
+  const mistborn = { id: 'mistborn', name: rootFolder.name, folder: null };
+  const character = { id: 'character', name: rootFolder.folders[0].name, folder: mistborn };
+  const rules = { id: 'rules', name: rootFolder.folders[1].name, folder: mistborn };
+  const worldRules = { id: 'world-rules', name: 'Rules', folder: null };
+  const labels = new Map([mistborn, character, rules, worldRules].map(folder => [
+    `[data-folder-id="${folder.id}"] > .folder-header .folder-name`, { textContent: folder.name }
+  ]));
+  const originalPacks = game.packs;
+  game.packs = [
+    ...[mistborn, character, rules].map(folder => ({ metadata: { packageName }, folder })),
+    { metadata: { packageName: 'world' }, folder: worldRules }
+  ];
+  game.i18n = { lang: language };
+  try {
+    renderCompendiumDirectory(null, { querySelector: selector => labels.get(selector) });
+    const original = [mistborn.name, character.name, rules.name, worldRules.name];
+    const expected = language === 'ru' ? [
+      'Справочник «Рождённый туманом» (Mistborn Handbook)',
+      'Особенности персонажа (Character Features)', 'Правила (Rules)', worldRules.name
+    ] : original;
+    assert.deepEqual([...labels.values()].map(label => label.textContent), expected);
+    assert.deepEqual([mistborn.name, character.name, rules.name, worldRules.name], original);
+  } finally {
+    game.packs = originalPacks;
+  }
+}
 
 function withoutBabele(document) {
   const clean = structuredClone(document);
@@ -84,6 +119,23 @@ function withoutBabele(document) {
 function rulesMarkup(text) {
   const tokens = /<span class="cosmere-icon[^"]*">[^<]*<\/span>|<[^>]+>|@(?:UUID|Embed)\[[^\]]+\]|\[\[[^\]]+\]\]/g;
   return text.match(tokens) ?? [];
+}
+
+function verifyEffects(source, after, patch) {
+  const effects = source.effects ?? [];
+  assert.deepEqual(Object.keys(patch.effects ?? {}).sort(), effects.map(effect => effect._id).sort());
+  assert.deepEqual(after.effects?.map(effect => effect._id), source.effects?.map(effect => effect._id));
+  for (const [index, effect] of effects.entries()) {
+    const translated = after.effects[index];
+    const expected = patch.effects[effect._id];
+    assert(/[а-яё]/i.test(expected.name), `Нет перевода эффекта: ${effect._id}`);
+    assert.equal(translated.name, expected.name);
+    if (effect.description) {
+      assert(/[а-яё]/i.test(expected.description ?? ''), `Нет описания эффекта: ${effect._id}`);
+      assert.equal(translated.description, expected.description);
+      assert.deepEqual(rulesMarkup(translated.description), rulesMarkup(effect.description));
+    }
+  }
 }
 
 // Cosmere переносит system.__embedded.items в items при обработке ответа
@@ -135,6 +187,22 @@ for (const { language, enabled } of [
     'Перевод должен относиться к коллекции официального модуля');
   assert.equal(session.mappedCompendiums.packs.size, snapshot.manifest.packs.length);
 
+  for (const [name, pack] of Object.entries(snapshot.packs)) {
+    const packCollection = `${snapshot.manifest.id}.${name}`;
+    const payload = translations.get(name);
+    assert.deepEqual(new Set(Object.keys(payload.entries)), new Set(pack.documents.map(document => document._id)));
+    const folders = new Map(pack.folders.map(folder => [folder._id, structuredClone(folder)]));
+    assert.deepEqual(new Set(Object.keys(payload.folders ?? {})), new Set(pack.folders.map(folder => folder.name)));
+    session.translatePackFolders({ collection: packCollection, folders });
+    for (const source of pack.folders) {
+      const actual = folders.get(source._id);
+      const title = payload.folders[source.name];
+      assert(title.endsWith(` (${source.name})`) && /[а-яё]/i.test(title));
+      assert.deepEqual(actual, translated ? { ...source, name: title, originalName: source.name } : source);
+    }
+  }
+  if (enabled) verifyCompendiumDirectory(language);
+
   for (const [id, expected] of Object.entries(translation.entries)) {
     const source = snapshot.packs.handbook.documents.find(document => document._id === id);
     assert(source, `Нет документа оригинала: ${id}`);
@@ -144,14 +212,15 @@ for (const { language, enabled } of [
       continue;
     }
     assert.equal(result._id, source._id);
-    assert.equal(result.name, expected.name ?? source.name);
+    assert.equal(result.name, expected.name);
+    assert.deepEqual(Object.keys(expected.pages).sort(), source.pages.map(page => page._id).sort());
     assert.equal(result.pages.length, source.pages.length);
     for (const [index, page] of source.pages.entries()) {
       const after = result.pages[index];
       const patch = expected.pages[page._id];
       assert.equal(after._id, page._id);
-      assert.equal(after.name, patch?.name ?? page.name);
-      assert.equal(after.text.content, patch?.text ?? page.text.content);
+      assert.equal(after.name, patch.name);
+      assert.equal(after.text.content, patch.text);
       // Тексты могут добавлять явные HTML-якоря. У четырёх ссылок исправлена страница назначения.
       const references = text => Array.from(text.matchAll(
         /@(?:UUID|Embed)\[[^\]]+\]|(?:href|src)="[^"]*"|\[\[[^\]]+\]\]/g
@@ -209,22 +278,26 @@ for (const { language, enabled } of [
     const mechanics = withoutBabele(result);
     mechanics.name = source.name;
     mechanics.system.description.value = source.system.description.value;
+    mechanics.effects = source.effects;
     mechanics.items = resultActions.map((item, index) => {
       if (!entry.actions[item._id]) return item;
       const clean = withoutBabele(item);
       const originalItem = sourceActions[index];
       clean.name = originalItem.name;
       clean.system.description.value = originalItem.system.description.value;
+      clean.system.description.chat = originalItem.system.description.chat;
+      clean.system.description.short = originalItem.system.description.short;
+      clean.effects = originalItem.effects;
       return clean;
     });
     assert.deepEqual(mechanics, source, `Изменились поля силы вне перевода: ${source.name}`);
   }
   assert.deepEqual(snapshot.packs['metallic-arts'].documents, originalArts, 'Исходные силы изменены');
 
-  // Таланты, деревья талантов, наследия и предметы: меняются только тексты и подписи.
-  for (const packName of ['heroic-paths', 'metalborn-paths', 'ancestries', 'cultures', 'metallic-arts', 'items']) {
+  // Сравниваем данные остальных компендиумов после прохождения через обёртку Babele.
+  for (const packName of Object.keys(snapshot.packs).filter(name => name !== 'handbook')) {
     const collectionName = `${snapshot.manifest.id}.${packName}`;
-    const packTranslation = await readJson(path.join(root, `translations/ru/${collectionName}.json`));
+    const packTranslation = translations.get(packName);
     let labelsTranslated = 0;
     let actionsTranslated = 0;
     for (const originalDocument of snapshot.packs[packName].documents) {
@@ -241,16 +314,66 @@ for (const { language, enabled } of [
         assert.deepEqual(after, source, `Без перевода нужен оригинал: ${packName}/${source.name}`);
         continue;
       }
+      const entry = packTranslation.entries[source._id];
+      assert.equal(after.name, entry.name, `${packName}/${source.name}`);
+      verifyEffects(source, after, entry);
+      if (packName === 'macros' && source._id === '4vNksvMjGfSp2KHg') {
+        const localizedName = '`Кости (bones): ${targetedActor.name}`';
+        assert.equal(after.command.split(localizedName).length, 3);
+        assert.equal(after.command
+          .replaceAll(localizedName, "`${targetedActor.name}'s bones`")
+          .replace('"персонаж не указан"', '"UNDEFINED ACTOR"')
+          .replace('"цель не указана"', '"UNDEFINED TARGET"'), source.command);
+        after.command = source.command;
+      }
+      for (const key of ['value', 'chat', 'short']) {
+        const patch = entry[key === 'value' ? 'description' : key];
+        if (patch !== undefined) assert.equal(after.system.description[key], patch);
+      }
+      const items = source.items ?? [];
+      const embedded = entry.actions ?? entry.items ?? {};
+      assert.deepEqual(new Set(Object.keys(embedded)), new Set(items.map(item => item._id)),
+        `Покрытие вложенных предметов: ${packName}/${source._id}`);
+      for (const item of items) {
+        const patch = embedded[item._id];
+        const actual = after.items.find(candidate => candidate._id === item._id);
+        assert.equal(actual.name, patch.name);
+        assert.equal(actual.system.description.value, patch.description);
+        verifyEffects(item, actual, patch);
+        if (packName === 'items') {
+          assert.deepEqual(rulesMarkup(actual.system.description.value), rulesMarkup(item.system.description.value));
+        }
+        for (const key of ['chat', 'short']) {
+          const originalText = item.system.description[key];
+          if (!originalText) continue;
+          const location = `${packName}/${source._id}/${item._id}/${key}`;
+          assert(/[а-яё]/i.test(patch[key] ?? ''), `Нет перевода поля: ${location}`);
+          assert.equal(actual.system.description[key], patch[key], `Babele пропустил поле: ${location}`);
+          assert.deepEqual(rulesMarkup(actual.system.description[key]), rulesMarkup(originalText), location);
+        }
+      }
+      for (const row of source.results ?? []) {
+        const patch = entry.results[row._id];
+        const actual = after.results.find(candidate => candidate._id === row._id);
+        assert.equal(actual.name, patch.name ?? row.name);
+        assert.equal(actual.description, patch.description ?? row.description);
+      }
+      if (source.prototypeToken?.name) {
+        assert(/[а-яё]/i.test(entry.tokenName ?? ''), `Нет имени токена: ${source._id}`);
+        assert.equal(after.prototypeToken.name, entry.tokenName);
+      }
       const allowed = [
         /^name$/, /^system\.description\.(value|chat|short)$/,
         /^system\.(nodes|events)\..*\.(label|description|pickPromptTitle)$/,
-        /^items\.\d+\.name$/, /^items\.\d+\.system\.description\.(value|chat|short)$/
+        /^items\.\d+\.name$/, /^items\.\d+\.system\.description\.(value|chat|short)$/,
+        /^(?:items\.\d+\.)?effects\.\d+\.(name|description)$/,
+        /^prototypeToken\.name$/, /^results\.\d+\.(name|description)$/
       ];
       const walk = (before, now, where) => {
         if (typeof before === 'string' && typeof now === 'string') {
           if (before === now) return;
           assert(allowed.some(rule => rule.test(where)), `Изменено вне перевода: ${packName}/${source.name}: ${where}`);
-          if (/\.(label|description|pickPromptTitle)$/.test(where)) labelsTranslated += 1;
+          if (/^system\.(nodes|events)\./.test(where)) labelsTranslated += 1;
           if (/^items\./.test(where)) actionsTranslated += 1;
           return;
         }
@@ -265,13 +388,14 @@ for (const { language, enabled } of [
         delete clean.translated; delete clean.hasTranslation; delete clean.originalName;
         if (clean.flags) delete clean.flags.babele;
         if (Array.isArray(clean.items)) clean.items = clean.items.map(stripBabele);
+        if (Array.isArray(clean.results)) clean.results = clean.results.map(stripBabele);
+        if (Array.isArray(clean.effects)) clean.effects = clean.effects.map(stripBabele);
         return clean;
       };
       walk(source, stripBabele(after), '');
     }
     if (translated) {
-      assert(actionsTranslated > 0 || packName === 'items' || packName === 'cultures', `Вложенные действия не переведены: ${packName}`);
-      if (packName !== 'items' && packName !== 'ancestries' && packName !== 'cultures') assert(labelsTranslated > 0, `Подписи узлов не переведены: ${packName}`);
+      if (['heroic-paths', 'metalborn-paths', 'metallic-arts'].includes(packName)) assert(labelsTranslated > 0, `Подписи узлов не переведены: ${packName}`);
       if (packName === 'cultures') {
         const lists = snapshot.packs.cultures.documents.filter(document => /Names/.test(document.system?.description?.value ?? ''));
         assert(lists.length >= 12, 'Нет культур со списками имён');

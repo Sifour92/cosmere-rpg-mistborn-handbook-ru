@@ -5,6 +5,11 @@
     "chat": "system.description.chat",
     "short": "system.description.short"
   },
+  "folders": {
+    "Allomancy": "Алломантия (Allomancy)",
+    "Basic": "Базовые действия (Basic)",
+    "Metallic Arts": "Металлические искусства (Metallic Arts)"
+  },
   "entries": {
     "ehYX5usckYd0wiFK": {
       "name": "Выпить флакон (Drink Vial)",

@@ -15,16 +15,57 @@ function translateKeys(value, keys) {
   return value;
 }
 
+function translateBonesCommand(command, _translation, macro) {
+  if (macro?._id !== '4vNksvMjGfSp2KHg' || typeof command !== 'string') return command;
+  // Подписи предмета и эффекта. Имена переменных и выражение с именем цели сохраняются.
+  const originalName = "`${targetedActor.name}'s bones`";
+  if (command.split(originalName).length !== 3) return command;
+  return command
+    .replaceAll(originalName, '`Кости (bones): ${targetedActor.name}`')
+    .replace('"UNDEFINED ACTOR"', '"персонаж не указан"')
+    .replace('"UNDEFINED TARGET"', '"цель не указана"');
+}
+
 Hooks.once('babele.init', babele => {
   babele.registerConverters({
     cosmereTreeLabels: value => translateKeys(value, ['label', 'description']),
-    cosmereEventLabels: value => translateKeys(value, ['pickPromptTitle'])
+    cosmereEventLabels: value => translateKeys(value, ['pickPromptTitle']),
+    cosmereBonesCommand: translateBonesCommand
   });
   babele.register({
     module: 'cosmere-rpg-mistborn-handbook-ru',
     lang: 'ru',
     dir: 'translations/ru'
   });
+});
+
+const compendiumFolderNames = new Map([
+  ['Mistborn Handbook', 'Справочник «Рождённый туманом» (Mistborn Handbook)'],
+  ['Character Features', 'Особенности персонажа (Character Features)'],
+  ['Rules', 'Правила (Rules)']
+]);
+
+Hooks.on('renderCompendiumDirectory', (_directory, element) => {
+  if (game.i18n.lang !== 'ru') return;
+
+  // Группы в боковой панели Foundry хранит как папки мира. Меняем подписи
+  // только у групп исходного модуля, не затрагивая одноимённые папки мира.
+  const folders = new Set();
+  for (const pack of game.packs) {
+    if (pack.metadata.packageName !== 'cosmere-rpg-mistborn-handbook' || !pack.folder) continue;
+    const folder = pack.folder;
+    const root = folder.folder ?? folder;
+    if (root.folder || (root.originalName ?? root.name) !== 'Mistborn Handbook') continue;
+    folders.add(root);
+    folders.add(folder);
+  }
+
+  for (const folder of folders) {
+    const name = compendiumFolderNames.get(folder.originalName ?? folder.name);
+    if (!name) continue;
+    const heading = element.querySelector(`[data-folder-id="${folder.id}"] > .folder-header .folder-name`);
+    if (heading) heading.textContent = name;
+  }
 });
 
 // Foundry прокручивает к якорю до того, как Mistborn Handbook оформляет журнал.
