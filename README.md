@@ -134,11 +134,14 @@ npm run pack    # соберёт dist/cosmere-rpg-mistborn-handbook-ru.zip
    способом через Foundry и включить его в мире Cosmere RPG.
 2. Установить Babele и его зависимости. Babele применяет перевод к документам
    оригинала.
-3. Распаковать ZIP перевода в `Data/modules/` (собирается `npm run pack`; папка должна называться ровно `cosmere-rpg-mistborn-handbook-ru`, без версии и суффиксов, иначе Foundry пишет «Invalid module»). Должен получиться файл
-   `Data/modules/cosmere-rpg-mistborn-handbook-ru/module.json` рядом с папкой
-   оригинала `Data/modules/cosmere-rpg-mistborn-handbook/`.
-4. Перезапустить Foundry для обнаружения дополнения. В управлении модулями
-   включить «Русский перевод для официального Mistborn Handbook», Babele
+3. На экране настройки Foundry открыть **Add-on Modules → Install Module**
+   и вставить в поле **Manifest URL** следующий адрес. Нажать **Install**.
+
+   ```text
+   https://github.com/Sifour92/cosmere-rpg-mistborn-handbook-ru/releases/latest/download/module.json
+   ```
+
+4. В управлении модулями мира включить «Русский перевод для официального Mistborn Handbook», Babele
    и его зависимости. Официальный модуль должен оставаться включённым.
 5. Выбрать русский язык Foundry и перезагрузить клиент.
 6. Открыть книгу в компендиуме официального модуля. Готовые переводы
@@ -194,13 +197,35 @@ npm run pack    # соберёт dist/cosmere-rpg-mistborn-handbook-ru.zip
 для журналов и Roboto Condensed для остального интерфейса. Стили действуют
 только при русском языке и включённом дополнении.
 
-Для обновления заменить файлы в `Data/modules/cosmere-rpg-mistborn-handbook-ru/`
-файлами нового ZIP и перезапустить Foundry, затем перезагрузить клиент.
+## Обновление
+
+На экране настройки Foundry открыть **Add-on Modules** и нажать **Update**
+рядом с модулем перевода. Foundry проверит ту же ссылку и установит новую
+версию, когда она появится.
+
+Если у вас уже установлена старая версия вручную, один раз скачайте ZIP
+из [последнего релиза](https://github.com/Sifour92/cosmere-rpg-mistborn-handbook-ru/releases/latest).
+Распакуйте его в `Data/modules/` с заменой файлов папки
+`cosmere-rpg-mistborn-handbook-ru` и перезапустите Foundry. В новом манифесте
+уже есть адрес для дальнейших обновлений.
 
 ## Разработка
 
 Для проверки нужен Node.js 20 или новее с npm. Внешних npm-зависимостей
 на этом этапе нет; запускать `npm install` не требуется.
+
+### Выпуск версии
+
+1. Увеличьте `version` в `module.json` и `package.json` до одного и того же
+   номера. Проверьте изменения командой `npm run check`.
+2. Отправьте изменения в рабочей ветке и влейте их в основную через pull
+   request. Обновите локальную основную ветку командой `git pull --ff-only`
+   и поставьте тег на коммите с выпущенной версией. Для версии `0.2.1`
+   это `git tag v0.2.1` и `git push origin v0.2.1`.
+3. Проверьте публикацию во вкладке **Actions**. GitHub Actions соберёт ZIP,
+   прикрепит его и `module.json` к релизу и отметит его как **Latest**.
+   Ссылка установки будет работать, когда GitHub начнёт отдавать оба файла
+   без входа в аккаунт.
 
 Из корня этого проекта:
 
