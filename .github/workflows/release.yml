@@ -1,6 +1,7 @@
 name: Publish Foundry module
 
 on:
+  workflow_dispatch:
   push:
     tags:
       - 'v*'
@@ -10,11 +11,13 @@ permissions:
 
 jobs:
   release:
+    if: github.event_name == 'push' || (github.ref_type == 'branch' && github.ref_name == github.event.repository.default_branch)
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
         with:
           persist-credentials: false
+          fetch-depth: 0
       - uses: actions/setup-node@v6
         with:
           node-version: '24'
@@ -22,15 +25,25 @@ jobs:
       - name: Verify version and build
         run: |
           version=$(node -p 'require("./module.json").version')
-          if [[ ! "$version" =~ ^[0-9]+\.[0-9]+\.[0-9]+$ || "$GITHUB_REF_NAME" != "v$version" ]]; then
-            echo "Expected a release tag matching module.json (v$version)."
+          if [[ ! "$version" =~ ^[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
+            echo "Expected a release version in module.json (major.minor.patch)."
+            exit 1
+          fi
+          tag="v$version"
+          if [[ "$GITHUB_REF_TYPE" == tag && "$GITHUB_REF_NAME" != "$tag" ]]; then
+            echo "Expected a release tag matching module.json ($tag)."
+            exit 1
+          fi
+          if tagged_commit=$(git rev-parse --verify --quiet "refs/tags/$tag^{commit}") && [[ "$tagged_commit" != "$GITHUB_SHA" ]]; then
+            echo "$tag already points to another commit."
             exit 1
           fi
           npm run check
           npm run pack
+          echo "RELEASE_TAG=$tag" >> "$GITHUB_ENV"
       - name: Publish release
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh release create "$GITHUB_REF_NAME" dist/module.json dist/cosmere-rpg-mistborn-handbook-ru.zip \
-            --verify-tag --latest --title "$GITHUB_REF_NAME" --generate-notes
+          gh release create "$RELEASE_TAG" dist/module.json dist/cosmere-rpg-mistborn-handbook-ru.zip \
+            --target "$GITHUB_SHA" --latest --title "$RELEASE_TAG" --generate-notes
