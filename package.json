@@ -1,6 +1,6 @@
 {
   "name": "cosmere-rpg-mistborn-handbook-ru",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "private": true,
   "description": "Инструменты разработки русского перевода Mistborn Handbook для Foundry VTT.",
   "type": "module",
