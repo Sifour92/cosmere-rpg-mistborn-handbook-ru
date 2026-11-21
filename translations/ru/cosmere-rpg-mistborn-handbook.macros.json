@@ -1,5 +1,11 @@
 {
   "label": "Макросы (Macros)",
+  "mapping": {
+    "command": {
+      "path": "command",
+      "converter": "cosmereBonesCommand"
+    }
+  },
   "entries": {
     "4vNksvMjGfSp2KHg": {
       "name": "Поглотить кости (Absorb Bones)"

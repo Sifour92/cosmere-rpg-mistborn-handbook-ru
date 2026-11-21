@@ -2,6 +2,7 @@
   "COSMERE": {
     "Actor": {
       "Skill": {
+        "Allomancy": "Алломантия (Allomancy)",
         "all": "Алломантия (Allomancy)",
         "fer": "Ферухимия (Feruchemy)"
       }

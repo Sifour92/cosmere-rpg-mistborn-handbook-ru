@@ -1,8 +1,8 @@
 {
   "id": "cosmere-rpg-mistborn-handbook-ru",
   "title": "Русский перевод для официального Mistborn Handbook",
-  "description": "Русский перевод для официального cosmere-rpg-mistborn-handbook. Требует активного оригинала и Babele. Переведены все 12 компендиумов (916 документов): книга, Металлические искусства, пути, наследия, культуры, предметы, действия, таблицы, спутники-животные и 76 строк интерфейса.",
-  "version": "0.2.1",
+  "description": "Русский перевод для официального cosmere-rpg-mistborn-handbook. Требует активного оригинала и Babele. Переведены 12 компендиумов (916 документов), их папки и строки интерфейса справочника.",
+  "version": "0.2.2",
   "url": "https://github.com/Sifour92/cosmere-rpg-mistborn-handbook-ru",
   "manifest": "https://github.com/Sifour92/cosmere-rpg-mistborn-handbook-ru/releases/latest/download/module.json",
   "compatibility": {
