@@ -32,7 +32,8 @@
   src: url("../../../systems/cosmere-rpg/assets/fonts/roboto-condensed/RobotoCondensed-BoldItalic.woff2") format("woff2");
 }
 
-html[lang="ru"] {
+/* Пакет ru-ru задаёт свои переменные на :root. Переопределяем их в мире Cosmere. */
+html[lang="ru"] body.system-cosmere-rpg {
   --ru-font: "RU Sans", "Roboto Condensed", "Arial Narrow", sans-serif;
   --cosmere-font-normal: var(--ru-font);
   --cosmere-font-header: var(--ru-font);
@@ -43,9 +44,12 @@ html[lang="ru"] {
 
 /* Только русская версия официального справочника и его импортированных журналов. */
 html[lang="ru"] .sheet.journal-entry.mbjhb .journal-entry-page {
-  font-weight: 400;
   font-size: 1rem;
   line-height: 1.5;
+}
+
+html[lang="ru"] .sheet.journal-entry.mbjhb .journal-page-content {
+  font-weight: 400;
 }
 
 html[lang="ru"] .sheet.journal-entry.mbjhb .journal-page-header h1 {

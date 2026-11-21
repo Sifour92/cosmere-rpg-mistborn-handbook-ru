@@ -46,12 +46,12 @@ globalThis.game = {
     ...pack, packageName: snapshot.manifest.id, packageType: 'module'
   })) }
 };
-const hooks = [];
+const hooks = new Map();
 let renderCompendiumDirectory;
 globalThis.Hooks = {
   once(event, callback) {
-    assert.equal(event, 'babele.init');
-    hooks.push(callback);
+    assert.ok(!hooks.has(event), `Повторная регистрация ${event}`);
+    hooks.set(event, callback);
   },
   on(event, callback) {
     if (event === 'renderCompendiumDirectory') renderCompendiumDirectory = callback;
@@ -60,7 +60,7 @@ globalThis.Hooks = {
   callAll: () => true
 };
 await importFrom(root, 'scripts/register.mjs');
-assert.equal(hooks.length, 1, 'Ожидается регистрация перевода через babele.init');
+assert.ok(hooks.has('babele.init'), 'Ожидается регистрация перевода через babele.init');
 const { Babele } = await importFrom(babelePath, 'script/core/babele.js');
 const { translateResult } = await importFrom(babelePath, 'script/foundry/wrapper.js');
 assert.equal(typeof Babele.create, 'function', 'Нужен API Babele 2.9.1');
@@ -178,7 +178,7 @@ for (const { language, enabled } of [
 ]) {
   // При отключённом модуле Foundry не исполняет его esmodules.
   const engine = Babele.create({ registerConfiguredDirectory: false });
-  if (enabled) hooks[0](engine);
+  if (enabled) hooks.get('babele.init')(engine);
   const session = await engine.session(language);
   const translated = language === 'ru' && enabled;
   assert.equal(session.isTranslated(collection), translated);
