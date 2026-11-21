@@ -1,5 +1,9 @@
 import { LABELS } from './labels.mjs';
 
+const moduleId = 'cosmere-rpg-mistborn-handbook-ru';
+const handbookPack = 'cosmere-rpg-mistborn-handbook.handbook';
+const handbookJournalSource = `Compendium.${handbookPack}.JournalEntry.`;
+
 // Подписи в данных деревьев талантов (требования узлов) и заголовки диалогов выбора
 // заменяются по точному совпадению английской строки; структура данных не меняется.
 function translateKeys(value, keys) {
@@ -33,10 +37,24 @@ Hooks.once('babele.init', babele => {
     cosmereBonesCommand: translateBonesCommand
   });
   babele.register({
-    module: 'cosmere-rpg-mistborn-handbook-ru',
+    module: moduleId,
     lang: 'ru',
     dir: 'translations/ru'
   });
+});
+
+Hooks.once('libWrapper.Ready', () => {
+  libWrapper.register(moduleId, 'foundry.applications.sheets.journal.JournalEntrySheet.prototype._configureRenderOptions',
+    function (wrapped, options) {
+      const { pack, _stats } = this.document;
+      // Foundry сохраняет последнюю страницу после закрытия окна.
+      if (game.i18n.lang === 'ru' && options.isFirstRender
+          && options.pageId == null && options.pageIndex == null && !options.anchor
+          && (pack === handbookPack || _stats?.compendiumSource?.startsWith(handbookJournalSource))) {
+        options.pageIndex = 0;
+      }
+      return wrapped(options);
+    }, 'WRAPPER');
 });
 
 const compendiumFolderNames = new Map([
@@ -77,7 +95,7 @@ const chapterSixAnchors = new Map([
 
 Hooks.on('renderJournalEntrySheet', (sheet, element, _context, options) => {
   if (game.i18n.lang !== 'ru'
-      || sheet.document.uuid !== 'Compendium.cosmere-rpg-mistborn-handbook.handbook.JournalEntry.Wdux6AlRp01Ox3EQ') {
+      || sheet.document.uuid !== `${handbookJournalSource}Wdux6AlRp01Ox3EQ`) {
     return;
   }
   const target = chapterSixAnchors.get(options?.anchor);
