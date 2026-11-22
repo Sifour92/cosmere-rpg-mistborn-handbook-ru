@@ -9,7 +9,8 @@ ROOT=$PWD
 T=$(mktemp -d)
 trap 'rm -rf "$T"' EXIT
 mkdir "$T/$ID"
-cp -R AGENTS.md README.md docs lang scripts styles translations "$T/$ID/"
+cp -R lang scripts styles translations "$T/$ID/"
+cp docs/installation.md "$T/$ID/README.md"
 node --input-type=module <<'JS' > "$T/$ID/module.json"
 import { readFileSync } from 'node:fs';
 
